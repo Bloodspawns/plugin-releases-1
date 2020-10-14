@@ -129,7 +129,7 @@ This will swap the `take` option on `shark` when hovering over **anything** but 
     - Example: `attack,husk*`
     If you have the plugin `Opponent Information` turned on with the option `Show opponents in menu` prefix target name with an asterisks
     - Example: `attack,*husk*`
-    - 
+    
 **Demonstration**
 https://streamable.com/h5jtd8
 
