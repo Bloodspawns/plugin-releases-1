@@ -10,17 +10,17 @@
 ### My Plugins List
 | Plugin | VERSION | DOWNLOAD | DETAILS |
 | ------ | ------ | ------ | ------ |
-| ToB Additions | 0.23 | [Click Here]() | [Click Here](#tob-additions) |
-| Kills Per Hour | 0.2 | [Click Here]() | [Click Here](#kills-per-hour) |
-| Fight Caves Spawn Predictor | 0.1 | [Click Here]() | [Click Here](#spawn-predictor) |
-| Custom Swapper | 0.10 | [Click Here]() | [Click Here](#custom-swapper) |
-| Nightmare Extended | 0.3 | [Click Here]() | [Click Here](#nightmare-extended) |
-| Animation Cooldown | 0.2 | [Click Here]() | [Click Here](#animation-cooldown) |
-| Grotesque Guardians | 0.3 | [Click Here]() | [Click Here](#grotesque-guardians) |
-| Olm Additions | 0.1 | [Click Here]() | [Click Here](#olm-additions) |
-| Vorkath | 0.1 | [Click Here]() | [Click Here](#vorkath) |
+| ToB Additions | 0.23 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tobadditions.jar) | [Click Here](#tob-additions) |
+| Kills Per Hour | 0.2 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/killsperhour.jar) | [Click Here](#kills-per-hour) |
+| Fight Caves Spawn Predictor | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/spawnpredictor.jar) | [Click Here](#spawn-predictor) |
+| Custom Swapper | 0.10 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/menuentryswapper.jar) | [Click Here](#custom-swapper) |
+| Nightmare Extended | 0.3 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/znightmare.jar) | [Click Here](#nightmare-extended) |
+| Animation Cooldown | 0.2 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/animationcooldown.jar) | [Click Here](#animation-cooldown) |
+| Grotesque Guardians | 0.3 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/grotesqueguardians.jar) | [Click Here](#grotesque-guardians) |
+| Olm Additions | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/olmadditions.jar) | [Click Here](#olm-additions) |
+| Vorkath | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/vorkath.jar) | [Click Here](#vorkath) |
 | Lizardmen Shaman | 0.1 | [Click Here]() | [Click Here](#lizardmen-shaman) |
-| Developer Tools | 0.1 | [Click Here]() | [Click Here](#developer-tools) |
+| Developer Tools | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/developertools.jar) | [Click Here](#developer-tools) |
 
 ### Old RuneLite Plugins List
 | Plugin | VERSION | DOWNLOAD |
