@@ -25,8 +25,8 @@
 ### Old RuneLite Plugins List
 | Plugin | VERSION | DOWNLOAD |
 | ------ | ------ | ------ |
-| Demonic Gorillas | 0.1 | [Click Here](./releases/opponentinfo.jar) |
-| Opponent Information | 0.1 | [Click Here](./releases/demonicgorilla.jar) |
+| Demonic Gorillas | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/opponentinfo.jar) |
+| Opponent Information | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/demonicgorilla.jar) |
 
 # Plugin Features/Changelogs
 
