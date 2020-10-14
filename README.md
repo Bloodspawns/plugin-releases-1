@@ -266,6 +266,7 @@ Displays all NPC Events and details about said NPC
 Supports: Players/NPCs and Projectiles
 ```
 **Notes**
+
 If you'd like more options added to make plugin development easier without writing up quick test plugins to see everything or `log.debug`'ing everything and reading through spam let me know.
 
 
