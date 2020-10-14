@@ -102,8 +102,10 @@ Displays the ongoing rotation for that time, and the upcoming rotation in x amou
 - Removing Options
 ```
 **Syntax Configuration**
+
 Configs are trimmed, so it allows for spaces inbetween commas
 Examples: `guzzle,dwarven rock cake` & `guzzle, dwarven rock cake` will work
+
 - Custom Swaps/Remove Options
     - Syntax: `option,target`
     - Example: `guzzle,dwarven rock cake`
