@@ -10,17 +10,17 @@
 ### My Plugins List
 | Plugin | VERSION | DOWNLOAD | DETAILS |
 | ------ | ------ | ------ | ------ |
-| ToB Additions | 0.23 | [Click Here]() | [Click Here]() |
-| Kills Per Hour | 0.2 | [Click Here]() | [Click Here]() |
-| Fight Caves Spawn Predictor | 0.1 | [Click Here]() | [Click Here]() |
-| Custom Swapper | 0.10 | [Click Here]() | [Click Here]() |
-| Nightmare Extended | 0.3 | [Click Here]() | [Click Here]() |
-| Animation Cooldown | 0.2 | [Click Here]() | [Click Here]() |
-| Grotesque Guardians | 0.3 | [Click Here]() | [Click Here]() |
-| Olm Additions | 0.1 | [Click Here]() | [Click Here]() |
-| Vorkath | 0.1 | [Click Here]() | [Click Here]() |
-| Lizardmen Shamen | 0.1 | [Click Here]() | [Click Here]() |
-| Developer Tools | 0.1 | [Click Here]() | [Click Here]() |
+| ToB Additions | 0.23 | [Click Here]() | [Click Here](#tob-additions) |
+| Kills Per Hour | 0.2 | [Click Here]() | [Click Here](#kills-per-hour) |
+| Fight Caves Spawn Predictor | 0.1 | [Click Here]() | [Click Here](#spawn-predictor) |
+| Custom Swapper | 0.10 | [Click Here]() | [Click Here](#custom-swapper) |
+| Nightmare Extended | 0.3 | [Click Here]() | [Click Here](#nightmare-extended) |
+| Animation Cooldown | 0.2 | [Click Here]() | [Click Here](#animation-cooldown) |
+| Grotesque Guardians | 0.3 | [Click Here]() | [Click Here](#grotesque-guardians) |
+| Olm Additions | 0.1 | [Click Here]() | [Click Here](#olm-additions) |
+| Vorkath | 0.1 | [Click Here]() | [Click Here](#vorkath) |
+| Lizardmen Shamen | 0.1 | [Click Here]() | [Click Here](#lizardmen-shamen) |
+| Developer Tools | 0.1 | [Click Here]() | [Click Here](#developer-tools) |
 
 ### Old RuneLite Plugins List
 | Plugin | VERSION | DOWNLOAD |
