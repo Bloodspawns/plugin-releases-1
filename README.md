@@ -131,6 +131,7 @@ Examples: `guzzle,dwarven rock cake` & `guzzle, dwarven rock cake` will work
     - Example: `attack,husk*`
 
 If you have the plugin `Opponent Information` turned on with the option `Show opponents in menu` prefix target name with an asterisks
+
     - Example: `attack,*husk*`
     
 **Demonstration**
