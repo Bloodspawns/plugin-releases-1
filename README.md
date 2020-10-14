@@ -112,15 +112,14 @@ Examples: `guzzle,dwarven rock cake` & `guzzle, dwarven rock cake` will work
     - Example: `guzzle,dwarven rock cake`
 - Swap menu options conditionally **OPTIONAL**
     - Syntax: `option,target,top_entry,top_target`
-    - Example: `take,shark,take,*`, This will swap the `take` option on `shark` when hovering over **anything** but the top left click entry **HAS** to be `take`
+    - Example: `take,shark,take,*` This will swap the `take` option on `shark` when hovering over **anything** but the top left click entry **HAS** to be `take`
 - Walk here prioritization when hovering over actors (Players and/or NPCs)
     - Syntax: `walk here,,top_entry,top_target`
     - Example: `walk here,,attack,cow*`
 
 **Wildcard Configuration**
 - Asterisks (*) as the target name: Swaps/Removes everything involving the set option
-    - Example: `chop down,*`
-    This will swap/remove every `chop down` option regardless of the tree name
+    - Example: `chop down,*` This will swap/remove every `chop down` option regardless of the tree name
 - Asterisks (*) after the target or option name: This essentially means `contains` if the target or option contains said input swap/remove it.
     - If you're swapping anything that involves NPCs or Players or Ground Items you need an asterisks after the target name.
         - Example: `attack,husk*`
@@ -131,7 +130,7 @@ Examples: `guzzle,dwarven rock cake` & `guzzle, dwarven rock cake` will work
     - Example: `attack,husk*`
 
 If you have the plugin `Opponent Information` turned on with the option `Show opponents in menu` prefix target name with an asterisks
-    - Example: `attack,*husk*`
+- Example: `attack,*husk*`
     
 **Demonstration**
 https://streamable.com/h5jtd8
