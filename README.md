@@ -19,7 +19,7 @@
 | Grotesque Guardians | 0.3 | [Click Here]() | [Click Here](#grotesque-guardians) |
 | Olm Additions | 0.1 | [Click Here]() | [Click Here](#olm-additions) |
 | Vorkath | 0.1 | [Click Here]() | [Click Here](#vorkath) |
-| Lizardmen Shamen | 0.1 | [Click Here]() | [Click Here](#lizardmen-shaman) |
+| Lizardmen Shaman | 0.1 | [Click Here]() | [Click Here](#lizardmen-shaman) |
 | Developer Tools | 0.1 | [Click Here]() | [Click Here](#developer-tools) |
 
 ### Old RuneLite Plugins List
@@ -236,7 +236,7 @@ Overlay changes color dependent on if you're praying correctly or not
 ```
 
 
-### Lizardmen Shamen
+### Lizardmen Shaman
 **Features**
 ```diff
 - Shaman Tick Counter
