@@ -68,8 +68,29 @@ Verzik:
 - Display who has the Green Ball
 ```
 **Changelog**
-```
-Lost in transit... sadcat, sadgecry, prayge
+```diff
++ 10/5/2020 - Added Dragon Darts to wheelchair
++ 10/5/2020 - Added P3 Xarpus Line of Sight
++ 10/11/2020 Added Maiden Nylo Freeze Timers
++ 10/11/2020 Added Maiden Heals Infobox to 'Maiden Heals'
++ 10/11/2020 Unspaghetti'd 'Bloat's In-depth HP'
++ 10/11/2020 Fixed Bloat's HP Bar removing the wrong widget
++ 10/11/2020 Fixed Bloat's HP Bar building a new widget post death
++ 10/11/2020 Fixed Bloat's HP Overlay displaying post death
++ 10/11/2020 Fixed Nylo Boss tick counters not being center
++ 10/11/2020 Fixed Sotetsegs attack counter displaying while room is inactive
++ 10/11/2020 Fixed Sotetsegs overlays displaying post death
++ 10/11/2020 Fixed Xarpus & Verzik not being reset
++ 10/11/2020 Fixed Xarpus showing healed chat messages whilst config is disabled
++ 10/11/2020 Changed Xarpus and Maiden 'Heals' config to be split into two chat messages
++ 10/11/2020 Fixed yellows showing post despawn
++ 10/11/2020 Updated/Removed a lot of outdated code
++ 10/11/2020 Plugin should reset on logout now
+- 10/11/2020 Removed 'HP Overlay Color'
+- 10/11/2020 Removed 'Verzik P3 Tank'
+- 10/11/2020 Removed 'DPS Statistics'
+- 10/11/2020 Removed 'Dif. Proj. Ticks'
+- 10/11/2020 Removed 'Verzik Phase Highlights'
 ```
 
 
