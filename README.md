@@ -8,7 +8,7 @@
 - If you experience any issues with the plugins not working feel free to ask for help in **#support**
 
 ### My Plugins List
-| Plugin | VERSION | DOWNLOAD | DETAILS |
+| PLUGIN NAME | VERSION | DOWNLOAD | DETAILS |
 | ------ | ------ | ------ | ------ |
 | ToB Additions | 0.23 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tobadditions.jar) | [Click Here](#tob-additions) |
 | Kills Per Hour | 0.2 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/killsperhour.jar) | [Click Here](#kills-per-hour) |
