@@ -112,8 +112,7 @@ Examples: `guzzle,dwarven rock cake` & `guzzle, dwarven rock cake` will work
     - Example: `guzzle,dwarven rock cake`
 - Swap menu options conditionally **OPTIONAL**
     - Syntax: `option,target,top_entry,top_target`
-    - Example: `take,shark,take,*`
-This will swap the `take` option on `shark` when hovering over **anything** but the top left click entry **HAS** to be `take`
+    - Example: `take,shark,take,*`, This will swap the `take` option on `shark` when hovering over **anything** but the top left click entry **HAS** to be `take`
 - Walk here prioritization when hovering over actors (Players and/or NPCs)
     - Syntax: `walk here,,top_entry,top_target`
     - Example: `walk here,,attack,cow*`
