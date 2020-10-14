@@ -19,7 +19,7 @@
 | Grotesque Guardians | 0.3 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/grotesqueguardians.jar) | [Click Here](#grotesque-guardians) |
 | Olm Additions | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/olmadditions.jar) | [Click Here](#olm-additions) |
 | Vorkath | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/vorkath.jar) | [Click Here](#vorkath) |
-| Lizardmen Shaman | 0.1 | [Click Here]() | [Click Here](#lizardmen-shaman) |
+| Lizardmen Shaman | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/zshaman.jar) | [Click Here](#lizardmen-shaman) |
 | Developer Tools | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/developertools.jar) | [Click Here](#developer-tools) |
 
 ### Old RuneLite Plugins List
