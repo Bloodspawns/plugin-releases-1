@@ -129,7 +129,8 @@ Examples: `guzzle,dwarven rock cake` & `guzzle, dwarven rock cake` will work
 - NPC/Player Prioritization
     - Syntax: `option_you_want_prioritized,target_you_want_prioritized`
     - Example: `attack,husk*`
-    If you have the plugin `Opponent Information` turned on with the option `Show opponents in menu` prefix target name with an asterisks
+
+If you have the plugin `Opponent Information` turned on with the option `Show opponents in menu` prefix target name with an asterisks
     - Example: `attack,*husk*`
     
 **Demonstration**
