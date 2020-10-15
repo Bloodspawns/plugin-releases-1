@@ -97,7 +97,46 @@ Verzik:
 
 ### Kills Per Hour
 Tracks your Kills Per Hour at bosses
-To be filled later
+
+**Click the start button right before you enter a room/instance or start a boss fight.**
+
+**FAQ**
+
+Q.) Why is the kill duration/fastest kill/average kill slightly off? I got a faster time in-game but not on the panel.
+
+A.) The plugin works like this: If an NPC is within the render distance and contains the name of the boss in the whitelist START the timer. STOP the timer if that same boss has despawned. RuneScape deals with durations differently. But I am not going to waste my time to make every boss unique and just going to generalize it.
+
+**Bosses that work but aren't whitelisted**
+If you're whitelisting multiple bosses split each boss name with a comma.
+- Example: `dagannoth supreme, dagannoth prime`
+```
+dagannoth supreme 
+dagannoth prime 
+dagannoth rex
+skotizo
+hespori
+the mimic
+bryophyta
+obor
+```
+**Bosses/Activities that don't/won't work**
+```
+Gauntlet
+ToB
+CoX
+Fight Caves
+Inferno
+Cave Kraken (for now)
+Abyssal Sire
+Barbarian Assault
+Giant Mole
+```
+**Changelog**
+```diff
++ 8/24/2020 - Added move-able overlay, with customizable settings to show on it. 
++ 8/24/2020 - Added a option to enable chat messages (displays KPH after each kill)
+```
+
 
 
 ### Spawn Predictor
