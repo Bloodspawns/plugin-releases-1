@@ -107,6 +107,7 @@ Q.) Why is the kill duration/fastest kill/average kill slightly off? I got a fas
 A.) The plugin works like this: If an NPC is within the render distance and contains the name of the boss in the whitelist START the timer. STOP the timer if that same boss has despawned. RuneScape deals with durations differently. But I am not going to waste my time to make every boss unique and just going to generalize it.
 
 **Bosses that work but aren't whitelisted**
+
 If you're whitelisting multiple bosses split each boss name with a comma.
 - Example: `dagannoth supreme, dagannoth prime`
 ```
