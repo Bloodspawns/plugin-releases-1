@@ -173,7 +173,10 @@ Examples: `guzzle,dwarven rock cake` & `guzzle, dwarven rock cake` will work
     - Example: `guzzle,dwarven rock cake`
 - Swap menu options conditionally **OPTIONAL**
     - Syntax: `option,target,top_entry,top_target`
-    - Example: `take,shark,take,*` This will swap the `take` option on `shark` when hovering over **anything** but the top left click entry **HAS** to be `take`
+    - Example: `take,shark,take,*` 
+    
+> **Note:** This will swap the `take` option on `shark` when hovering over **anything** but the top left click entry **HAS** to be `take`
+
 - Walk here prioritization when hovering over actors (Players and/or NPCs)
     - Syntax: `walk here,,top_entry,top_target`
     - Example: `walk here,,attack,cow*`
@@ -286,10 +289,16 @@ Yourself only. Can thank RuneLite for this
 - Prayer Helper 
 Overlay changes color dependent on if you're praying correctly or not
 ```
-**Notes**
-- Only works when there is 4 phases including the head phase
-- If you're late into the Olm room the timer will be off (This is for teams only & If you use de0s plugins you'll know about this issue)
-- If you end up dying in the Olm room the counter will be split into two chat messages for that corresponding phase. You will get one when you die showing how long you were alive for during that phase and one when the phase ends (If this happens the timer **can** occasionally be off no clue why). Pretty hard to combat this because of how RuneLite deals with NPCs and GameObjects, so if it happens just do some simple math and you'll be fine... or... just don't die
+> **Note:**
+
+> Only works when there is 4 phases including the head phase
+
+> If you're late into the Olm room the timer will be off (This is for teams only & If you use de0s plugins you'll know about this issue)
+
+> If you end up dying in the Olm room the counter will be split into two chat messages for that corresponding phase. You will get one when you die showing how long you were alive for during that phase and one when the phase ends (If this happens the timer **can** occasionally be off no clue why). Pretty hard to combat this because of how RuneLite deals with NPCs and GameObjects, so if it happens just do some simple math and you'll be fine... or... just don't die
+
+
+
 ### Vorkath
 **Features**
 ```diff
@@ -331,8 +340,6 @@ Displays all NPC Events and details about said NPC
 - Renderable Hider
 Supports: Players/NPCs and Projectiles
 ```
-**Notes**
-
-If you'd like more options added to make plugin development easier without writing up quick test plugins to see everything or `log.debug`'ing everything and reading through spam let me know.
+> **Note:** If you'd like more options added to make plugin development easier without writing up quick test plugins to see everything or `log.debug`'ing everything and reading through spam let me know.
 
 
