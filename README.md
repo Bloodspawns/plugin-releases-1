@@ -22,6 +22,18 @@
 | Lizardmen Shaman | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/zshaman.jar) | [Click Here](#lizardmen-shaman) |
 | Developer Tools | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/developertools.jar) | [Click Here](#developer-tools) |
 
+### To-Do List:
+- Plugins:
+    - Zulrah Plugin (WiP)
+    - Player Scouter
+    - Spellbook Resizer
+    - Spell Effect Timers
+- Updates:
+    - Update Spawn Predictor (:gottago:)
+    - Update ToB (Still cleaning up/removing useless stuff)
+    - Update KPH (Could use a rewrite for a better system & might include Socket)
+    - Fix Lizardmen Shaman Spawns Tick Counter
+
 ### Old RuneLite Plugins List
 | Plugin | VERSION | DOWNLOAD |
 | ------ | ------ | ------ |
