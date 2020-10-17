@@ -7,6 +7,19 @@
 - Drag and drop into **bexternalplugins** folder and restart your client
 - If you experience any issues with the plugins not working feel free to ask for help in **#support**
 
+### To-Do List:
+- Plugins:
+    - Zulrah Plugin (WiP)
+    - Player Scouter
+    - Spellbook Resizer
+    - Spell Effect Timers
+- Updates:
+    - Update Spawn Predictor (:gottago:)
+    - Update ToB (Still cleaning up/removing useless stuff)
+    - Update KPH (Could use a rewrite for a better system & might include Socket)
+    - Fix Lizardmen Shaman Spawns Tick Counter
+    - Completely re-make Olm Additions (Extremely outdated and could be converted to CoX Additions?)
+
 ### My Plugins List
 | PLUGIN NAME | VERSION | DOWNLOAD | DETAILS |
 | ------ | ------ | ------ | ------ |
@@ -21,19 +34,6 @@
 | Vorkath | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/vorkath.jar) | [Click Here](#vorkath) |
 | Lizardmen Shaman | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/zshaman.jar) | [Click Here](#lizardmen-shaman) |
 | Developer Tools | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/developertools.jar) | [Click Here](#developer-tools) |
-
-### To-Do List:
-- Plugins:
-    - Zulrah Plugin (WiP)
-    - Player Scouter
-    - Spellbook Resizer
-    - Spell Effect Timers
-- Updates:
-    - Update Spawn Predictor (:gottago:)
-    - Update ToB (Still cleaning up/removing useless stuff)
-    - Update KPH (Could use a rewrite for a better system & might include Socket)
-    - Fix Lizardmen Shaman Spawns Tick Counter
-    - Completely re-make Olm Additions (Extremely outdated and could be converted to CoX Additions?)
 
 ### Old RuneLite Plugins List
 | Plugin | VERSION | DOWNLOAD |
