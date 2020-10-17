@@ -33,6 +33,7 @@
     - Update ToB (Still cleaning up/removing useless stuff)
     - Update KPH (Could use a rewrite for a better system & might include Socket)
     - Fix Lizardmen Shaman Spawns Tick Counter
+    - Completely re-make Olm Additions (Extremely outdated and could be converted to CoX Additions?)
 
 ### Old RuneLite Plugins List
 | Plugin | VERSION | DOWNLOAD |
