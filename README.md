@@ -193,6 +193,9 @@ Examples: `guzzle,dwarven rock cake` & `guzzle, dwarven rock cake` will work
 - Walk here prioritization when hovering over actors (Players and/or NPCs)
     - Syntax: `walk here,,top_entry,top_target`
     - Example: `walk here,,attack,cow*`
+- Spell Swapping
+    - Syntax: `*,*username*,cast,spell_name*`
+    - Example: `*,*losing ticks*,cast,energy transfer*`
 
 **Wildcard Configuration**
 - Asterisks (*) as the target name: Swaps/Removes everything involving the set option
@@ -208,9 +211,6 @@ Examples: `guzzle,dwarven rock cake` & `guzzle, dwarven rock cake` will work
 - NPC/Player Prioritization
     - Syntax: `option_you_want_prioritized,target_you_want_prioritized`
     - Example: `attack,husk*`
-- Spell Swapping
-    - Syntax: `*,*username*,cast,spell_name*`
-    - Example: `*,*losing ticks*,cast,energy transfer*`
 
 If you have the plugin `Opponent Information` turned on with the option `Show opponents in menu` prefix target name with an asterisks
 - Example: `attack,*husk*`
