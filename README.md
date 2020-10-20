@@ -58,6 +58,7 @@ Bloat:
 
 Nylo:
 - (Boss) Attack/Switch Tick Counter
+- (Boss) Prayer Helper
 - Waves Wheelchair
 - Nylo Explosion Ticks
 
