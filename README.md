@@ -9,7 +9,6 @@
 
 ### To-Do List:
 - Plugins:
-    - Zulrah Plugin (WiP)
     - Player Scouter
     - Spellbook Resizer
     - Spell Effect Timers
