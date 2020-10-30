@@ -22,7 +22,7 @@
 ### My Plugins List
 | PLUGIN NAME | VERSION | DOWNLOAD | DETAILS |
 | ------ | ------ | ------ | ------ |
-| ToB Additions | 0.24 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tobadditions.jar) | [Click Here](#tob-additions) |
+| ToB Additions | 0.25 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tobadditions.jar) | [Click Here](#tob-additions) |
 | Kills Per Hour | 0.2 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/killsperhour.jar) | [Click Here](#kills-per-hour) |
 | Fight Caves Spawn Predictor | 0.2 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/spawnpredictor.jar) | [Click Here](#spawn-predictor) |
 | Custom Swapper | 0.10 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/menuentryswapper.jar) | [Click Here](#custom-swapper) |
@@ -106,6 +106,8 @@ Verzik:
 - 10/11/2020 Removed 'Dif. Proj. Ticks'
 - 10/11/2020 Removed 'Verzik Phase Highlights'
 + 10/19/2020 Added Nylo Boss Prayer Helper
++ 10/30/2020 Fixed Bloat HP not updating when Overlay display mode was selected
++ 10/30/2020 Optimized/Cleaned up the Nylo Prayer Helpers
 ```
 
 
