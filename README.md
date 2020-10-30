@@ -24,7 +24,7 @@
 | ------ | ------ | ------ | ------ |
 | ToB Additions | 0.24 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tobadditions.jar) | [Click Here](#tob-additions) |
 | Kills Per Hour | 0.2 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/killsperhour.jar) | [Click Here](#kills-per-hour) |
-| Fight Caves Spawn Predictor | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/spawnpredictor.jar) | [Click Here](#spawn-predictor) |
+| Fight Caves Spawn Predictor | 0.2 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/spawnpredictor.jar) | [Click Here](#spawn-predictor) |
 | Custom Swapper | 0.10 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/menuentryswapper.jar) | [Click Here](#custom-swapper) |
 | Nightmare Extended | 0.3 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/znightmare.jar) | [Click Here](#nightmare-extended) |
 | Zulrah | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/zulrah.jar) | [Click Here](#zulrah) |
@@ -168,7 +168,15 @@ Displays the ongoing rotation for that time, and the upcoming rotation in x amou
 - The plugin determines rotation on entrance and builds the entire fight caves before the first wave starts. 
 - The ground markers are unique to the NPCs size & name, and they will update locations to the right spawn points every wave as they should.
 
-
+**ChangeLog**
+```diff
++ 10/30/2020 - Temporarily added the 'Both' option to the 'Display Mode'
++ 10/30/2020 - Added a new feature to display the CURRENT wave as well the NEXT wave while you have NEXT wave display mode selected
++ 10/30/2020 - Hotkey to toggle the above feature and to select whether to toggle or flash
++ 10/30/2020 - I did some cleaning up of the plugin as well
+```
+**Known Issues**
+I will work on a solution to fix the jumbled up mess with overlays when you are displaying current and next wave.
 
 ### Custom Swapper
 **Features**
@@ -259,11 +267,14 @@ Lost in transit... sadcat, sadgecry, prayge
 
 ### Zulrah
 
+**Thank you to all the people that helped me make this plugin possible. @Damen, @Caps Lock, @McNeil for helping me figure out a solution to dealing with resets, and to the original Zulrah plugin creators for giving something to work off of.*
+
 > **Notes:** I will continue to work on this plugin as I am not happy with the product at the moment.
 > There are things I have done that aren't ideal and will continue to improve the features. 
 > I have a backup of experimental features which I will implement eventually, but I am burnt on working on this plugin so I am releasing while it works.
 
 **Features**
+```diff
 - Phase Tick Counter
 - Attack Tick Counter
 - Total Tick Counter
@@ -278,10 +289,12 @@ Lost in transit... sadcat, sadgecry, prayge
 - Snakeling (MES, or Entity Hider)
 - Toxic Clouds Highlight with tick counter
 - Projectiles Highlight (Highlights Snakeling and Toxic Cloud projectile)
-
+```
 **Changelog**
 ```
 ```
+
+
 
 ### Animation Cooldown
 **Features**
