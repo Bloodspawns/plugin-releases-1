@@ -178,6 +178,8 @@ Displays the ongoing rotation for that time, and the upcoming rotation in x amou
 **Known Issues**
 I will work on a solution to fix the jumbled up mess with overlays when you are displaying current and next wave.
 
+
+
 ### Custom Swapper
 **Features**
 ```diff
@@ -267,7 +269,7 @@ Lost in transit... sadcat, sadgecry, prayge
 
 ### Zulrah
 
-**Thank you to all the people that helped me make this plugin possible. @Damen, @Caps Lock, @McNeil for helping me figure out a solution to dealing with resets, and to the original Zulrah plugin creators for giving something to work off of.*
+**Thank you to all the people that helped me make this plugin possible. @Damen, @Caps Lock, @McNeil for helping me figure out a solution to dealing with resets, and to the original Zulrah plugin creators for giving something to work off of.**
 
 > **Notes:** I will continue to work on this plugin as I am not happy with the product at the moment.
 > There are things I have done that aren't ideal and will continue to improve the features. 
