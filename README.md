@@ -28,6 +28,7 @@
 | Fight Caves Spawn Predictor | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/spawnpredictor.jar) | [Click Here](#spawn-predictor) |
 | Custom Swapper | 0.10 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/menuentryswapper.jar) | [Click Here](#custom-swapper) |
 | Nightmare Extended | 0.3 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/znightmare.jar) | [Click Here](#nightmare-extended) |
+| Zulrah | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/zulrah.jar) | [Click Here](#zulrah) |
 | Animation Cooldown | 0.2 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/animationcooldown.jar) | [Click Here](#animation-cooldown) |
 | Grotesque Guardians | 0.3 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/grotesqueguardians.jar) | [Click Here](#grotesque-guardians) |
 | Olm Additions | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/olmadditions.jar) | [Click Here](#olm-additions) |
@@ -257,7 +258,31 @@ Green = Ranged Husk, and Blue = Magic Husk
 Lost in transit... sadcat, sadgecry, prayge
 ```
 
+### Zulrah
 
+> **Notes:** I will continue to work on this plugin as I am not happy with the product at the moment.
+> There are things I have done that aren't ideal and will continue to improve the features. 
+> I have a backup of experimental features which I will implement eventually, but I am burnt on working on this plugin so I am releasing while it works.
+
+**Features**
+- Phase Tick Counter
+- Attack Tick Counter
+- Total Tick Counter
+- Highlight Zulrah's Tile
+- Prayer Helper
+- Prayer Marker
+- Prayer Conversation
+- Stand/Pillar Stall Locations
+- Phase (Rotation) Helper (Displays on Overlay and/or world tiles)
+- Ability to display the 'Current' Zulrah phase or 'Next' phase or 'Both'
+- Instance Timer
+- Snakeling (MES, or Entity Hider)
+- Toxic Clouds Highlight with tick counter
+- Projectiles Highlight (Highlights Snakeling and Toxic Cloud projectile)
+
+**Changelog**
+```
+```
 
 ### Animation Cooldown
 **Features**
