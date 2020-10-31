@@ -24,10 +24,10 @@
 | ------ | ------ | ------ | ------ |
 | ToB Additions | 0.25 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tobadditions.jar) | [Click Here](#tob-additions) |
 | Kills Per Hour | 0.2 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/killsperhour.jar) | [Click Here](#kills-per-hour) |
-| Fight Caves Spawn Predictor | 0.2 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/spawnpredictor.jar) | [Click Here](#spawn-predictor) |
+| Fight Caves Spawn Predictor | 0.3 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/spawnpredictor.jar) | [Click Here](#spawn-predictor) |
 | Custom Swapper | 0.10 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/menuentryswapper.jar) | [Click Here](#custom-swapper) |
 | Nightmare Extended | 0.3 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/znightmare.jar) | [Click Here](#nightmare-extended) |
-| Zulrah | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/zulrah.jar) | [Click Here](#zulrah) |
+| Zulrah | 0.2 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/zulrah.jar) | [Click Here](#zulrah) |
 | Animation Cooldown | 0.2 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/animationcooldown.jar) | [Click Here](#animation-cooldown) |
 | Grotesque Guardians | 0.3 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/grotesqueguardians.jar) | [Click Here](#grotesque-guardians) |
 | Olm Additions | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/olmadditions.jar) | [Click Here](#olm-additions) |
@@ -176,6 +176,7 @@ Displays the ongoing rotation for that time, and the upcoming rotation in x amou
 + 10/30/2020 - Added a new feature to display the CURRENT wave as well the NEXT wave while you have NEXT wave display mode selected
 + 10/30/2020 - Hotkey to toggle the above feature and to select whether to toggle or flash
 + 10/30/2020 - I did some cleaning up of the plugin as well
++ 10/31/2020 - Removed the spam log.debug
 ```
 **Known Issues**
 I will work on a solution to fix the jumbled up mess with overlays when you are displaying current and next wave.
@@ -296,6 +297,8 @@ Lost in transit... sadcat, sadgecry, prayge
 ```
 **Changelog**
 ```
++ 10/31/2020 - Updated the Rotation A & B P2 Melee Phase Ticks
++ 10/31/2020 - Snakelings now get put into a proper collection
 ```
 
 
