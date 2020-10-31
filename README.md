@@ -296,7 +296,7 @@ Lost in transit... sadcat, sadgecry, prayge
 - Projectiles Highlight (Highlights Snakeling and Toxic Cloud projectile)
 ```
 **Changelog**
-```
+```diff
 + 10/31/2020 - Updated the Rotation A & B P2 Melee Phase Ticks
 + 10/31/2020 - Snakelings now get put into a proper collection
 ```
