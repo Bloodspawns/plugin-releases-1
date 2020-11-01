@@ -28,6 +28,7 @@
 | Custom Swapper | 0.10 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/menuentryswapper.jar) | [Click Here](#custom-swapper) |
 | Nightmare Extended | 0.3 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/znightmare.jar) | [Click Here](#nightmare-extended) |
 | Zulrah | 0.2 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/zulrah.jar) | [Click Here](#zulrah) |
+| World Hopper | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/worldhopper.jar) | [Click Here](#world-hopper) |
 | Animation Cooldown | 0.2 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/animationcooldown.jar) | [Click Here](#animation-cooldown) |
 | Grotesque Guardians | 0.3 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/grotesqueguardians.jar) | [Click Here](#grotesque-guardians) |
 | Olm Additions | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/olmadditions.jar) | [Click Here](#olm-additions) |
@@ -299,6 +300,24 @@ Lost in transit... sadcat, sadgecry, prayge
 ```diff
 + 10/31/2020 - Updated the Rotation A & B P2 Melee Phase Ticks
 + 10/31/2020 - Snakelings now get put into a proper collection
+```
+
+
+### World Hopper
+
+**This plugin shadows the RuneLite World Hopper**
+
+**Features**
+```diff
+- All the original features of the RuneLite World Hopper Plugin
+- Preset World Hop Cycle List
+```
+
+> **Note:** If you're finding struggles hopping between worlds, or somee worlds aren't working,
+> Turn the `Quick-hop region` option off as this prevents a lot of quick world hopping.
+
+**Changelog**
+```diff
 ```
 
 
