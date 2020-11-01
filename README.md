@@ -313,7 +313,7 @@ Lost in transit... sadcat, sadgecry, prayge
 - Preset World Hop Cycle List
 ```
 
-> **Note:** If you're finding struggles hopping between worlds, or somee worlds aren't working,
+> **Note:** If you're finding struggles hopping between worlds, or some worlds aren't working,
 > Turn the `Quick-hop region` option off as this prevents a lot of quick world hopping.
 
 **Changelog**
