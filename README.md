@@ -34,6 +34,7 @@
 | Olm Additions | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/olmadditions.jar) | [Click Here](#olm-additions) |
 | Vorkath | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/vorkath.jar) | [Click Here](#vorkath) |
 | Lizardmen Shaman | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/zshaman.jar) | [Click Here](#lizardmen-shaman) |
+| Ham Store Room | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/hamstore.jar) | [Click Here](#ham-store-room) |
 | Developer Tools | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/developertools.jar) | [Click Here](#developer-tools) |
 
 ### Old RuneLite Plugins List
@@ -389,6 +390,7 @@ Overlay changes color dependent on if you're praying correctly or not
 ```
 
 
+
 ### Lizardmen Shaman
 **Features**
 ```diff
@@ -396,6 +398,18 @@ Overlay changes color dependent on if you're praying correctly or not
 - Spawn Tick Counter (Time until Explosion)
 - Spawn Explosion Type (AoE or Tile)
 ```
+
+
+
+### Ham Store Room
+**Features**
+```diff
+- Chest Highlight
+- Chest Names (Displays the required key and the amount of times you can open said chest)
+- Guard Pickpocket MES
+- Door Pick-lock MES
+```
+
 
 
 ### Developer Tools
