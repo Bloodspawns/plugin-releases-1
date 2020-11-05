@@ -35,6 +35,7 @@
 | Vorkath | 0.2 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/vorkath.jar) | [Click Here](#vorkath) |
 | Lizardmen Shaman | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/zshaman.jar) | [Click Here](#lizardmen-shaman) |
 | Ham Store Room | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/hamstore.jar) | [Click Here](#ham-store-room) |
+| Shayzien Infirmary | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/shayzieninfirmary.jar) | [Click Here](#shayzien-infirmary) |
 | Developer Tools | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/developertools.jar) | [Click Here](#developer-tools) |
 
 ### Old RuneLite Plugins List
@@ -411,6 +412,15 @@ Overlay changes color dependent on if you're praying correctly or not
 - Chest Names (Displays the required key and the amount of times you can open said chest)
 - Guard Pickpocket MES
 - Door Pick-lock MES
+```
+
+
+
+### Shayzien Infirmary
+**Features**
+```diff
+- Displays the status of the soldiers
+- Displays a red tile polygon and a medpack image for wounded soldiers and then a green tile polygon for healed soldiers
 ```
 
 
