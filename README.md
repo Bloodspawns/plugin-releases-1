@@ -22,7 +22,7 @@
 ### My Plugins List
 | PLUGIN NAME | VERSION | DOWNLOAD | DETAILS |
 | ------ | ------ | ------ | ------ |
-| ToB Additions | 0.25 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tobadditions.jar) | [Click Here](#tob-additions) |
+| ToB Additions | 0.26 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tobadditions.jar) | [Click Here](#tob-additions) |
 | Kills Per Hour | 0.2 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/killsperhour.jar) | [Click Here](#kills-per-hour) |
 | Fight Caves Spawn Predictor | 0.3 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/spawnpredictor.jar) | [Click Here](#spawn-predictor) |
 | Custom Swapper | 0.10 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/menuentryswapper.jar) | [Click Here](#custom-swapper) |
@@ -50,13 +50,19 @@
 **Features**
 ```diff
 Maiden:
-- Nylo HP, Distance, and Freeze Timers
+- Nylo HP
+- Nylo Distance
+- Nylo Freeze Timers
 - Proc Threshold
 - Blood Splat Tick Counter
 - Heals Counter
+- Maiden Max Hit
 
 Bloat:
 - In-depth HP
+- Bloat Hands Overlay
+- Bloat Hands Tick Counter
+- Bloat Hands Object Hider
 - True Location
 
 Nylo:
@@ -78,11 +84,15 @@ Xarpus:
 - Line of Sight
 
 Verzik:
-- P2 Lightning stuff
-- Purple Crab stuff
+- P2 Lightning Cycle
+- P2 Lightning Projectile Tick Counter
+- Purple Crab Landing AoE
+- Purple Crab Time Alive
+- Purple Crab MES
 - Yellows Tick Counter
 - Green Ball Tick Counter
 - Display who has the Green Ball
+- Display P3 Tank
 ```
 **Changelog**
 ```diff
@@ -111,6 +121,17 @@ Verzik:
 + 10/19/2020 Added Nylo Boss Prayer Helper
 + 10/30/2020 Fixed Bloat HP not updating when Overlay display mode was selected
 + 10/30/2020 Optimized/Cleaned up the Nylo Prayer Helpers
++ 11/6/2020 Fixed Maiden 'Heals' not removing infobox when disabling
++ 11/6/2020 Fixed Xarpus 'Heals' not removing infobox when disabling
++ 11/6/2020 Added Maiden Max Hit (Can show max hit with ely)
++ 11/6/2020 Added Maiden/Xarpus 'Heals' advanced tooltip (Includes Amount/Times healed)
++ 11/6/2020 Added Bloat Hands Overlay
++ 11/6/2020 Added Toggleable Feature 'Hands Tick Counter'
++ 11/6/2020 Added configureable 'Hands Render Distance' (Why render the entire room)
++ 11/6/2020 Added ability to hide the Bloat Hands object
++ 11/6/2020 Fixed Bloat HP Overlay (DMG Each Option) not displaying correct values when people die
++ 11/6/2020 Added Dragon Dagger, Adamant Knife, Rune Knife, and Magic Shortbow to Waves Wheelchair
++ 11/6/2020 Added back Verzik P3 Tank
 ```
 
 
