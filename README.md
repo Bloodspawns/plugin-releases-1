@@ -22,7 +22,7 @@
 ### My Plugins List
 | PLUGIN NAME | VERSION | DOWNLOAD | DETAILS |
 | ------ | ------ | ------ | ------ |
-| ToB Additions | 0.26 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tobadditions.jar) | [Click Here](#tob-additions) |
+| ToB Additions | 0.27 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tobadditions.jar) | [Click Here](#tob-additions) |
 | Kills Per Hour | 0.2 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/killsperhour.jar) | [Click Here](#kills-per-hour) |
 | Fight Caves Spawn Predictor | 0.3 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/spawnpredictor.jar) | [Click Here](#spawn-predictor) |
 | Custom Swapper | 0.10 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/menuentryswapper.jar) | [Click Here](#custom-swapper) |
@@ -132,6 +132,7 @@ Verzik:
 + 11/6/2020 Fixed Bloat HP Overlay (DMG Each Option) not displaying correct values when people die
 + 11/6/2020 Added Dragon Dagger, Adamant Knife, Rune Knife, and Magic Shortbow to Waves Wheelchair
 + 11/6/2020 Added back Verzik P3 Tank
++ 11/8/2020 Fixed client crashes occuring in Bloat
 ```
 
 
