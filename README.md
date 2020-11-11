@@ -36,6 +36,7 @@
 | Lizardmen Shaman | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/zshaman.jar) | [Click Here](#lizardmen-shaman) |
 | Ham Store Room | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/hamstore.jar) | [Click Here](#ham-store-room) |
 | Shayzien Infirmary | 0.2 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/shayzieninfirmary.jar) | [Click Here](#shayzien-infirmary) |
+| Woodcutting | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/woodcutting.jar) | [Click Here](#woodcutting) |
 | Developer Tools | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/developertools.jar) | [Click Here](#developer-tools) |
 
 ### Old RuneLite Plugins List
@@ -448,6 +449,21 @@ Overlay changes color dependent on if you're praying correctly or not
 ```diff
 + 11/5/2020 - Overlays are now removed on plugin disable
 ```
+
+
+### Woodcutting
+
+**This plugin shadows the RuneLite Woodcutting Plugin**
+
+**Features**
+```diff
+- All the original features of the RuneLite `Woodcutting` Plugin
+- Woodcutting Cycle
+```
+**Changelog**
+```diff
+```
+
 
 
 ### Developer Tools
