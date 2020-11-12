@@ -26,7 +26,7 @@
 | Kills Per Hour | 0.2 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/killsperhour.jar) | [Click Here](#kills-per-hour) |
 | Fight Caves Spawn Predictor | 0.3 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/spawnpredictor.jar) | [Click Here](#spawn-predictor) |
 | Custom Swapper | 0.10 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/menuentryswapper.jar) | [Click Here](#custom-swapper) |
-| Nightmare Extended | 0.3 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/znightmare.jar) | [Click Here](#nightmare-extended) |
+| Nightmare Extended | 0.4 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/znightmare.jar) | [Click Here](#nightmare-extended) |
 | Zulrah | 0.2 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/zulrah.jar) | [Click Here](#zulrah) |
 | World Hopper | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/worldhopper.jar) | [Click Here](#world-hopper) |
 | Animation Cooldown | 0.2 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/animationcooldown.jar) | [Click Here](#animation-cooldown) |
@@ -292,8 +292,9 @@ Green = Ranged Husk, and Blue = Magic Husk
 - Spore Highlight
 ```
 **Changelog**
-```
-Lost in transit... sadcat, sadgecry, prayge
+```diff
++ 11/11/2020 - Updated Nightmare to reflect latest game update
++ 11/11/2020 - Removed Nightmares death timer from event ticks as it's no longer needed
 ```
 
 ### Zulrah
