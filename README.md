@@ -1,5 +1,5 @@
 <h1 align="center">
-    Plugin Releases
+    < plugin releases >
 </h1>
 
 <p align="center">
