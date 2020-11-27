@@ -54,7 +54,7 @@
 
 ---
 
-### My Plugins List
+## My Plugins List
 | PLUGIN NAME | VERSION | DOWNLOAD | DETAILS |
 | ------ | ------ | ------ | ------ |
 | ToB Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.27-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tobadditions.jar) | [Click Here](#tob-additions) |
@@ -75,7 +75,7 @@
 
 ---
 
-### Discontinued Plugins List
+## Discontinued Plugins List
 > **Note:** Plugins listed here are no longer being updated/maintained. This means if something is broken or wanting stuff added it won't get fixed/added.
 
 | PLUGIN NAME | VERSION | DOWNLOAD | DETAILS |
@@ -84,7 +84,7 @@
 
 ---
 
-### Old RuneLite Plugins List
+## Old RuneLite Plugins List
 | PLUGIN NAME | VERSION | DOWNLOAD |
 | ------ | ------ | ------ |
 | Demonic Gorillas | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-green?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/demonicgorilla.jar) |
