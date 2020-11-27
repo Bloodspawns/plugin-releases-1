@@ -2,6 +2,10 @@
     < plugin releases >
 </h1>
 
+<h2 align="center">
+   plugins created with tons of :heart: by zhuri/nicole :cherry_blossom:
+</h2>
+
 <p align="center">
     <a href="#gear-installation">Installation</a> •
     <a href="#spiral_notepad-to-do-list">To-Do List</a> •
