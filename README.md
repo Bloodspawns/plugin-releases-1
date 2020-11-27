@@ -48,13 +48,19 @@
 | World Hopper | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/worldhopper.jar) | [Click Here](#world-hopper) |
 | Animation Cooldown | 0.2 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/animationcooldown.jar) | [Click Here](#animation-cooldown) |
 | Grotesque Guardians | 0.3 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/grotesqueguardians.jar) | [Click Here](#grotesque-guardians) |
-| Olm Additions | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/olmadditions.jar) | [Click Here](#olm-additions) |
 | Vorkath | 0.2 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/vorkath.jar) | [Click Here](#vorkath) |
 | Lizardmen Shaman | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/zshaman.jar) | [Click Here](#lizardmen-shaman) |
 | Ham Store Room | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/hamstore.jar) | [Click Here](#ham-store-room) |
 | Shayzien Infirmary | 0.2 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/shayzieninfirmary.jar) | [Click Here](#shayzien-infirmary) |
 | Woodcutting | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/woodcutting.jar) | [Click Here](#woodcutting) |
 | Developer Tools | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/developertools.jar) | [Click Here](#developer-tools) |
+
+### Discontinued Plugins List
+> **Note:** Plugins listed here are no longer being updated or maintained. This means if something is broken or wanting stuff added it won't get fixed/added.
+
+| PLUGIN NAME | VERSION | DOWNLOAD | DETAILS |
+| ------ | ------ | ------ | ------ |
+| Olm Additions | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/olmadditions.jar) | [Click Here](#olm-additions) |
 
 ### Old RuneLite Plugins List
 | Plugin | VERSION | DOWNLOAD |
@@ -247,66 +253,56 @@ Displays the ongoing rotation for that time, and the upcoming rotation in x amou
 
 
 ### Custom Swapper
-**Features**
+
+<details>
+    <summary>Plugin Features</summary>
+    
 ```diff
 - Custom Swaps
 - Shift Click Custom Swaps
 - Removing Options
 ```
-**Syntax Configuration**
 
-Configs are trimmed, so it allows for spaces inbetween commas
+</details>
 
-Examples: `guzzle,dwarven rock cake` & `guzzle, dwarven rock cake` will work
-
-- Custom Swaps/Remove Options
-    - Syntax: `option,target`
-    - Example: `guzzle,dwarven rock cake`
-- Swap menu options conditionally **OPTIONAL**
-    - Syntax: `option,target,top_entry,top_target`
-    - Example: `take,shark,take,*` 
+<details>
+    <summary>Plugin Changelog</summary>
     
-> **Note:** This will swap the `take` option on `shark` when hovering over **anything** but the top left click entry **HAS** to be `take`
-
-- Walk here prioritization when hovering over actors (Players and/or NPCs)
-    - Syntax: `walk here,,top_entry,top_target`
-    - Example: `walk here,,attack,cow*`
-- Spell Swapping
-    - Syntax: `*,*username*,cast,spell_name*`
-    - Example: `*,*losing ticks*,cast,energy transfer*`
-
-**Wildcard Configuration**
-- Asterisks (*) as the target name: Swaps/Removes everything involving the set option
-    - Example: `chop down,*` 
-> **Note:** This will swap/remove every `chop down` option regardless of the tree name
-
-- Asterisks (*) after the target or option name: This essentially means `contains` if the target or option contains said input swap/remove it.
-    - Example: `attack,husk*`
-    - Example Two: `att*,husk*`
-    - Example Three: `tele*,max cape`
-> **Note:** If you're swapping anything that involves NPCs or Players or Ground Items you need an asterisks after the target name.
-    
-- NPC/Player Prioritization
-    - Syntax: `option_you_want_prioritized,target_you_want_prioritized`
-    - Example: `attack,husk*`
-
-If you have the plugin `Opponent Information` turned on with the option `Show opponents in menu` prefix target name with an asterisks
-- Example: `attack,*husk*`
-    
-**Demonstration**
-https://streamable.com/h5jtd8
-
-**Changelog**
 ```diff
 + 9/20/2020 - option can now utilize the * wildcard
 + 9/20/2020 - Added support to priotize the "Walk Here" (see above)
 + 9/20/2020 - With this added support you can now priotize entries without unconditionally throwing them on top (see above)
 ```
 
+</details>
+
+##### Syntax Configuration
+
+| NAME | SYNTAX | EXAMPLE | NOTES |
+| ------ | ------ | ------ | ------ |
+| Custom Swaps/Remove Options | `option,target` | `guzzle,dwarven rock cake` or `guzzle, dwarven rock cake` | This is the default setup, everything else is optional |
+| Swap Menu Options Conditionally | `option,target,top_entry,top_target` | `take,shark,take,*` | This will swap the `take` option on `shark` when hovering over **anything** but the top left click entry **HAS** to be `take` |
+| Walk Here Prioritization | `walk here,,top_entry,top_target` | `walk here,,attack,cow*` | Only works when hovering over other actors. Works on Players and/or NPCs. |
+| Spell Swapping | `*,*username*,cast,spell_name*` | `*,*losing ticks*,cast,energy transfer*` | N/A |
+
+##### Wildcard Configuration
+
+| NAME | SYNTAX | EXAMPLE | NOTES |
+| ------ | ------ | ------ | ------ |
+| Asterisks as target | `option,*` | `chop down,*` | Swaps/Removes everything containing that option |
+| Asterisks in option or targets name | N/A | `attack,husk*`, `att*,husk*`, `tele*,max cape` | Asterisks just says if said input **contains** such text then do something. If you're swapping anything that involves NPCs or Players or Ground Items you need an asterisks after the target name. |
+| NPC/Player Prioritization | `option,target` | `attack,husk*` | If you have the plugin `Opponent Information` turned on with the option `Show opponents in menu` prefix target name with an asterisks (`attack,*husk*`) |
+    
+**Demonstration**
+https://streamable.com/h5jtd8
+
 
 
 ### Nightmare Extended
-**Features**
+
+<details>
+    <summary>Plugin Features</summary>
+    
 ```diff
 - Tick Counter
 Ticks until Nightmare will attack you again
@@ -328,11 +324,20 @@ Green = Ranged Husk, and Blue = Magic Husk
 - Spores Tick Counter
 - Spore Highlight
 ```
-**Changelog**
+
+</details>
+
+<details>
+    <summary>Plugin Changelog</summary>
+    
 ```diff
 + 11/11/2020 - Updated Nightmare to reflect latest game update
 + 11/11/2020 - Removed Nightmares death timer from event ticks as it's no longer needed
 ```
+
+</details>
+
+
 
 ### Zulrah
 
@@ -342,7 +347,9 @@ Green = Ranged Husk, and Blue = Magic Husk
 > There are things I have done that aren't ideal and will continue to improve the features. 
 > I have a backup of experimental features which I will implement eventually, but I am burnt on working on this plugin so I am releasing while it works.
 
-**Features**
+<details>
+    <summary>Plugin Features</summary>
+    
 ```diff
 - Phase Tick Counter
 - Attack Tick Counter
@@ -359,11 +366,19 @@ Green = Ranged Husk, and Blue = Magic Husk
 - Toxic Clouds Highlight with tick counter
 - Projectiles Highlight (Highlights Snakeling and Toxic Cloud projectile)
 ```
-**Changelog**
+
+</details>
+
+<details>
+    <summary>Plugin Changelog</summary>
+    
 ```diff
 + 10/31/2020 - Updated the Rotation A & B P2 Melee Phase Ticks
 + 10/31/2020 - Snakelings now get put into a proper collection
 ```
+
+</details>
+
 
 
 ### World Hopper
