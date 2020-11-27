@@ -46,37 +46,37 @@
 | PLUGIN NAME | VERSION | DOWNLOAD | DETAILS |
 | ------ | ------ | ------ | ------ |
 | ToB Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.27-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tobadditions.jar) | [Click Here](#tob-additions) |
-| Kills Per Hour | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.2-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/killsperhour.jar) | [Click Here](#kills-per-hour) |
-| Fight Caves Spawn Predictor | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.3-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/spawnpredictor.jar) | [Click Here](#spawn-predictor) |
+| Kills Per Hour | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/killsperhour.jar) | [Click Here](#kills-per-hour) |
+| Fight Caves Spawn Predictor | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.03-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/spawnpredictor.jar) | [Click Here](#spawn-predictor) |
 | Custom Swapper | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.10-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/menuentryswapper.jar) | [Click Here](#custom-swapper) |
-| Nightmare Extended | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.4-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/znightmare.jar) | [Click Here](#nightmare-extended) |
-| Zulrah | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.2-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/zulrah.jar) | [Click Here](#zulrah) |
-| World Hopper | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.1-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/worldhopper.jar) | [Click Here](#world-hopper) |
-| Animation Cooldown | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.2-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/animationcooldown.jar) | [Click Here](#animation-cooldown) |
-| Grotesque Guardians | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.3-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/grotesqueguardians.jar) | [Click Here](#grotesque-guardians) |
-| Vorkath | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.2-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/vorkath.jar) | [Click Here](#vorkath) |
-| Lizardmen Shaman | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.1-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/zshaman.jar) | [Click Here](#lizardmen-shaman) |
-| Ham Store Room | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.1-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/hamstore.jar) | [Click Here](#ham-store-room) |
-| Shayzien Infirmary | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.2-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/shayzieninfirmary.jar) | [Click Here](#shayzien-infirmary) |
-| Woodcutting | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.1-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/woodcutting.jar) | [Click Here](#woodcutting) |
-| Developer Tools | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.1-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/developertools.jar) | [Click Here](#developer-tools) |
+| Nightmare Extended | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.04-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/znightmare.jar) | [Click Here](#nightmare-extended) |
+| Zulrah | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/zulrah.jar) | [Click Here](#zulrah) |
+| World Hopper | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/worldhopper.jar) | [Click Here](#world-hopper) |
+| Animation Cooldown | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/animationcooldown.jar) | [Click Here](#animation-cooldown) |
+| Grotesque Guardians | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.03-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/grotesqueguardians.jar) | [Click Here](#grotesque-guardians) |
+| Vorkath | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/vorkath.jar) | [Click Here](#vorkath) |
+| Lizardmen Shaman | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/zshaman.jar) | [Click Here](#lizardmen-shaman) |
+| Ham Store Room | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/hamstore.jar) | [Click Here](#ham-store-room) |
+| Shayzien Infirmary | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/shayzieninfirmary.jar) | [Click Here](#shayzien-infirmary) |
+| Woodcutting | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/woodcutting.jar) | [Click Here](#woodcutting) |
+| Developer Tools | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/developertools.jar) | [Click Here](#developer-tools) |
 
 ---
 
 ### Discontinued Plugins List
-> **Note:** Plugins listed here are no longer being updated or maintained. This means if something is broken or wanting stuff added it won't get fixed/added.
+> **Note:** Plugins listed here are no longer being updated/maintained. This means if something is broken or wanting stuff added it won't get fixed/added.
 
 | PLUGIN NAME | VERSION | DOWNLOAD | DETAILS |
 | ------ | ------ | ------ | ------ |
-| Olm Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.1-red?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/olmadditions.jar) | [Click Here](#olm-additions) |
+| Olm Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-red?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/olmadditions.jar) | [Click Here](#olm-additions) |
 
 ---
 
 ### Old RuneLite Plugins List
 | PLUGIN NAME | VERSION | DOWNLOAD |
 | ------ | ------ | ------ |
-| Demonic Gorillas | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.1-green?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/demonicgorilla.jar) |
-| Opponent Information | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.1-green?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/opponentinfo.jar) |
+| Demonic Gorillas | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-green?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/demonicgorilla.jar) |
+| Opponent Information | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-green?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/opponentinfo.jar) |
 
 ---
 
@@ -183,17 +183,26 @@ Verzik:
 
 
 ### Kills Per Hour
-Tracks your Kills Per Hour at bosses
 
-**Click the start button right before you enter a room/instance or start a boss fight.**
+<details>
+    <summary>Plugin Features</summary>
+    
+**Tracks your Kills Per Hour at bosses**
 
-> **FAQ:**
+</details>
 
-> Q.) Why is the kill duration/fastest kill/average kill slightly off? I got a faster time in-game but not on the panel.
+<details>
+    <summary>FAQ</summary>
+    
+```
+Q) Why is the kill duration/fastest kill/average kill slightly off? I got a faster time in-game but not on the panel.
+A) The plugin works like this: If an NPC is within the render distance and contains the name of the boss in the whitelist START the timer. STOP the timer if that same boss has despawned. RuneScape deals with durations differently. But I am not going to waste my time to make every boss unique and just going to generalize it.
+```
+    
+</details>
 
-> A.) The plugin works like this: If an NPC is within the render distance and contains the name of the boss in the whitelist START the timer. STOP the timer if that same boss has despawned. RuneScape deals with durations differently. But I am not going to waste my time to make every boss unique and just going to generalize it.
-
-**Bosses that work but aren't whitelisted**
+<details>
+    <summary>Bosses that work but aren't whitelisted</summary>
 
 If you're whitelisting multiple bosses split each boss name with a comma.
 - Example: `dagannoth supreme, dagannoth prime`
@@ -207,7 +216,12 @@ the mimic
 bryophyta
 obor
 ```
-**Bosses/Activities that don't/won't work**
+
+</details>
+
+<details>
+    <summary>Bosses/Activities that don't/won't work</summary>
+    
 ```
 Gauntlet
 ToB
@@ -219,11 +233,21 @@ Abyssal Sire
 Barbarian Assault
 Giant Mole
 ```
-**Changelog**
+
+</details>
+
+<details>
+    <summary>Plugin Changelog</summary>
+    
 ```diff
 + 8/24/2020 - Added move-able overlay, with customizable settings to show on it. 
 + 8/24/2020 - Added a option to enable chat messages (displays KPH after each kill)
 ```
+
+</details>
+
+> **NOTE:** Click the start button right before you enter a room/instance or start a boss fight, 
+> for the most accurate times.
 
 
 
