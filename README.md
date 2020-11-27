@@ -31,7 +31,12 @@
 
 ---
 
+<table>
+<tr>
+<td>
+
 ### To-Do List:
+
 - Plugins:
     - Player Scouter
     - Spellbook Resizer
@@ -42,6 +47,10 @@
     - Update KPH (Could use a rewrite for a better system & might include Socket)
     - Fix Lizardmen Shaman Spawns Tick Counter
     - Completely re-make Olm Additions (Extremely outdated and could be converted to CoX Additions?)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -85,11 +94,12 @@
 
 # Plugin Features/Changelogs
 
-### ToB Additions
 
 <table>
 <tr>
 <td>
+
+### ToB Additions
 
 <details>
     <summary>Plugin Features</summary>
@@ -193,12 +203,12 @@ Verzik:
 </table>
 
 
-
-### Kills Per Hour
     
 <table>
 <tr>
 <td>
+
+### Kills Per Hour
 
 **Tracks your Kills Per Hour at bosses**
 
@@ -256,11 +266,11 @@ Giant Mole
 
 
 
-### Spawn Predictor
-
 <table>
 <tr>
 <td>
+
+### Spawn Predictor
 
 <details>
     <summary>Plugin Features</summary>
@@ -301,11 +311,11 @@ Displays the ongoing rotation for that time, and the upcoming rotation in x amou
 
 
 
-### Custom Swapper
-
 <table>
 <tr>
 <td>
+
+### Custom Swapper
 
 <details>
     <summary>Plugin Features</summary>
@@ -353,11 +363,11 @@ https://streamable.com/h5jtd8
 
 
 
-### Nightmare Extended
-
 <table>
 <tr>
 <td>
+
+### Nightmare Extended
 
 <details>
     <summary>Plugin Features</summary>
@@ -402,11 +412,11 @@ Green = Ranged Husk, and Blue = Magic Husk
 
 
 
-### Zulrah
-
 <table>
 <tr>
 <td>
+
+### Zulrah
 
 **Thank you to all the people that helped me make this plugin possible. @Damen, @Caps Lock, @McNeil for helping me figure out a solution to dealing with resets, and to the original Zulrah plugin creators for giving something to work off of.**
 
@@ -452,11 +462,11 @@ Green = Ranged Husk, and Blue = Magic Husk
 
 
 
-### World Hopper
-
 <table>
 <tr>
 <td>
+
+### World Hopper
 
 :warning: **Shadows the RuneLite `World Hopper` Plugin** :warning:
 
@@ -488,11 +498,11 @@ N/A
 
 
 
-### Animation Cooldown
-
 <table>
 <tr>
 <td>
+
+### Animation Cooldown
 
 <details>
     <summary>Plugin Features</summary>
@@ -526,11 +536,11 @@ N/A
 
 
 
-### Grotesque Guardians
-
 <table>
 <tr>
 <td>
+
+### Grotesque Guardians
 
 <details>
     <summary>Plugin Features</summary>
@@ -563,11 +573,11 @@ N/A
 
 
 
-### Olm Additions
-
 <table>
 <tr>
 <td>
+
+### Olm Additions
 
 <details>
     <summary>Plugin Features</summary>
@@ -606,11 +616,11 @@ N/A
 
 
 
-### Vorkath
-
 <table>
 <tr>
 <td>
+
+### Vorkath
 
 <details>
     <summary>Plugin Features</summary>
@@ -639,11 +649,11 @@ N/A
 
 
 
-### Lizardmen Shaman
-
 <table>
 <tr>
 <td>
+
+### Lizardmen Shaman
 
 <details>
     <summary>Plugin Features</summary>
@@ -671,11 +681,11 @@ N/A
 
 
 
-### Ham Store Room
-
 <table>
 <tr>
 <td>
+
+### Ham Store Room
 
 <details>
     <summary>Plugin Features</summary>
@@ -704,11 +714,11 @@ N/A
 
 
 
-### Shayzien Infirmary
-
 <table>
 <tr>
 <td>
+
+### Shayzien Infirmary
 
 <details>
     <summary>Plugin Features</summary>
@@ -735,11 +745,11 @@ N/A
 
 
 
-### Woodcutting
-
 <table>
 <tr>
 <td>
+
+### Woodcutting
 
 :warning: **Shadows the RuneLite `Woodcutting` Plugin** :warning:
 
@@ -768,11 +778,11 @@ N/A
 
 
 
-### Developer Tools
-
 <table>
 <tr>
 <td>
+
+### Developer Tools
 
 <details>
     <summary>Plugin Features</summary>
