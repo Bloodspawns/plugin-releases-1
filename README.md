@@ -189,8 +189,14 @@ Verzik:
 </tr>
 </table>
 
+
+
 ### Kills Per Hour
     
+<table>
+<tr>
+<td>
+
 **Tracks your Kills Per Hour at bosses**
 
 <details>
@@ -241,9 +247,17 @@ Giant Mole
 > **NOTE:** Click the start button right before you enter a room/instance or start a boss fight, 
 > for the most accurate times.
 
+</td>
+</tr>
+</table>
+
 
 
 ### Spawn Predictor
+
+<table>
+<tr>
+<td>
 
 <details>
     <summary>Plugin Features</summary>
@@ -278,9 +292,17 @@ Displays the ongoing rotation for that time, and the upcoming rotation in x amou
 **Known Issues**
 - I will work on a solution to fix the jumbled up mess with overlays when you are displaying current and next wave.
 
+</td>
+</tr>
+</table>
+
 
 
 ### Custom Swapper
+
+<table>
+<tr>
+<td>
 
 <details>
     <summary>Plugin Features</summary>
@@ -322,9 +344,17 @@ Displays the ongoing rotation for that time, and the upcoming rotation in x amou
 **Demonstration**
 https://streamable.com/h5jtd8
 
+</td>
+</tr>
+</table>
+
 
 
 ### Nightmare Extended
+
+<table>
+<tr>
+<td>
 
 <details>
     <summary>Plugin Features</summary>
@@ -363,9 +393,17 @@ Green = Ranged Husk, and Blue = Magic Husk
 
 </details>
 
+</td>
+</tr>
+</table>
+
 
 
 ### Zulrah
+
+<table>
+<tr>
+<td>
 
 **Thank you to all the people that helped me make this plugin possible. @Damen, @Caps Lock, @McNeil for helping me figure out a solution to dealing with resets, and to the original Zulrah plugin creators for giving something to work off of.**
 
@@ -405,9 +443,17 @@ Green = Ranged Husk, and Blue = Magic Husk
 
 </details>
 
+</td>
+</tr>
+</table>
+
 
 
 ### World Hopper
+
+<table>
+<tr>
+<td>
 
 :warning: **Shadows the RuneLite `World Hopper` Plugin** :warning:
 
@@ -433,9 +479,17 @@ N/A
 
 </details>
 
+</td>
+</tr>
+</table>
+
 
 
 ### Animation Cooldown
+
+<table>
+<tr>
+<td>
 
 <details>
     <summary>Plugin Features</summary>
@@ -463,9 +517,17 @@ N/A
 
 > **Note:** Use the `Debug` option to fetch most of the data you'll need to setup the lists. This wont display ticks for animations only weapon speeds so i.e. burning a log. This mean you will have to know how long it is or look them up on Google. 
 
+</td>
+</tr>
+</table>
+
 
 
 ### Grotesque Guardians
+
+<table>
+<tr>
+<td>
 
 <details>
     <summary>Plugin Features</summary>
@@ -492,9 +554,17 @@ N/A
 
 </details>
 
+</td>
+</tr>
+</table>
+
 
 
 ### Olm Additions
+
+<table>
+<tr>
+<td>
 
 <details>
     <summary>Plugin Features</summary>
@@ -527,9 +597,17 @@ N/A
 
 > If you end up dying in the Olm room the counter will be split into two chat messages for that corresponding phase. You will get one when you die showing how long you were alive for during that phase and one when the phase ends (If this happens the timer **can** occasionally be off no clue why). Pretty hard to combat this because of how RuneLite deals with NPCs and GameObjects, so if it happens just do some simple math and you'll be fine... or... just don't die
 
+</td>
+</tr>
+</table>
+
 
 
 ### Vorkath
+
+<table>
+<tr>
+<td>
 
 <details>
     <summary>Plugin Features</summary>
@@ -552,9 +630,17 @@ N/A
 
 </details>
 
+</td>
+</tr>
+</table>
+
 
 
 ### Lizardmen Shaman
+
+<table>
+<tr>
+<td>
 
 <details>
     <summary>Plugin Features</summary>
@@ -576,9 +662,17 @@ N/A
 
 </details>
 
+</td>
+</tr>
+</table>
+
 
 
 ### Ham Store Room
+
+<table>
+<tr>
+<td>
 
 <details>
     <summary>Plugin Features</summary>
@@ -601,8 +695,17 @@ N/A
 
 </details>
 
+</td>
+</tr>
+</table>
+
+
 
 ### Shayzien Infirmary
+
+<table>
+<tr>
+<td>
 
 <details>
     <summary>Plugin Features</summary>
@@ -623,9 +726,17 @@ N/A
 
 </details>
 
+</td>
+</tr>
+</table>
+
 
 
 ### Woodcutting
+
+<table>
+<tr>
+<td>
 
 :warning: **Shadows the RuneLite `Woodcutting` Plugin** :warning:
 
@@ -648,9 +759,17 @@ N/A
 
 </details>
 
+</td>
+</tr>
+</table>
+
 
 
 ### Developer Tools
+
+<table>
+<tr>
+<td>
 
 <details>
     <summary>Plugin Features</summary>
@@ -690,4 +809,6 @@ N/A
 
 > **Note:** If you'd like more options added to make plugin development easier without writing up quick test plugins to see everything or `log.debug`'ing everything and reading through spam let me know.
 
-
+</td>
+</tr>
+</table>
