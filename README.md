@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-   plugins created with tons of :heart: by zhuri/nicole :cherry_blossom:
+   plugins created with tons of :heart: by :tulip: zhuri/nicole :tulip:
 </h3>
 
 <p align="center">
