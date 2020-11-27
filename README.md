@@ -73,7 +73,7 @@
 ---
 
 ### Old RuneLite Plugins List
-| Plugin | VERSION | DOWNLOAD |
+| PLUGIN NAME | VERSION | DOWNLOAD |
 | ------ | ------ | ------ |
 | Demonic Gorillas | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.1-green?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/demonicgorilla.jar) |
 | Opponent Information | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.1-green?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/opponentinfo.jar) |
