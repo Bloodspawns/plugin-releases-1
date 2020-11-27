@@ -3,11 +3,11 @@
 </h1>
 
 <p align="center">
-    <a href="#installation">Installation</a> •
-    <a href="#to-do-list">To-Do List</a> •
-    <a href="#my-plugins-list">Plugin List</a> •
-    <a href="#old-runelite-plugins-list">Old RuneLite Plugins</a> •
-    <a href="#plugin-featureschangelogs">Plugin Features/Changelogs</a>
+    <a href="#gear-installation">Installation</a> •
+    <a href="#spiral_notepad-to-do-list">To-Do List</a> •
+    <a href="#pushpin-my-plugins-list">Plugin List</a> •
+    <a href="#open_file_folder-old-runelite-plugins-list">Old RuneLite Plugins</a> •
+    <a href="#tada-plugin-featureschangelogs">Plugin Features/Changelogs</a>
 </p>
 
 ---
@@ -92,7 +92,7 @@
 
 ---
 
-# Plugin Features/Changelogs
+# :tada: Plugin Features/Changelogs
 
 <table>
 <tr>
