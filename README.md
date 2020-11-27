@@ -8,6 +8,8 @@
     <a href="#plugin-featureschangelogs">Plugin Features/Changelogs</a>
 </p>
 
+---
+
 ## Installation
 
 <table>
@@ -24,6 +26,8 @@
 </tr>
 </table>
 
+---
+
 ### To-Do List:
 - Plugins:
     - Player Scouter
@@ -36,37 +40,45 @@
     - Fix Lizardmen Shaman Spawns Tick Counter
     - Completely re-make Olm Additions (Extremely outdated and could be converted to CoX Additions?)
 
+---
+
 ### My Plugins List
 | PLUGIN NAME | VERSION | DOWNLOAD | DETAILS |
 | ------ | ------ | ------ | ------ |
-| ToB Additions | 0.27 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tobadditions.jar) | [Click Here](#tob-additions) |
-| Kills Per Hour | 0.2 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/killsperhour.jar) | [Click Here](#kills-per-hour) |
-| Fight Caves Spawn Predictor | 0.3 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/spawnpredictor.jar) | [Click Here](#spawn-predictor) |
-| Custom Swapper | 0.10 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/menuentryswapper.jar) | [Click Here](#custom-swapper) |
-| Nightmare Extended | 0.4 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/znightmare.jar) | [Click Here](#nightmare-extended) |
-| Zulrah | 0.2 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/zulrah.jar) | [Click Here](#zulrah) |
-| World Hopper | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/worldhopper.jar) | [Click Here](#world-hopper) |
-| Animation Cooldown | 0.2 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/animationcooldown.jar) | [Click Here](#animation-cooldown) |
-| Grotesque Guardians | 0.3 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/grotesqueguardians.jar) | [Click Here](#grotesque-guardians) |
-| Vorkath | 0.2 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/vorkath.jar) | [Click Here](#vorkath) |
-| Lizardmen Shaman | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/zshaman.jar) | [Click Here](#lizardmen-shaman) |
-| Ham Store Room | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/hamstore.jar) | [Click Here](#ham-store-room) |
-| Shayzien Infirmary | 0.2 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/shayzieninfirmary.jar) | [Click Here](#shayzien-infirmary) |
-| Woodcutting | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/woodcutting.jar) | [Click Here](#woodcutting) |
-| Developer Tools | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/developertools.jar) | [Click Here](#developer-tools) |
+| ToB Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.27-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tobadditions.jar) | [Click Here](#tob-additions) |
+| Kills Per Hour | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.2-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/killsperhour.jar) | [Click Here](#kills-per-hour) |
+| Fight Caves Spawn Predictor | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.3-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/spawnpredictor.jar) | [Click Here](#spawn-predictor) |
+| Custom Swapper | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.10-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/menuentryswapper.jar) | [Click Here](#custom-swapper) |
+| Nightmare Extended | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.4-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/znightmare.jar) | [Click Here](#nightmare-extended) |
+| Zulrah | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.2-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/zulrah.jar) | [Click Here](#zulrah) |
+| World Hopper | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.1-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/worldhopper.jar) | [Click Here](#world-hopper) |
+| Animation Cooldown | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.2-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/animationcooldown.jar) | [Click Here](#animation-cooldown) |
+| Grotesque Guardians | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.3-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/grotesqueguardians.jar) | [Click Here](#grotesque-guardians) |
+| Vorkath | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.2-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/vorkath.jar) | [Click Here](#vorkath) |
+| Lizardmen Shaman | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.1-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/zshaman.jar) | [Click Here](#lizardmen-shaman) |
+| Ham Store Room | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.1-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/hamstore.jar) | [Click Here](#ham-store-room) |
+| Shayzien Infirmary | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.2-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/shayzieninfirmary.jar) | [Click Here](#shayzien-infirmary) |
+| Woodcutting | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.1-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/woodcutting.jar) | [Click Here](#woodcutting) |
+| Developer Tools | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.1-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/developertools.jar) | [Click Here](#developer-tools) |
+
+---
 
 ### Discontinued Plugins List
 > **Note:** Plugins listed here are no longer being updated or maintained. This means if something is broken or wanting stuff added it won't get fixed/added.
 
 | PLUGIN NAME | VERSION | DOWNLOAD | DETAILS |
 | ------ | ------ | ------ | ------ |
-| Olm Additions | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/olmadditions.jar) | [Click Here](#olm-additions) |
+| Olm Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.1-red?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/olmadditions.jar) | [Click Here](#olm-additions) |
+
+---
 
 ### Old RuneLite Plugins List
 | Plugin | VERSION | DOWNLOAD |
 | ------ | ------ | ------ |
-| Demonic Gorillas | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/demonicgorilla.jar) |
-| Opponent Information | 0.1 | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/opponentinfo.jar) |
+| Demonic Gorillas | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.1-green?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/demonicgorilla.jar) |
+| Opponent Information | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.1-green?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/opponentinfo.jar) |
+
+---
 
 # Plugin Features/Changelogs
 
@@ -276,8 +288,7 @@ Displays the ongoing rotation for that time, and the upcoming rotation in x amou
 
 </details>
 
-##### Syntax Configuration
-
+#### Syntax Configuration
 | NAME | SYNTAX | EXAMPLE | NOTES |
 | ------ | ------ | ------ | ------ |
 | Custom Swaps/Remove Options | `option,target` | `guzzle,dwarven rock cake` or `guzzle, dwarven rock cake` | This is the default setup, everything else is optional |
@@ -285,8 +296,7 @@ Displays the ongoing rotation for that time, and the upcoming rotation in x amou
 | Walk Here Prioritization | `walk here,,top_entry,top_target` | `walk here,,attack,cow*` | Only works when hovering over other actors. Works on Players and/or NPCs. |
 | Spell Swapping | `*,*username*,cast,spell_name*` | `*,*losing ticks*,cast,energy transfer*` | N/A |
 
-##### Wildcard Configuration
-
+#### Wildcard Configuration
 | NAME | SYNTAX | EXAMPLE | NOTES |
 | ------ | ------ | ------ | ------ |
 | Asterisks as target | `option,*` | `chop down,*` | Swaps/Removes everything containing that option |
