@@ -1,4 +1,6 @@
-# Plugin Releases
+<h1 align="center">
+    Plugin Releases
+</h1>
 
 <p align="center">
     <a href="#installation">Installation</a> •
