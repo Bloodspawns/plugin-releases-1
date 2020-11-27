@@ -1,11 +1,28 @@
 # Plugin Releases
 
-### Installation
+<p align="center">
+    <a href="#installation">Installation</a> •
+    <a href="#to-do-list">To-Do List</a> •
+    <a href="#my-plugins-list">Plugin List</a> •
+    <a href="#old-runelite-plugins-list">Old RuneLite Plugins</a> •
+    <a href="#plugin-featureschangelogs">Plugin Features/Changelogs</a>
+</p>
+
+## Installation
+
+<table>
+<tr>
+<td>
+
 - Locate `C:\Users\your_name\.runelite` or `%userprofile%./runelite`
 - Create the **bexternalplugins** folder if it's not present
 - Download any of my plugin jars
 - Drag and drop into **bexternalplugins** folder and restart your client
 - If you experience any issues with the plugins not working feel free to ask for help in **#support**
+
+</td>
+</tr>
+</table>
 
 ### To-Do List:
 - Plugins:
@@ -48,7 +65,10 @@
 # Plugin Features/Changelogs
 
 ### ToB Additions
-**Features**
+
+<details>
+    <summary>Plugin Features</summary>
+    
 ```diff
 Maiden:
 - Nylo HP
@@ -95,7 +115,12 @@ Verzik:
 - Display who has the Green Ball
 - Display P3 Tank
 ```
-**Changelog**
+
+</details>
+
+<details>
+    <summary>Plugin Changelog</summary>
+    
 ```diff
 + 10/5/2020 - Added Dragon Darts to wheelchair
 + 10/5/2020 - Added P3 Xarpus Line of Sight
@@ -136,6 +161,7 @@ Verzik:
 + 11/8/2020 Fixed client crashes occuring in Bloat
 ```
 
+</details>
 
 
 ### Kills Per Hour
@@ -184,19 +210,22 @@ Giant Mole
 
 
 ### Spawn Predictor
-**Features**
+
+<details>
+    <summary>Plugin Features</summary>
+    
 ```diff
 - Lobby Rotation Information 
 Displays the ongoing rotation for that time, and the upcoming rotation in x amount of time
 - Display Current Wave
 - Display Next Wave
 ```
-**Notes**
-- All of these features are automatic, you don't need to press any buttons or anything. 
-- The plugin determines rotation on entrance and builds the entire fight caves before the first wave starts. 
-- The ground markers are unique to the NPCs size & name, and they will update locations to the right spawn points every wave as they should.
 
-**ChangeLog**
+</details>
+
+<details>
+    <summary>Plugin Changelog</summary>
+    
 ```diff
 + 10/30/2020 - Temporarily added the 'Both' option to the 'Display Mode'
 + 10/30/2020 - Added a new feature to display the CURRENT wave as well the NEXT wave while you have NEXT wave display mode selected
@@ -204,8 +233,16 @@ Displays the ongoing rotation for that time, and the upcoming rotation in x amou
 + 10/30/2020 - I did some cleaning up of the plugin as well
 + 10/31/2020 - Removed the spam log.debug
 ```
+
+</details>
+
+**Notes**
+- All of these features are automatic, you don't need to press any buttons or anything. 
+- The plugin determines rotation on entrance and builds the entire fight caves before the first wave starts. 
+- The ground markers are unique to the NPCs size & name, and they will update locations to the right spawn points every wave as they should.
+
 **Known Issues**
-I will work on a solution to fix the jumbled up mess with overlays when you are displaying current and next wave.
+- I will work on a solution to fix the jumbled up mess with overlays when you are displaying current and next wave.
 
 
 
@@ -331,45 +368,67 @@ Green = Ranged Husk, and Blue = Magic Husk
 
 ### World Hopper
 
-**This plugin shadows the RuneLite World Hopper**
+:warning: **Shadows the RuneLite `World Hopper` Plugin** :warning:
 
-**Features**
+> **Note:** If you're finding struggles hopping between worlds, or some worlds aren't working,
+> Turn the `Quick-hop region` option off as this prevents a lot of quick world hopping.
+
+<details>
+    <summary>Plugin Features</summary>
+    
 ```diff
 - All the original features of the RuneLite World Hopper Plugin
 - Preset World Hop Cycle List
 ```
 
-> **Note:** If you're finding struggles hopping between worlds, or some worlds aren't working,
-> Turn the `Quick-hop region` option off as this prevents a lot of quick world hopping.
+</details>
 
-**Changelog**
+<details>
+    <summary>Plugin Changelog</summary>
+    
 ```diff
+N/A
 ```
+
+</details>
 
 
 
 ### Animation Cooldown
-**Features**
+
+<details>
+    <summary>Plugin Features</summary>
+
+```diff
 - Personalized presets to configure the tick counter above players head displaying when they will come off cooldown.
 - Can be used for weapons and/or any animation you choose. Useful for PvMing and Skilling. 
-
-Use the `Debug` option to fetch most of the data you'll need to setup the lists. This wont display ticks for animations only weapon speeds so i.e. burning a log. This mean you will have to know how long it is or look them up on Google. 
-
-**Syntax Configuration**
-- Weapon List
-    - Syntax: `weapon_id,animation_id,ticks`
-    - Example: `22325,8056,5`
-- Animation List
-    - Syntax: `animation_id,ticks`
-    - Example: `8056,5`
-
-**Changelog**
 ```
-Lost in transit... sadcat, sadgecry, prayge
+
+</details>
+
+<details>
+    <summary>Plugin Changelog</summary>
+    
+```diff
+N/A
 ```
+
+</details>
+
+| CONFIG NAME | SYNTAX | EXAMPLE |
+| ------ | ------ | ------ |
+| Weapon List | `weapon_id,animation_id,ticks` | `22325,8056,5` |
+| Animation List | `animation_id,ticks` | `8056,5` |
+
+> **Note:** Use the `Debug` option to fetch most of the data you'll need to setup the lists. This wont display ticks for animations only weapon speeds so i.e. burning a log. This mean you will have to know how long it is or look them up on Google. 
+
+
 
 ### Grotesque Guardians
-**Features**
+
+<details>
+    <summary>Plugin Features</summary>
+    
 ```diff
 - Falling Rocks, Lightning, Stone Orb (AoE or Tile) Overlays
 - Dawn/Dusk Tick Counter
@@ -380,14 +439,25 @@ Displays when each is immune/not immune or transitioning
 - Prayer Helper
 - Splits
 ```
-**Changelog**
+
+</details>
+
+<details>
+    <summary>Plugin Changelog</summary>
+    
+```diff
+N/A
 ```
-Lost in transit... sadcat, sadgecry, prayge
-```
+
+</details>
 
 
 
 ### Olm Additions
+
+<details>
+    <summary>Plugin Features</summary>
+
 ```diff
 - Olm phase splits timer
 - Melee hand crippled tick counter
@@ -396,6 +466,18 @@ Yourself only. Can thank RuneLite for this
 - Prayer Helper 
 Overlay changes color dependent on if you're praying correctly or not
 ```
+
+</details>
+
+<details>
+    <summary>Plugin Changelog</summary>
+    
+```diff
+N/A
+```
+
+</details>
+
 > **Note:**
 
 > Only works when there is 4 phases including the head phase
@@ -407,30 +489,59 @@ Overlay changes color dependent on if you're praying correctly or not
 
 
 ### Vorkath
-**Features**
+
+<details>
+    <summary>Plugin Features</summary>
+    
 ```diff
 - Count Vorkaths attacks until next phase
 - Ability to name which phase is next
 - Ability to highlight the Zombified Spawn the entire duration it's alive with a color of your choosing
 ```
-**Changelog**
+
+</details>
+
+
+<details>
+    <summary>Plugin Changelog</summary>
+    
 ```diff
 + 11/2/2020 - Optimized the entire plugin and removed a bunch of useless code
 ```
 
+</details>
+
+
 
 ### Lizardmen Shaman
-**Features**
+
+<details>
+    <summary>Plugin Features</summary>
+    
 ```diff
 - Shaman Tick Counter
 - Spawn Tick Counter (Time until Explosion)
 - Spawn Explosion Type (AoE or Tile)
 ```
 
+</details>
+
+<details>
+    <summary>Plugin Changelog</summary>
+    
+```diff
+N/A
+```
+
+</details>
+
 
 
 ### Ham Store Room
-**Features**
+
+<details>
+    <summary>Plugin Features</summary>
+    
 ```diff
 - Chest Highlight
 - Chest Names (Displays the required key and the amount of times you can open said chest)
@@ -438,37 +549,71 @@ Overlay changes color dependent on if you're praying correctly or not
 - Door Pick-lock MES
 ```
 
+</details>
+
+<details>
+    <summary>Plugin Changelog</summary>
+    
+```diff
+N/A
+```
+
+</details>
 
 
 ### Shayzien Infirmary
-**Features**
+
+<details>
+    <summary>Plugin Features</summary>
+    
 ```diff
 - Displays the status of the soldiers
 - Displays a red tile polygon and a medpack image for wounded soldiers and then a green tile polygon for healed soldiers
 ```
-**Changelog**
+    
+</details>
+
+<details>
+    <summary>Plugin Changelog</summary>
+    
 ```diff
 + 11/5/2020 - Overlays are now removed on plugin disable
 ```
 
+</details>
+
+
 
 ### Woodcutting
 
-**This plugin shadows the RuneLite Woodcutting Plugin**
+:warning: **Shadows the RuneLite `Woodcutting` Plugin** :warning:
 
-**Features**
+<details>
+    <summary>Plugin Features</summary>
+    
 ```diff
 - All the original features of the RuneLite `Woodcutting` Plugin
 - Woodcutting Cycle
 ```
-**Changelog**
+
+</details>
+
+<details>
+    <summary>Plugin Changelog</summary>
+
 ```diff
+N/A
 ```
+
+</details>
 
 
 
 ### Developer Tools
-**Features**
+
+<details>
+    <summary>Plugin Features</summary>
+    
 ```diff
 - Actor Orientation
 - Detailed Projectile Overlay
@@ -490,6 +635,18 @@ Displays all NPC Events and details about said NPC
 - Renderable Hider
 Supports: Players/NPCs and Projectiles
 ```
+
+</details>
+
+<details>
+    <summary>Plugin Changelog</summary>
+    
+```diff
+N/A
+```
+
+</details>
+
 > **Note:** If you'd like more options added to make plugin development easier without writing up quick test plugins to see everything or `log.debug`'ing everything and reading through spam let me know.
 
 
