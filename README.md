@@ -84,6 +84,10 @@
 
 ### ToB Additions
 
+<table>
+<tr>
+<td>
+
 <details>
     <summary>Plugin Features</summary>
     
@@ -181,6 +185,9 @@ Verzik:
 
 </details>
 
+</td>
+</tr>
+</table>
 
 ### Kills Per Hour
     
