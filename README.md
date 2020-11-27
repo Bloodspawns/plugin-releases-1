@@ -35,7 +35,7 @@
 <tr>
 <td>
 
-### To-Do List:
+## To-Do List
 
 - Plugins:
     - Player Scouter
