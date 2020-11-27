@@ -183,23 +183,8 @@ Verzik:
 
 
 ### Kills Per Hour
-
-<details>
-    <summary>Plugin Features</summary>
     
 **Tracks your Kills Per Hour at bosses**
-
-</details>
-
-<details>
-    <summary>FAQ</summary>
-    
-```
-Q) Why is the kill duration/fastest kill/average kill slightly off? I got a faster time in-game but not on the panel.
-A) The plugin works like this: If an NPC is within the render distance and contains the name of the boss in the whitelist START the timer. STOP the timer if that same boss has despawned. RuneScape deals with durations differently. But I am not going to waste my time to make every boss unique and just going to generalize it.
-```
-    
-</details>
 
 <details>
     <summary>Bosses that work but aren't whitelisted</summary>
