@@ -12,17 +12,18 @@
 
 ---
 
-## Installation
-
 <table>
 <tr>
 <td>
+
+## Installation
 
 - Locate `C:\Users\your_name\.runelite` or `%userprofile%./runelite`
 - Create the **bexternalplugins** folder if it's not present
 - Download any of my plugin jars
 - Drag and drop into **bexternalplugins** folder and restart your client
-- If you experience any issues with the plugins not working feel free to ask for help in **#support**
+
+> **Note:** If you experience any issues with the plugins not working feel free to ask for help in **#support**
 
 </td>
 </tr>
