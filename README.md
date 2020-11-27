@@ -94,7 +94,6 @@
 
 # Plugin Features/Changelogs
 
-
 <table>
 <tr>
 <td>
@@ -213,6 +212,16 @@ Verzik:
 **Tracks your Kills Per Hour at bosses**
 
 <details>
+    <summary>Plugin Changelog</summary>
+    
+```diff
++ 8/24/2020 - Added move-able overlay, with customizable settings to show on it. 
++ 8/24/2020 - Added a option to enable chat messages (displays KPH after each kill)
+```
+
+</details>
+
+<details>
     <summary>Bosses that work but aren't whitelisted</summary>
 
 If you're whitelisting multiple bosses split each boss name with a comma.
@@ -243,16 +252,6 @@ Cave Kraken (for now)
 Abyssal Sire
 Barbarian Assault
 Giant Mole
-```
-
-</details>
-
-<details>
-    <summary>Plugin Changelog</summary>
-    
-```diff
-+ 8/24/2020 - Added move-able overlay, with customizable settings to show on it. 
-+ 8/24/2020 - Added a option to enable chat messages (displays KPH after each kill)
 ```
 
 </details>
