@@ -1,6 +1,6 @@
 # Plugin Releases
 
-[![Click](https://img.shields.io/github/size/losingticks/plugin-releases/releases/tobadditions.jar?label=click%20me&style=flat-square)](https://github.com/nhn/tui.editor/releases/latest)
+[![Click](https://img.shields.io/github/size/losingticks/plugin-releases/blob/main/releases/tobadditions.jar?label=click%20me&style=flat-square)](https://github.com/nhn/tui.editor/releases/latest)
 
 <p align="center">
     <a href="#installation">Installation</a> •
