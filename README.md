@@ -2,9 +2,9 @@
     < plugin releases >
 </h1>
 
-<h2 align="center">
+<h3 align="center">
    plugins created with tons of :heart: by zhuri/nicole :cherry_blossom:
-</h2>
+</h3>
 
 <p align="center">
     <a href="#gear-installation">Installation</a> •
