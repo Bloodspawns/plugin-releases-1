@@ -104,7 +104,7 @@
 <tr>
 <td>
 
-### ToB Additions
+## ToB Additions
 
 <details>
     <summary>Plugin Features</summary>
@@ -213,7 +213,7 @@ Verzik:
 <tr>
 <td>
 
-### Kills Per Hour
+## Kills Per Hour
 
 **Tracks your Kills Per Hour at bosses**
 
@@ -275,7 +275,7 @@ Giant Mole
 <tr>
 <td>
 
-### Spawn Predictor
+## Spawn Predictor
 
 <details>
     <summary>Plugin Features</summary>
@@ -320,7 +320,7 @@ Displays the ongoing rotation for that time, and the upcoming rotation in x amou
 <tr>
 <td>
 
-### Custom Swapper
+## Custom Swapper
 
 <details>
     <summary>Plugin Features</summary>
@@ -372,7 +372,7 @@ https://streamable.com/h5jtd8
 <tr>
 <td>
 
-### Nightmare Extended
+## Nightmare Extended
 
 <details>
     <summary>Plugin Features</summary>
@@ -421,7 +421,7 @@ Green = Ranged Husk, and Blue = Magic Husk
 <tr>
 <td>
 
-### Zulrah
+## Zulrah
 
 **Thank you to all the people that helped me make this plugin possible. @Damen, @Caps Lock, @McNeil for helping me figure out a solution to dealing with resets, and to the original Zulrah plugin creators for giving something to work off of.**
 
@@ -471,7 +471,7 @@ Green = Ranged Husk, and Blue = Magic Husk
 <tr>
 <td>
 
-### World Hopper
+## World Hopper
 
 :warning: **Shadows the RuneLite `World Hopper` Plugin** :warning:
 
@@ -507,7 +507,7 @@ N/A
 <tr>
 <td>
 
-### Animation Cooldown
+## Animation Cooldown
 
 <details>
     <summary>Plugin Features</summary>
@@ -545,7 +545,7 @@ N/A
 <tr>
 <td>
 
-### Grotesque Guardians
+## Grotesque Guardians
 
 <details>
     <summary>Plugin Features</summary>
@@ -582,7 +582,7 @@ N/A
 <tr>
 <td>
 
-### Olm Additions
+## Olm Additions
 
 <details>
     <summary>Plugin Features</summary>
@@ -625,7 +625,7 @@ N/A
 <tr>
 <td>
 
-### Vorkath
+## Vorkath
 
 <details>
     <summary>Plugin Features</summary>
@@ -658,7 +658,7 @@ N/A
 <tr>
 <td>
 
-### Lizardmen Shaman
+## Lizardmen Shaman
 
 <details>
     <summary>Plugin Features</summary>
@@ -690,7 +690,7 @@ N/A
 <tr>
 <td>
 
-### Ham Store Room
+## Ham Store Room
 
 <details>
     <summary>Plugin Features</summary>
@@ -723,7 +723,7 @@ N/A
 <tr>
 <td>
 
-### Shayzien Infirmary
+## Shayzien Infirmary
 
 <details>
     <summary>Plugin Features</summary>
@@ -754,7 +754,7 @@ N/A
 <tr>
 <td>
 
-### Woodcutting
+## Woodcutting
 
 :warning: **Shadows the RuneLite `Woodcutting` Plugin** :warning:
 
@@ -787,7 +787,7 @@ N/A
 <tr>
 <td>
 
-### Developer Tools
+## Developer Tools
 
 <details>
     <summary>Plugin Features</summary>
