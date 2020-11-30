@@ -494,7 +494,7 @@ Green = Ranged Husk, and Blue = Magic Husk
     <summary>Plugin Changelog</summary>
     
 ```diff
-N/A
++ 11/30/2020 - Potentially fixed a issue with the preset world cycle list being out of sync
 ```
 
 </details>
