@@ -569,7 +569,7 @@ N/A
 
 ## Reflection
 
-:warning: **This is a `FUN` type plugin, may cause unexpected issues who knows. :warning:
+:warning: **This is a `FUN` type plugin, may cause unexpected issues who knows.** :warning:
 
 <details>
     <summary>Plugin Features</summary>
@@ -578,7 +578,7 @@ N/A
 - Change the Client Title
 - Change the Discord App ID (SoonTM)
 - Change the Plugin Title Color
-- Change the Plugin Toggle/Pinned Icon Colors
+- Change the Plugin Toggled/Pinned Icon Colors
 ```
 
 </details>
