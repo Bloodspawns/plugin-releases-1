@@ -211,7 +211,7 @@ Verzik:
 + 12/2/2020 Added Xarpus 'Exhumed Timers Special Color'
 + 12/2/2020 Fixed Maiden/Xarpus 'Heals' config to display/remove when enabled/disabled
 + 12/2/2020 Improved the core of 'Bloat HP Bar'
-+ 12/2/2020 Removed 'Hands Render Distance' 
+- 12/2/2020 Removed 'Hands Render Distance' 
 + 12/2/2020 Added 'Hide Bloat Tank'
 + 12/2/2020 Added ability to display Maiden 'Proc Threshold' on Maiden's HP Bar
 (Note: The HP Bar text will be updated on the same frequency as the HP update cycle,
