@@ -120,7 +120,8 @@ Maiden:
 - Proc Threshold
 - Blood Splat Tick Counter
 - Heals Counter
-- Maiden Max Hit
+- Maiden Max Hit (Can include Off Prayer and Elysian)
+- Blood Max Hit
 
 Bloat:
 - In-depth HP
@@ -128,6 +129,8 @@ Bloat:
 - Bloat Hands Tick Counter
 - Bloat Hands Object Hider
 - True Location
+- Directional Path
+- Hide Bloat Tank
 
 Nylo:
 - (Boss) Attack/Switch Tick Counter
@@ -141,9 +144,11 @@ Sotetseg:
 - Projectile Options
 - Hats Options
 - AoE Orb Options
+- Disabled Prayers
 
 Xarpus:
 - Exhumed Timers
+- Exhumed Timers Special Color
 - Heals Counter
 - Line of Sight
 
