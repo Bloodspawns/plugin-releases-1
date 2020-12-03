@@ -65,7 +65,7 @@
 
 | PLUGIN NAME | VERSION | DOWNLOAD | DETAILS | PRIORITY |
 | :---------- | :-----: | :------: | :-----: | :------: |
-| ToB Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.28-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tobadditions.jar) | [Click Here](#tob-additions) | :heavy_check_mark: |
+| ToB Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.29-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tobadditions.jar) | [Click Here](#tob-additions) | :heavy_check_mark: |
 | Kills Per Hour | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/killsperhour.jar) | [Click Here](#kills-per-hour) |  :x: |
 | Fight Caves Spawn Predictor | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.03-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/spawnpredictor.jar) | [Click Here](#spawn-predictor) | :heavy_check_mark: |
 | Custom Swapper | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.10-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/menuentryswapper.jar) | [Click Here](#custom-swapper) | :heavy_check_mark: |
@@ -223,6 +223,7 @@ Verzik:
 (Note: The HP Bar text will be updated on the same frequency as the HP update cycle,
  so it can be behind by a tick from the 'Overlay' option. Also if you turn it off or anything of that sort, 
  it will refresh the HP Bar next HP update cycle)
+ + 12/3/2020 Fixed Bloat Hands issue overriding per hand displaying a new tick counter post hand despawn
 
 ```
 
