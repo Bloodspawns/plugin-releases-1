@@ -65,7 +65,7 @@
 
 | PLUGIN NAME | VERSION | DOWNLOAD | DETAILS | PRIORITY |
 | :---------- | :-----: | :------: | :-----: | :------: |
-| ToB Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.27-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tobadditions.jar) | [Click Here](#tob-additions) | :heavy_check_mark: |
+| ToB Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.28-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tobadditions.jar) | [Click Here](#tob-additions) | :heavy_check_mark: |
 | Kills Per Hour | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/killsperhour.jar) | [Click Here](#kills-per-hour) |  :x: |
 | Fight Caves Spawn Predictor | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.03-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/spawnpredictor.jar) | [Click Here](#spawn-predictor) | :heavy_check_mark: |
 | Custom Swapper | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.10-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/menuentryswapper.jar) | [Click Here](#custom-swapper) | :heavy_check_mark: |
@@ -201,6 +201,23 @@ Verzik:
 + 11/6/2020 Added Dragon Dagger, Adamant Knife, Rune Knife, and Magic Shortbow to Waves Wheelchair
 + 11/6/2020 Added back Verzik P3 Tank
 + 11/8/2020 Fixed client crashes occuring in Bloat
++ 12/2/2020 Plugin now resets when GameState = Loading and if there isn't a present raid
++ 12/2/2020 Fixed 'Maiden Max Hit' to correctly account for nylos post 6th leak
++ 12/2/2020 Changed Maiden Max Hit Config Setup (Re-Enable if previously was enabled)
++ 12/2/2020 Added 'Off Prayer' to Maiden Max Hit Overlay
++ 12/2/2020 Added Maiden 'Blood Max Hit' (Displays as an InfoBox)
++ 12/2/2020 Added Bloat 'Directional Path'
++ 12/2/2020 Added Sotetseg 'Disabled Prayers'
++ 12/2/2020 Added Xarpus 'Exhumed Timers Special Color'
++ 12/2/2020 Fixed Maiden/Xarpus 'Heals' config to display/remove when enabled/disabled
++ 12/2/2020 Improved the core of 'Bloat HP Bar'
++ 12/2/2020 Removed 'Hands Render Distance' 
++ 12/2/2020 Added 'Hide Bloat Tank'
++ 12/2/2020 Added ability to display Maiden 'Proc Threshold' on Maiden's HP Bar
+(Note: The HP Bar text will be updated on the same frequency as the HP update cycle,
+ so it can be behind by a tick from the 'Overlay' option. Also if you turn it off or anything of that sort, 
+ it will refresh the HP Bar next HP update cycle)
+
 ```
 
 </details>
