@@ -73,6 +73,7 @@
 | Zulrah | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/zulrah.jar) | [Click Here](#zulrah) | :heavy_check_mark: |
 | World Hopper | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/worldhopper.jar) | [Click Here](#world-hopper) | :x: |
 | Animation Cooldown | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/animationcooldown.jar) | [Click Here](#animation-cooldown) | :heavy_check_mark: |
+| Reflection | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/reflection.jar) | [Click Here](#reflection) | :x: |
 | Grotesque Guardians | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.03-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/grotesqueguardians.jar) | [Click Here](#grotesque-guardians) | :x: |
 | Vorkath | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/vorkath.jar) | [Click Here](#vorkath) | :x: |
 | Lizardmen Shaman | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/zshaman.jar) | [Click Here](#lizardmen-shaman) | :x: |
@@ -563,6 +564,38 @@ N/A
 <table>
 <tr>
 <td>
+
+
+
+## Reflection
+
+:warning: **This is a `FUN` type plugin, may cause unexpected issues who knows. :warning:
+
+<details>
+    <summary>Plugin Features</summary>
+    
+```diff
+- Change the Client Title
+- Change the Discord App ID (SoonTM)
+- Change the Plugin Title Color
+- Change the Plugin Toggle/Pinned Icon Colors
+```
+
+</details>
+
+<details>
+    <summary>Plugin Changelog</summary>
+    
+```diff
+```
+
+</details>
+
+</td>
+</tr>
+</table>
+
+
 
 ## Grotesque Guardians
 
