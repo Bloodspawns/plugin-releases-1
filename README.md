@@ -69,7 +69,7 @@
 | Kills Per Hour | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/killsperhour.jar) | [Click Here](#kills-per-hour) |  :x: |
 | Fight Caves Spawn Predictor | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.03-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/spawnpredictor.jar) | [Click Here](#spawn-predictor) | :heavy_check_mark: |
 | Custom Swapper | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.10-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/menuentryswapper.jar) | [Click Here](#custom-swapper) | :heavy_check_mark: |
-| Nightmare Extended | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.04-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/znightmare.jar) | [Click Here](#nightmare-extended) | :heavy_check_mark: |
+| Nightmare Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.05-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/znightmare.jar) | [Click Here](#nightmare-additions) | :heavy_check_mark: |
 | Zulrah | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/zulrah.jar) | [Click Here](#zulrah) | :heavy_check_mark: |
 | World Hopper | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/worldhopper.jar) | [Click Here](#world-hopper) | :x: |
 | Animation Cooldown | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/animationcooldown.jar) | [Click Here](#animation-cooldown) | :heavy_check_mark: |
@@ -400,31 +400,37 @@ https://streamable.com/h5jtd8
 <tr>
 <td>
 
-## Nightmare Extended
+## Nightmare Additions
 
 <details>
     <summary>Plugin Features</summary>
     
 ```diff
-- Tick Counter
+The Nightmare:
+- Tick Counters (Attack, Event)
+> Note: Attack = Time until The Nightmare attacks again, Event = Time until a special event (Flower Power, Surge (Until it runs), Parasites) ends
 Ticks until Nightmare will attack you again
-- Event Tick Counter
-Flower Power, Surge (Until it runs), Parasites, and Wake up timer (Only if you saw death animation)
-- Parasites (Displays on the parasites target)
-- Surge settings 
-- Prayer Helper (Overlay)
-- Prayer Marker (Prayer Book)
-Marks the correct prayer (even when cursed) to use as an overlay and/or in prayer book. Overlay will change colors dependent on if you're praying correctly
-- Totem Highlights
+- Surge Helper (Runway, Arrow)
+- Prayer Helper (Overlay, Marker or Both)
+- Contribution Tracker
+- (Player) Parasites Tick Counter
+
+Totems:
 - Totem HP
-- Grasping Claws Highlight
-- Grasping Claws render distance 
-Because why render the entire room when you can render the ones around you
-- Husk Highlight 
-Green = Ranged Husk, and Blue = Magic Husk
-- Husk Target Highlight
-- Spores Tick Counter
-- Spore Highlight
+- Status Highlights
+
+Grasping Claws:
+- Tick Counter
+- Tile Highlight
+- Render Distance 
+
+Husks:
+- Target Highlight
+- Husk Highlight
+
+Spores:
+- Tick Counter
+- Tile AoE Highlights
 ```
 
 </details>
@@ -435,9 +441,35 @@ Green = Ranged Husk, and Blue = Magic Husk
 ```diff
 + 11/11/2020 - Updated Nightmare to reflect latest game update
 + 11/11/2020 - Removed Nightmares death timer from event ticks as it's no longer needed
+
++ 12/7/2020 - Renamed plugin to '[z] Nightmare Additions'
+> Note: This was just to keep consistency between most of the plugins I made, and that can be ran side-by-side with other plugins of the same type.
+
++ 12/7/2020 - Restructured the entire config
+> Note: Re-enable a majority of the plugin as their 'keyName' was changed to make my life easier.
+
++ 12/7/2020 - Fixed configs within the plugin not having a description/tooltip TL;DR'ing the feature
+> Note: Fixed a majority of the descriptions to give more accurate information
+
++ 12/7/2020 - Optimized the 'Runway' feature for the 'Surge' feature
+> Note: This should help out with the intense frame drop some people get during Nightmare's Surge auto.
+
++ 12/7/2020 - Optimized the entire core of collecting and updating totems, their status, and hp
+> Note: This should help out with frame issues as well, previous way was updating/refreshing when it shouldn't and at high speeds.
+
++ 12/7/2020 - Fixed errors occuring during the start of the fight with 'Prayer Marker'
++ 12/7/2020 - Added 'Contribution' Tracker
++ 12/7/2020 - Added 'Grasping Claws Tick Counter'
++ 12/7/2020 - Fixed 'Render Distance' not having a unit measurement in the config
++ 12/7/2020 - Added 'Magic Husk Color' and 'Range Husk Color'
++ 12/7/2020 - Added more render types to 'Husk Target'
++ 12/7/2020 - Added more render types to 'Husk Highlight'
++ 12/7/2020 - Removed 'Prayer Marker Stroke Size'
 ```
 
 </details>
+
+> **Note:** I'm working on some features for Sleepwalkers, and Parasites. I'm also looking into the FPS issues with masses. I also potentially added support for Socket features.
 
 </td>
 </tr>
