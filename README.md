@@ -136,6 +136,7 @@ Bloat:
 Nylo:
 - (Boss) Attack/Switch Tick Counter
 - (Boss) Prayer Helper
+- Hide Pillars
 - Waves Wheelchair
 - Nylo Explosion Ticks
 
@@ -150,6 +151,7 @@ Sotetseg:
 Xarpus:
 - Exhumed Timers
 - Exhumed Timers Special Color
+- Poison Splat (Tile Marker and/or Tick Counter)
 - Heals Counter
 - Line of Sight
 
