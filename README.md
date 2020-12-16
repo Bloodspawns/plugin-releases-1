@@ -65,7 +65,7 @@
 
 | PLUGIN NAME | VERSION | DOWNLOAD | DETAILS | PRIORITY |
 | :---------- | :-----: | :------: | :-----: | :------: |
-| ToB Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.31-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tobadditions.jar) | [Click Here](#tob-additions) | :heavy_check_mark: |
+| ToB Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.32-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tobadditions.jar) | [Click Here](#tob-additions) | :heavy_check_mark: |
 | Kills Per Hour | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/killsperhour.jar) | [Click Here](#kills-per-hour) |  :x: |
 | Fight Caves Spawn Predictor | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.03-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/spawnpredictor.jar) | [Click Here](#spawn-predictor) | :heavy_check_mark: |
 | Custom Swapper | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.10-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/menuentryswapper.jar) | [Click Here](#custom-swapper) | :heavy_check_mark: |
@@ -138,7 +138,9 @@ Nylo:
 - (Boss) Prayer Helper
 - Hide Pillars
 - Waves Wheelchair
-- Nylo Explosion Ticks
+- Recolor Menu (Optionally darken each bigs menu)
+- Time Alive Settings (Total or Explosion)
+- Display Total Time Alive On Menu
 
 Sotetseg:
 - Attack Tick Counter
@@ -233,6 +235,12 @@ Verzik:
 + 12/11/2020 Added requested feature for the ability to hide the Nylocas Pillars
 + 12/11/2020 Added requested feature for Xarpus poison splats customization with dynamic height overlay on the ticks
 > Note: Make sure to turn off the 'Xarpus' option in 'AoeWarnings'
++ 12/16/2020 Added recolor menu option (optionally darken bigs)
+> Note: Added this to make other features of this plugin possible
++ 12/16/2020 Added requested feature to display the nylocas total time alive on menu
+> Note: Make sure to disable other forms of the 'Recolor Menu' feature in other plugins and enable mine if you wish to use it
++ 12/16/2020 Added total time alive feature to Time Alive options
+> Note: Total = Total Time Alive, Explosion = The final 6 ticks of the nylocas being alive
 ```
 
 </details>
