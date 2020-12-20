@@ -69,7 +69,7 @@
 
 | PLUGIN NAME | VERSION | DOWNLOAD | DETAILS | PRIORITY |
 | :---------- | :-----: | :------: | :-----: | :------: |
-| ToB Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.32-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tobadditions.jar) | [Click Here](#tob-additions) | :heavy_check_mark: |
+| ToB Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.33-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tobadditions.jar) | [Click Here](#tob-additions) | :heavy_check_mark: |
 | Kills Per Hour | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/killsperhour.jar) | [Click Here](#kills-per-hour) |  :x: |
 | Fight Caves Spawn Predictor | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.03-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/spawnpredictor.jar) | [Click Here](#spawn-predictor) | :heavy_check_mark: |
 | Custom Swapper | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.10-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/menuentryswapper.jar) | [Click Here](#custom-swapper) | :heavy_check_mark: |
@@ -145,6 +145,7 @@ Nylo:
 - Recolor Menu (Optionally darken each bigs menu)
 - Time Alive Settings (Total or Explosion)
 - Display Total Time Alive On Menu
+- Big Splits
 
 Sotetseg:
 - Attack Tick Counter
@@ -245,6 +246,8 @@ Verzik:
 > Note: Make sure to disable other forms of the 'Recolor Menu' feature in other plugins and enable mine if you wish to use it
 + 12/16/2020 Added total time alive feature to Time Alive options
 > Note: Total = Total Time Alive, Explosion = The final 6 ticks of the nylocas being alive
++ 12/20/2020 Added Big Splits
++ 12/20/2020 Added both variants of SGS to Waves Wheelchair
 ```
 
 </details>
