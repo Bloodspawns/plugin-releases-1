@@ -44,15 +44,19 @@
 ## :spiral_notepad: To-Do List
 
 - Plugins:
+    - (Socket) Boss defence tracker
+    - (Socket) Player Stats
+    - Respawn Timers across worlds
     - Player Scouter
-    - Spellbook Resizer
     - Spell Effect Timers
+    - Spellbook Resizer
 - Updates:
-    - Update Spawn Predictor (:gottago:)
-    - Update ToB (Still cleaning up/removing useless stuff)
-    - Update KPH (Could use a rewrite for a better system & might include Socket)
-    - Fix Lizardmen Shaman Spawns Tick Counter
-    - Completely re-make Olm Additions (Extremely outdated and could be converted to CoX Additions?)
+    - ToB Additions (Nearing the final build of the plugin, little bit more features and fixes left)
+    - Zulrah (A partial rework to fix the non ideal solutions, also some bug fixes and some QoL changes)
+    - KPH (Needs to be reworked, and needs more features. Will be a big project and will take time)
+    - Spawn Predictor (A lot of stuff needs to be fixed)
+    - Custom Swapper (More features, also needs a bug fix)
+    - Lizardmen Shaman (Fix the tick counter on the minions)
 
 </td>
 </tr>
