@@ -662,6 +662,41 @@ N/A
 </table>
 
 
+## Boss Timers
+
+:warning: **Overshadows the RuneLite `Boss Timer` Plugin** :warning:
+
+<details>
+    <summary>Plugin Features</summary>
+    
+```diff
+- All the original features of the RuneLite `Boss Timer` Plugin
+- Ability to see respawn timers across multiple worlds
+- Ability to notify on boss respawn time
+```
+
+</details>
+
+<details>
+    <summary>Plugin Changelog</summary>
+
+```diff
+N/A
+```
+
+</details>
+
+</td>
+</tr>
+</table>
+
+
+
+<table>
+<tr>
+<td>
+
+
 
 ## Grotesque Guardians
 
@@ -904,40 +939,6 @@ N/A
 <table>
 <tr>
 <td>
-
-
-<table>
-<tr>
-<td>
-
-## Boss Timers
-
-:warning: **Overshadows the RuneLite `Boss Timer` Plugin** :warning:
-
-<details>
-    <summary>Plugin Features</summary>
-    
-```diff
-- All the original features of the RuneLite `Boss Timer` Plugin
-- Ability to see respawn timers across multiple worlds
-- Ability to notify on boss respawn time
-```
-
-</details>
-
-<details>
-    <summary>Plugin Changelog</summary>
-
-```diff
-N/A
-```
-
-</details>
-
-</td>
-</tr>
-</table>
-
 
 
 <table>
