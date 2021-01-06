@@ -46,7 +46,6 @@
 - Plugins:
     - (Socket) Boss defence tracker
     - (Socket) Player Stats
-    - Respawn Timers across worlds
     - Player Scouter
     - Spell Effect Timers
     - Spellbook Resizer
@@ -84,6 +83,7 @@
 | Ham Store Room | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/hamstore.jar) | [Click Here](#ham-store-room) | :x: |
 | Shayzien Infirmary | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/shayzieninfirmary.jar) | [Click Here](#shayzien-infirmary) | :x: |
 | Woodcutting | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/woodcutting.jar) | [Click Here](#woodcutting) | :x: |
+| Boss Timers | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/bosstimers.jar) | [Click Here](#boss-timers) | :x: |
 | Developer Tools | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/developertools.jar) | [Click Here](#developer-tools) | :x: |
 
 ---
@@ -904,6 +904,47 @@ N/A
 <table>
 <tr>
 <td>
+
+
+<table>
+<tr>
+<td>
+
+## Boss Timers
+
+:warning: **Overshadows the RuneLite `Boss Timer` Plugin** :warning:
+
+<details>
+    <summary>Plugin Features</summary>
+    
+```diff
+- All the original features of the RuneLite `Boss Timer` Plugin
+- Ability to see respawn timers across multiple worlds
+- Ability to notify on boss respawn time
+```
+
+</details>
+
+<details>
+    <summary>Plugin Changelog</summary>
+
+```diff
+N/A
+```
+
+</details>
+
+</td>
+</tr>
+</table>
+
+
+
+<table>
+<tr>
+<td>
+
+
 
 ## Developer Tools
 
