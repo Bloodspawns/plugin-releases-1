@@ -662,6 +662,13 @@ N/A
 </table>
 
 
+
+<table>
+<tr>
+<td>
+
+
+
 ## Boss Timers
 
 :warning: **Overshadows the RuneLite `Boss Timer` Plugin** :warning:
@@ -685,10 +692,6 @@ N/A
 ```
 
 </details>
-
-</td>
-</tr>
-</table>
 
 
 
@@ -933,17 +936,6 @@ N/A
 </td>
 </tr>
 </table>
-
-
-
-<table>
-<tr>
-<td>
-
-
-<table>
-<tr>
-<td>
 
 
 
