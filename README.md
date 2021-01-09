@@ -76,7 +76,7 @@
 | Zulrah | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/zulrah.jar) | [Click Here](#zulrah) | :heavy_check_mark: |
 | World Hopper | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/worldhopper.jar) | [Click Here](#world-hopper) | :x: |
 | Animation Cooldown | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/animationcooldown.jar) | [Click Here](#animation-cooldown) | :heavy_check_mark: |
-| Reflection | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/reflection.jar) | [Click Here](#reflection) | :x: |
+| Reflection | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/reflection.jar) | [Click Here](#reflection) | :x: |
 | Boss Timers | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/bosstimers.jar) | [Click Here](#boss-timers) | :x: |
 | CoX Overload Timers | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/coxoverloadtimers.jar) | [Click Here](#cox-overload-timers) | :x: |
 | Spec InfoBox | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/specinfobox.jar) | [Click Here](#spec-infobox) | :x: |
@@ -655,6 +655,8 @@ N/A
     <summary>Plugin Changelog</summary>
     
 ```diff
++ 1/9/2021 - Fixed 'Client Title' to work with the latest Client UI update
++ 1/9/2021 - Fixed properly updating the Client UI
 ```
 
 </details>
