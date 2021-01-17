@@ -68,7 +68,7 @@
 
 | PLUGIN NAME | VERSION | DOWNLOAD | DETAILS | PRIORITY |
 | :---------- | :-----: | :------: | :-----: | :------: |
-| ToB Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.35-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tobadditions.jar) | [Click Here](#tob-additions) | :heavy_check_mark: |
+| ToB Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.36-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tobadditions.jar) | [Click Here](#tob-additions) | :heavy_check_mark: |
 | Kills Per Hour | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/killsperhour.jar) | [Click Here](#kills-per-hour) |  :x: |
 | Fight Caves Spawn Predictor | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.03-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/spawnpredictor.jar) | [Click Here](#spawn-predictor) | :heavy_check_mark: |
 | Custom Swapper | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.10-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/menuentryswapper.jar) | [Click Here](#custom-swapper) | :heavy_check_mark: |
@@ -120,15 +120,32 @@
     <summary>Plugin Features</summary>
     
 ```diff
+Extra:
+- Font Types
+- Text Outline
+- Polygon Outline Stroke
+- Polygon Fill Alpha
+- Rendering Hint
+----
+- Recolor Barriers
+- Remove FRC Flag (Makes the [Bank-all] button in the loot room one click) 
+
 Maiden:
-- Nylo HP
-- Nylo Distance
-- Nylo Freeze Timers
-- Proc Threshold
-- Blood Splat Tick Counter
-- Heals Counter
-- Maiden Max Hit (Can include Off Prayer and Elysian)
-- Blood Max Hit
+- Maiden Counters (Tick Counter, Attack Counter)
+- Maiden Phase Markers
+- Maiden Proc Threshold
+- Maiden Heals Counter
+- Maiden Max Hit (Tooltip)
+- Matomenos Spawn Indicators
+- Debug Matomenos Leaks
+- Matomenos HP
+- Matomenos Distance
+- Matomenos Freeze Timers
+- Blood Spawn MES
+- Blood Spawn (True Location & Trailing) marker
+- Blood Splats (Projectile Destination Marker & Ticks Remaining, and Graphic Object Marker)
+- Standing in Blood Notifier (Flashes Screen)
+- Blood Max Hit (InfoBox)
 
 Bloat:
 - In-depth HP
@@ -256,6 +273,28 @@ Verzik:
 + 12/23/2020 Added Eldritch and Volatile staves to Wheelchair
 + 12/23/2020 Added more font options to the 'Font Type' config
 > Note: The overlays were centered around the RS Font Types, this means if you use a non RS Font things could be uncentered
+Maiden: [
++ 1/16/2020 Added Maiden Counters (Attack Counter & Attack Tick Counter)
++ 1/16/2020 Added Maiden Phase Markers
++ 1/16/2020 Added 'Matomenos Spawn Indicators' (Shows you whether or not the spawns are scuffed)
++ 1/16/2020 Added 'Debug Matomenos Leaks'
++ 1/16/2020 Added 'Blood Spawn MES' (Prevents you from casting Ice Barrage/Ice Blitz on Blood Spawns)
++ 1/16/2020 Added 'Blood Spawn' (Tracks the real position and trailing position of each Blood Spawn)
++ 1/16/2020 Added '(Standing in Blood) Flash Screen' (Flashes the game canvas whilst standing in blood)
++ 1/16/2020 Fixed Maiden's HP going above her Base HP and below zero
++ 1/16/2020 Fixed Maiden's 'Heals' chat message being sent if leaving spectator mode or leaving mid fight
++ 1/16/2020 Fixed Matomenos 'HP on Menu Options' not displaying whilst casting spells
++ 1/16/2020 Fixed 'Matomenos Freeze Timers' not showing on every frozen nylocas
++ 1/16/2020 Added [Bind, Snare, Entangle] to 'Matomenos Freeze Timeers'
++ 1/16/2020 Updated the 'Matomenos Distance' config (Can now toggle between always seeing it or while they're moving)
++ 1/16/2020 Updated 'Matomenos Distance' (Should be more precise by one tile)
++ 1/16/2020 Changed 'Blood Splats' (Now displays both the projectile destination and the graphic object lifespan)
++ 1/16/2020 Changed 'Max Hit' to 'Max Hit (ToolTip)'
+> Now displays as a tooltip when hovering over Maiden's clickbox showing all of her max hits
++ 1/16/2020 Updated Threshold 'Overlay/Panel' & 'Max Hit Tooltip' overlay to not run in the background if disabled/off
++ 1/16/2020 Updated all of the Matomenos overlays, they should now be combined into one to prevent mash-up
+]
++ 1/16/2020 Added 'Remove FRC Flag' in the Funsies section
 ```
 
 </details>
