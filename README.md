@@ -68,8 +68,7 @@
 
 | PLUGIN NAME | VERSION | DOWNLOAD | DETAILS | PRIORITY |
 | :---------- | :-----: | :------: | :-----: | :------: |
-| ToB Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.36-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tobadditions.jar) | [Click Here](#tob-additions) | :heavy_check_mark: |
-| Kills Per Hour | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/killsperhour.jar) | [Click Here](#kills-per-hour) |  :x: |
+| ToB Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.37-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tobadditions.jar) | [Click Here](#tob-additions) | :heavy_check_mark: |
 | Fight Caves Spawn Predictor | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.03-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/spawnpredictor.jar) | [Click Here](#spawn-predictor) | :heavy_check_mark: |
 | Custom Swapper | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.10-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/menuentryswapper.jar) | [Click Here](#custom-swapper) | :heavy_check_mark: |
 | Nightmare Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.05-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/znightmare.jar) | [Click Here](#nightmare-additions) | :heavy_check_mark: |
@@ -81,13 +80,13 @@
 | CoX Overload Timers | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/coxoverloadtimers.jar) | [Click Here](#cox-overload-timers) | :x: |
 | Default Interface Tab | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/defaulttab.jar) | [Click Here](#default-interface-tab) | :x: |
 | Spec InfoBox | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/specinfobox.jar) | [Click Here](#spec-infobox) | :x: |
-| Grotesque Guardians | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.03-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/grotesqueguardians.jar) | [Click Here](#grotesque-guardians) | :x: |
+| Grotesque Guardians | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.04-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/grotesqueguardians.jar) | [Click Here](#grotesque-guardians) | :x: |
 | Vorkath | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/vorkath.jar) | [Click Here](#vorkath) | :x: |
 | Lizardmen Shaman | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/zshaman.jar) | [Click Here](#lizardmen-shaman) | :x: |
 | Ham Store Room | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/hamstore.jar) | [Click Here](#ham-store-room) | :x: |
 | Shayzien Infirmary | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/shayzieninfirmary.jar) | [Click Here](#shayzien-infirmary) | :x: |
 | Woodcutting | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/woodcutting.jar) | [Click Here](#woodcutting) | :x: |
-| Developer Tools | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/developertools.jar) | [Click Here](#developer-tools) | :x: |
+| Developer Tools | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.03-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/developertools.jar) | [Click Here](#developer-tools) | :x: |
 
 ---
 
@@ -97,6 +96,7 @@
 | PLUGIN NAME | VERSION | DOWNLOAD | DETAILS |
 | :---------- | :-----: | :------: | :-----: |
 | Olm Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-red?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/olmadditions.jar) | [Click Here](#olm-additions) |
+| Kills Per Hour | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-red?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/killsperhour.jar) | [Click Here](#kills-per-hour) |
 
 ---
 
@@ -295,6 +295,10 @@ Maiden: [
 + 1/16/2020 Updated all of the Matomenos overlays, they should now be combined into one to prevent mash-up
 ]
 + 1/16/2020 Added 'Remove FRC Flag' in the Funsies section
++ 2/5/2020 Fixed an very old NPE when getting the InstanceRegionID
++ 2/5/2020 Fixed the 'Phase Marker Color' NPE
++ 2/5/2020 Fixed 'Maiden Max Hit (Tooltip)' not being considered a tooltip
++ 2/5/2020 Updated to reflect lastest API change
 ```
 
 </details>
@@ -883,7 +887,7 @@ Displays when each is immune/not immune or transitioning
     <summary>Plugin Changelog</summary>
     
 ```diff
-N/A
++ 2/5/2020 Updated to reflect lastest API change
 ```
 
 </details>
@@ -1133,6 +1137,7 @@ Supports: Players/NPCs and Projectiles
     
 ```diff
 + 1/27/2020 Updated to reflect latest API changes
++ 2/5/2020 Updated to reflect lastest API change
 ```
 
 </details>
