@@ -274,31 +274,31 @@ Verzik:
 + 12/23/2020 Added more font options to the 'Font Type' config
 > Note: The overlays were centered around the RS Font Types, this means if you use a non RS Font things could be uncentered
 Maiden: [
-+ 1/16/2020 Added Maiden Counters (Attack Counter & Attack Tick Counter)
-+ 1/16/2020 Added Maiden Phase Markers
-+ 1/16/2020 Added 'Matomenos Spawn Indicators' (Shows you whether or not the spawns are scuffed)
-+ 1/16/2020 Added 'Debug Matomenos Leaks'
-+ 1/16/2020 Added 'Blood Spawn MES' (Prevents you from casting Ice Barrage/Ice Blitz on Blood Spawns)
-+ 1/16/2020 Added 'Blood Spawn' (Tracks the real position and trailing position of each Blood Spawn)
-+ 1/16/2020 Added '(Standing in Blood) Flash Screen' (Flashes the game canvas whilst standing in blood)
-+ 1/16/2020 Fixed Maiden's HP going above her Base HP and below zero
-+ 1/16/2020 Fixed Maiden's 'Heals' chat message being sent if leaving spectator mode or leaving mid fight
-+ 1/16/2020 Fixed Matomenos 'HP on Menu Options' not displaying whilst casting spells
-+ 1/16/2020 Fixed 'Matomenos Freeze Timers' not showing on every frozen nylocas
-+ 1/16/2020 Added [Bind, Snare, Entangle] to 'Matomenos Freeze Timeers'
-+ 1/16/2020 Updated the 'Matomenos Distance' config (Can now toggle between always seeing it or while they're moving)
-+ 1/16/2020 Updated 'Matomenos Distance' (Should be more precise by one tile)
-+ 1/16/2020 Changed 'Blood Splats' (Now displays both the projectile destination and the graphic object lifespan)
-+ 1/16/2020 Changed 'Max Hit' to 'Max Hit (ToolTip)'
++ 1/16/2021 Added Maiden Counters (Attack Counter & Attack Tick Counter)
++ 1/16/2021 Added Maiden Phase Markers
++ 1/16/2021 Added 'Matomenos Spawn Indicators' (Shows you whether or not the spawns are scuffed)
++ 1/16/2021 Added 'Debug Matomenos Leaks'
++ 1/16/2021 Added 'Blood Spawn MES' (Prevents you from casting Ice Barrage/Ice Blitz on Blood Spawns)
++ 1/16/2021 Added 'Blood Spawn' (Tracks the real position and trailing position of each Blood Spawn)
++ 1/16/2021 Added '(Standing in Blood) Flash Screen' (Flashes the game canvas whilst standing in blood)
++ 1/16/2021 Fixed Maiden's HP going above her Base HP and below zero
++ 1/16/2021 Fixed Maiden's 'Heals' chat message being sent if leaving spectator mode or leaving mid fight
++ 1/16/2021 Fixed Matomenos 'HP on Menu Options' not displaying whilst casting spells
++ 1/16/2021 Fixed 'Matomenos Freeze Timers' not showing on every frozen nylocas
++ 1/16/2021 Added [Bind, Snare, Entangle] to 'Matomenos Freeze Timeers'
++ 1/16/2021 Updated the 'Matomenos Distance' config (Can now toggle between always seeing it or while they're moving)
++ 1/16/2021 Updated 'Matomenos Distance' (Should be more precise by one tile)
++ 1/16/2021 Changed 'Blood Splats' (Now displays both the projectile destination and the graphic object lifespan)
++ 1/16/2021 Changed 'Max Hit' to 'Max Hit (ToolTip)'
 > Now displays as a tooltip when hovering over Maiden's clickbox showing all of her max hits
-+ 1/16/2020 Updated Threshold 'Overlay/Panel' & 'Max Hit Tooltip' overlay to not run in the background if disabled/off
-+ 1/16/2020 Updated all of the Matomenos overlays, they should now be combined into one to prevent mash-up
++ 1/16/2021 Updated Threshold 'Overlay/Panel' & 'Max Hit Tooltip' overlay to not run in the background if disabled/off
++ 1/16/2021 Updated all of the Matomenos overlays, they should now be combined into one to prevent mash-up
 ]
-+ 1/16/2020 Added 'Remove FRC Flag' in the Funsies section
-+ 2/5/2020 Fixed an very old NPE when getting the InstanceRegionID
-+ 2/5/2020 Fixed the 'Phase Marker Color' NPE
-+ 2/5/2020 Fixed 'Maiden Max Hit (Tooltip)' not being considered a tooltip
-+ 2/5/2020 Updated to reflect lastest API change
++ 1/16/2021 Added 'Remove FRC Flag' in the Funsies section
++ 2/5/2021 Fixed an very old NPE when getting the InstanceRegionID
++ 2/5/2021 Fixed the 'Phase Marker Color' NPE
++ 2/5/2021 Fixed 'Maiden Max Hit (Tooltip)' not being considered a tooltip
++ 2/5/2021 Updated to reflect lastest API change
 ```
 
 </details>
@@ -625,10 +625,10 @@ Spores:
     
 ```diff
 + 11/30/2020 - Potentially fixed a issue with the preset world cycle list being out of sync
-+ 1/27/2020 - Merged WorldHopper updates with RuneLite
-+ 1/27/2020 - Updated to reflect lastest API changes
-+ 1/27/2020 - Fixed the ping not displaying
-+ 1/27/2020 - Fixed world cycle list losing it's sync/not even working after awhile
++ 1/27/2021 - Merged WorldHopper updates with RuneLite
++ 1/27/2021 - Updated to reflect lastest API changes
++ 1/27/2021 - Fixed the ping not displaying
++ 1/27/2021 - Fixed world cycle list losing it's sync/not even working after awhile
 ```
 
 </details>
@@ -1136,8 +1136,8 @@ Supports: Players/NPCs and Projectiles
     <summary>Plugin Changelog</summary>
     
 ```diff
-+ 1/27/2020 Updated to reflect latest API changes
-+ 2/5/2020 Updated to reflect lastest API change
++ 1/27/2021 Updated to reflect latest API changes
++ 2/5/2021 Updated to reflect lastest API change
 ```
 
 </details>
