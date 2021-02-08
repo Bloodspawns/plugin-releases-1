@@ -75,6 +75,7 @@
 | Zulrah | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/zulrah.jar) | [Click Here](#zulrah) | :heavy_check_mark: |
 | World Hopper | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.03-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/worldhopper.jar) | [Click Here](#world-hopper) | :x: |
 | Animation Cooldown | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/animationcooldown.jar) | [Click Here](#animation-cooldown) | :heavy_check_mark: |
+| Damage Drops | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/damagedrops.jar) | [Click Here](#damage-drops) | :x: |
 | Reflection | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/reflection.jar) | [Click Here](#reflection) | :x: |
 | Boss Timers | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/bosstimers.jar) | [Click Here](#boss-timers) | :x: |
 | CoX Overload Timers | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/coxoverloadtimers.jar) | [Click Here](#cox-overload-timers) | :x: |
@@ -670,6 +671,41 @@ N/A
 | Animation List | `animation_id,ticks` | `8056,5` |
 
 > **Note:** Use the `Debug` option to fetch most of the data you'll need to setup the lists. This wont display ticks for animations only weapon speeds so i.e. burning a log. This mean you will have to know how long it is or look them up on Google. 
+
+</td>
+</tr>
+</table>
+
+
+
+<table>
+<tr>
+<td>
+
+
+
+## Damage Drops
+
+:warning: Credits to TheStonedTurtle and OpenOSRS for base code to work off of :)
+
+<details>
+    <summary>Plugin Features</summary>
+    
+```diff
+- Displays your rough estimate damage per experience drop
+- Abillity to add it to the exp drop or replace the experience drop
+```
+
+</details>
+
+<details>
+    <summary>Plugin Changelog</summary>
+    
+```diff
+N/A
+```
+
+</details>
 
 </td>
 </tr>
