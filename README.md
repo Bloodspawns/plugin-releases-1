@@ -97,16 +97,16 @@
 
 | PLUGIN NAME | VERSION | DOWNLOAD | DETAILS |
 | :---------- | :-----: | :------: | :-----: |
-| Olm Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-red?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/olmadditions.jar) | [Click Here](#olm-additions) |
-| Kills Per Hour | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-red?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/killsperhour.jar) | [Click Here](#kills-per-hour) |
+| Olm Additions | <img src="https://img.shields.io/badge/unstable%20version-v0.01-red?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/olmadditions.jar) | [Click Here](#olm-additions) |
+| Kills Per Hour | <img src="https://img.shields.io/badge/unstable%20version-v0.02-red?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/killsperhour.jar) | [Click Here](#kills-per-hour) |
 
 ---
 
 ## :open_file_folder: Old RuneLite Plugins List
 | PLUGIN NAME | VERSION | DOWNLOAD |
 | :---------- | :-----: | :------: |
-| Demonic Gorillas | <img src="https://img.shields.io/badge/unstable%20version-v0.01-green?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/demonicgorilla.jar) |
-| Opponent Information | <img src="https://img.shields.io/badge/unstable%20version-v0.01-green?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/opponentinfo.jar) |
+| Demonic Gorillas | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-green?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/demonicgorilla.jar) |
+| Opponent Information | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-green?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/opponentinfo.jar) |
 
 ---
 
