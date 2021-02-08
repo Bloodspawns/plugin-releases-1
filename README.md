@@ -69,7 +69,7 @@
 
 | PLUGIN NAME | VERSION | DOWNLOAD | DETAILS | PRIORITY |
 | :---------- | :-----: | :------: | :-----: | :------: |
-| ToB Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.37-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tobadditions.jar) | [Click Here](#tob-additions) | :heavy_check_mark: |
+| ToB Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.38-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tobadditions.jar) | [Click Here](#tob-additions) | :heavy_check_mark: |
 | Fight Caves Spawn Predictor | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.03-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/spawnpredictor.jar) | [Click Here](#spawn-predictor) | :heavy_check_mark: |
 | Custom Swapper | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.10-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/menuentryswapper.jar) | [Click Here](#custom-swapper) | :heavy_check_mark: |
 | Nightmare Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.05-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/znightmare.jar) | [Click Here](#nightmare-additions) | :heavy_check_mark: |
@@ -153,7 +153,7 @@ Bloat:
 - In-depth HP
 - Bloat Hands Overlay
 - Bloat Hands Tick Counter
-- Bloat Hands Object Hider
+- Stomp Safespot Lines
 - True Location
 - Directional Path
 - Hide Bloat Tank
@@ -168,6 +168,8 @@ Nylo:
 - Time Alive Settings (Total or Explosion)
 - Display Total Time Alive On Menu
 - Big Splits
+- Explosion AoE
+- Bigs SW
 
 Sotetseg:
 - Attack Tick Counter
@@ -301,6 +303,20 @@ Maiden: [
 + 2/5/2021 Fixed the 'Phase Marker Color' NPE
 + 2/5/2021 Fixed 'Maiden Max Hit (Tooltip)' not being considered a tooltip
 + 2/5/2021 Updated to reflect lastest API change
++ 2/8/2021 Updated some methods to the non-deprecrated ones
++ 2/8/2021 Added a new section for Maiden called 'Maiden Ext'
++ 2/8/2021 Moved some Maiden features that DO conflict with other plugins here
++ 2/8/2021 Added the ability to revert back to how I used to do overlay rendering for the Matomenos Overlays and Maiden Max Hit
++ 2/8/2021 Added back the ability to change what to display under the Max Hit overlays
++ 2/8/2021 Updated Bloat HP Overlay Panel to not run in the background if disabled/off
++ 2/8/2021 Updated 'Hide Bloat Tank' to hide the entire top plane
++ 2/8/2021 Added Bloat Stomp Safespot Lines
+- 2/8/2021 Removed 'Hide Hands Object' (Was crazily broken, and never used, not adding it back)
++ 2/8/2021 Fixed Big Splits not displaying for popping by itself
++ 2/8/2021 Fixed Big Splits to display whilst dying
++ 2/8/2021 Added ability to display the Nylocas Bigs SW Tile
++ 2/8/2021 Added a new section for Nylocas called 'Nylocas Ext'
++ 2/8/2021 Added ability to display the Explosion AOE for nylocas (all credits goes to big J the dynamic poly feature)
 ```
 
 </details>
