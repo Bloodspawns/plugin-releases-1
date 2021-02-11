@@ -69,7 +69,7 @@
 
 | PLUGIN NAME | VERSION | DOWNLOAD | DETAILS | PRIORITY |
 | :---------- | :-----: | :------: | :-----: | :------: |
-| ToB Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.38-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tobadditions.jar) | [Click Here](#tob-additions) | :heavy_check_mark: |
+| ToB Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.39-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tobadditions.jar) | [Click Here](#tob-additions) | :heavy_check_mark: |
 | Fight Caves Spawn Predictor | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.03-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/spawnpredictor.jar) | [Click Here](#spawn-predictor) | :heavy_check_mark: |
 | Custom Swapper | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.10-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/menuentryswapper.jar) | [Click Here](#custom-swapper) | :heavy_check_mark: |
 | Nightmare Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.05-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/znightmare.jar) | [Click Here](#nightmare-additions) | :heavy_check_mark: |
@@ -180,8 +180,10 @@ Sotetseg:
 - Disabled Prayers
 
 Xarpus:
+- Exhumed Counter
 - Exhumed Timers
 - Exhumed Timers Special Color
+- Exhumed Object Outliner
 - Poison Splat (Tile Marker and/or Tick Counter)
 - Heals Counter
 - Line of Sight
@@ -317,6 +319,10 @@ Maiden: [
 + 2/8/2021 Added ability to display the Nylocas Bigs SW Tile
 + 2/8/2021 Added a new section for Nylocas called 'Nylocas Ext'
 + 2/8/2021 Added ability to display the Explosion AOE for nylocas (all credits goes to big J the dynamic poly feature)
++ 2/11/2021 Added the ability to change between (Static, Dynamic, and Rave) color modes for 'Explosion AoE'
++ 2/11/2021 Added Exhumed Counter (counts down from max, and displays max. eg: "Exhumeds: 4/15")
++ 2/11/2021 Added Exhumed Object Outliner
+- 2/11/2021 Temporarily removed the removal of the top plane above the Bloat tank until I find a proper fix
 ```
 
 </details>
