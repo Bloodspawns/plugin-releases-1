@@ -1,0 +1,10 @@
+{
+	"artifacts": [
+		{
+			"jarName": "tobadditions",
+			"version": "0.41",
+			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/tobadditions.jar",
+			"sha256": "CC77BD2C1596057B524C263889F3370A108C7F336D70C042B917F2743D933891"
+		}
+	]
+}
