@@ -1,8 +1,8 @@
 {
 	"artifacts": [
 		{
-			"name": "tobadditions.jar",
-			"plugins": ["net.runelite.client.plugins.ztobadditions.TobAdditionsPlugin"],
+			"name": "config.jar",
+			"plugins": [""],
 			"version": "0.41",
 			"path": "https://cdn.discordapp.com/attachments/760953822633263176/814498922457989120/config.jar",
 			"hash": "3c65ca53517e1a8874dbbfd7dd327ce06688e4fa3591b769e0cf52aadcfc0de3",
