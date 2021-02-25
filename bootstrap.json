@@ -1,11 +1,11 @@
 {
 	"artifacts": [
 		{
-			"name": "config.jar",
-			"plugins": [""],
+			"name": "tobadditions.jar",
+			"plugins": ["net.runelite.client.plugins.ztobadditions.TobAdditionsPlugin"],
 			"version": "0.41",
-			"path": "https://cdn.discordapp.com/attachments/760953822633263176/814498922457989120/config.jar",
-			"hash": "3c65ca53517e1a8874dbbfd7dd327ce06688e4fa3591b769e0cf52aadcfc0de3",
+			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/tobadditions.jar",
+			"hash": "cc77bd2c1596057b524c263889f3370a108c7f336d70c042b917f2743d933891",
 			"description": "all-in-one plugin to aid you through theatre of blood"
 		},
 		{
