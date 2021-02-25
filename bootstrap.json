@@ -31,8 +31,7 @@
 			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/znightmare.jar",
 			"hash": "91d30c050c51374b9152d2fd88773e9552af124d11e798eec470a46e66e9daff",
 			"description": ""
-		}
-		,
+		},
 		{
 			"name": "zulrah.jar",
 			"plugins": ["net.runelite.client.plugins.zulrah.ZulrahPlugin"],
