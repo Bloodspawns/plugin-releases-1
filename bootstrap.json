@@ -1,7 +1,7 @@
 {
 	"artifacts": [
 		{
-			"name": "tobadditions.jar",
+			"name": "tobadditions.ja",
 			"plugins": ["net.runelite.client.plugins.ztobadditions.TobAdditionsPlugin"],
 			"version": "0.41",
 			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/tobadditions.jar",
