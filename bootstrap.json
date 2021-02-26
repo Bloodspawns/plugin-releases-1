@@ -121,6 +121,14 @@
 			"description": ""
 		},
 		{
+			"name": "developertools.jar",
+			"plugins": ["net.runelite.client.plugins.developertools.ToolsPlugin"],
+			"version": "0.03",
+			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/developertools.jar",
+			"hash": "216d81b42d1017911d28b14bcdf172e641f48cf951a105d9b41219e280260482",
+			"description": ""
+		},
+		{
 			"name": "olmadditions.jar",
 			"plugins": ["net.runelite.client.plugins.zolmadditions.zOlmPlugin"],
 			"version": "0.01",
