@@ -14,7 +14,7 @@
 			"version": "0.03",
 			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/spawnpredictor.jar",
 			"hash": "925ede4e39ff5cdea1f50f72d1af5a018e51a05cb59399191a75b6d834c2a0bd",
-			"description": ""
+			"description": "N/A"
 		},
 		{
 			"name": "menuentryswapper.jar",
@@ -22,7 +22,7 @@
 			"version": "0.10",
 			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/menuentryswapper.jar",
 			"hash": "664d03f07c2f269b8f96b0a5cf066a5af7dbc83f86bf6b2961567cba5700b31e",
-			"description": ""
+			"description": "set your own entry swaps and/or removal of entries"
 		},
 		{
 			"name": "znightmare.jar",
@@ -30,7 +30,7 @@
 			"version": "0.05",
 			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/znightmare.jar",
 			"hash": "91d30c050c51374b9152d2fd88773e9552af124d11e798eec470a46e66e9daff",
-			"description": ""
+			"description": "all-in-one plugin to aid you through nightmare of ashihama"
 		},
 		{
 			"name": "zulrah.jar",
@@ -38,7 +38,7 @@
 			"version": "0.02",
 			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/zulrah.jar",
 			"hash": "c595e983f814dfe06777d2bc092a61e2a55317c1a21169914a2c42ef186dd454",
-			"description": ""
+			"description": "all-in-one plugin to aid you through zulrah"
 		},
 		{
 			"name": "animationcooldown.jar",
@@ -46,7 +46,7 @@
 			"version": "0.02",
 			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/animationcooldown.jar",
 			"hash": "5ca357d56c4767562de7e43ea04bd7a266749c35d43d3504516b38189ed28a18",
-			"description": ""
+			"description": "display your tick cooldown for weapons/animations you set"
 		},
 		{
 			"name": "reflection.jar",
@@ -54,7 +54,7 @@
 			"version": "0.02",
 			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/reflection.jar",
 			"hash": "3ab18e628ae71e34170f7bc7a18b925679b02d9727992baac68c5a567d1cc06b",
-			"description": ""
+			"description": "modify properties of your client at runtime"
 		},
 		{
 			"name": "coxoverloadtimers.jar",
@@ -62,7 +62,7 @@
 			"version": "0.01",
 			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/coxoverloadtimers.jar",
 			"hash": "ddd7dafc4c41a4cb0880da4700833c59ee75d81a3014b2a54c6502cacab8e2b4",
-			"description": ""
+			"description": "custom chambers overload timer with extra features"
 		},
 		{
 			"name": "defaulttab.jar",
@@ -70,7 +70,7 @@
 			"version": "0.02",
 			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/defaulttab.jar",
 			"hash": "e106cd7752b46f7877c309c4818121ec19dc5e8f73febfd7ea4d052d7aff230d",
-			"description": ""
+			"description": "set a default interface tab for logging in and/or post hopping"
 		},
 		{
 			"name": "specinfobox.jar",
@@ -78,7 +78,7 @@
 			"version": "0.01",
 			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/specinfobox.jar",
 			"hash": "569a7620fae6f44163a4f362cb86b91f1ad9a7015eb4bab6caa9eed2f7a2553f",
-			"description": ""
+			"description": "displays an infobox when you can spec based on a threshold you set"
 		},
 		{
 			"name": "grotesqueguardians.jar",
@@ -86,7 +86,7 @@
 			"version": "0.04",
 			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/grotesqueguardians.jar",
 			"hash": "75477262b99e8e25b99a930a5343ecb1e8d4a14d7acb50c8f4b02314651fa7eb",
-			"description": ""
+			"description": "all-in-one plugin to aid you through grotesque guardians"
 		},
 		{
 			"name": "vorkath.jar",
@@ -94,7 +94,7 @@
 			"version": "0.02",
 			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/vorkath.jar",
 			"hash": "882efd2ecbafff0e836da9379b3851b947a237010773632371bb088cdf22a116",
-			"description": ""
+			"description": "all-in-one plugin to aid you through vorkath"
 		},
 		{
 			"name": "zshaman.jar",
@@ -102,7 +102,7 @@
 			"version": "0.01",
 			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/zshaman.jar",
 			"hash": "73aff194a6b36e979c52d726ff3b40e009e744975ff71ec84d7a6b748f75e4e3",
-			"description": ""
+			"description": "displays information on lizardman shamans and their spawns"
 		},
 		{
 			"name": "hamstore.jar",
@@ -110,7 +110,7 @@
 			"version": "0.01",
 			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/hamstore.jar",
 			"hash": "7910bf5ee834b6ae171ec3085df9c3d6c65e7ab2b15add384c44162248e4e1df",
-			"description": ""
+			"description": "assists you in the ham store room with highlights and mes"
 		},
 		{
 			"name": "shayzieninfirmary.jar",
@@ -126,7 +126,7 @@
 			"version": "0.03",
 			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/developertools.jar",
 			"hash": "216d81b42d1017911d28b14bcdf172e641f48cf951a105d9b41219e280260482",
-			"description": ""
+			"description": "displays the status of the soldiers inside the shayzien infirmary"
 		},
 		{
 			"name": "olmadditions.jar",
@@ -134,7 +134,7 @@
 			"version": "0.01",
 			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/olmadditions.jar",
 			"hash": "27be67c27d06f4228df56bb53108e99480658541a1000e772c026b677d724a9e",
-			"description": ""
+			"description": "tools to aid you in the great olm fight"
 		},
 		{
 			"name": "killsperhour.jar",
@@ -142,7 +142,7 @@
 			"version": "0.02",
 			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/killsperhour.jar",
 			"hash": "ac5049fb709f2081db486ca8859a8d86cc7407a7ced15ff49c4be3428a58adf8",
-			"description": ""
+			"description": "tracks your kills per hour at pvm bosses"
 		},
 		{
 			"name": "demonicgorilla.jar",
@@ -150,7 +150,7 @@
 			"version": "0.01",
 			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/demonicgorilla.jar",
 			"hash": "dedcf1539598ac437479e0cbfa8fa0180e74be263e5eaa7a065946f8bcf9f886",
-			"description": ""
+			"description": "count demonic gorilla attacks and display their next possible attack styles"
 		}
 	]
 }
