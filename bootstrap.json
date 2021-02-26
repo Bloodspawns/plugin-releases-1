@@ -118,7 +118,7 @@
 			"version": "0.02",
 			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/shayzieninfirmary.jar",
 			"hash": "6fe996797aeea303b52b4882494426a9d8bb3c09f30f6a8603e3cb03d7bf6f7e",
-			"description": ""
+			"description": "displays the status of the soldiers inside the shayzien infirmary"
 		},
 		{
 			"name": "developertools.jar",
@@ -126,7 +126,7 @@
 			"version": "0.03",
 			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/developertools.jar",
 			"hash": "216d81b42d1017911d28b14bcdf172e641f48cf951a105d9b41219e280260482",
-			"description": "displays the status of the soldiers inside the shayzien infirmary"
+			"description": "extra tools to assist in developing/debugging"
 		},
 		{
 			"name": "olmadditions.jar",
