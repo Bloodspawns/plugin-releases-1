@@ -5,7 +5,7 @@
 			"plugins": ["net.runelite.client.plugins.ztobadditions.TobAdditionsPlugin"],
 			"version": "0.1",
 			"path": "https://cdn.discordapp.com/attachments/700260222823956500/814523201484619816/tobadditions.jar",
-			"hash": "d0f89961bb91a447a9aaf8aa1fa75d88e3f6a78c894272af2b2c7bbf003b6f42",
+			"hash": "71dcc894e33c5c8cbbaad55cd81d661c141e78414254dc377ddfda379daf3008",
 			"description": "all-in-one plugin to aid you through theatre of blood"
 		},
 		{
