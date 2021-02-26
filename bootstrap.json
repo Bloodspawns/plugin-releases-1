@@ -14,7 +14,7 @@
 			"version": "0.03",
 			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/spawnpredictor.jar",
 			"hash": "925ede4e39ff5cdea1f50f72d1af5a018e51a05cb59399191a75b6d834c2a0bd",
-			"description": "N/A"
+			"description": "predicts the server rotation and the spawn locations for each wave"
 		},
 		{
 			"name": "menuentryswapper.jar",
