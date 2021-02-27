@@ -72,6 +72,14 @@
 			"hash": "e106cd7752b46f7877c309c4818121ec19dc5e8f73febfd7ea4d052d7aff230d",
 			"description": "set a default interface tab for logging in and/or post hopping"
 		},
+				{
+			"name": "hideunder.jar",
+			"plugins": ["net.runelite.client.plugins.hideunder.HideUnderPlugin"],
+			"version": "0.01",
+			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/hideunder.jar",
+			"hash": "fb0a7725006025c3f3d32a3e8b8a6c4a6693f32c6a18fdbc47d1298cab843ca1",
+			"description": "hide your entity when under people"
+		},
 		{
 			"name": "specinfobox.jar",
 			"plugins": ["net.runelite.client.plugins.specinfobox.SpecIBPlugin"],
