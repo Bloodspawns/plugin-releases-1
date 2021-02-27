@@ -72,7 +72,7 @@
 			"hash": "e106cd7752b46f7877c309c4818121ec19dc5e8f73febfd7ea4d052d7aff230d",
 			"description": "set a default interface tab for logging in and/or post hopping"
 		},
-				{
+		{
 			"name": "hideunder.jar",
 			"plugins": ["net.runelite.client.plugins.hideunder.HideUnderPlugin"],
 			"version": "0.01",
