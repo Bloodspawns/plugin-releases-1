@@ -78,6 +78,7 @@
 | Animation Cooldown | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/animationcooldown.jar) | [Click Here](#animation-cooldown) | :heavy_check_mark: |
 | Damage Drops | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/damagedrops.jar) | [Click Here](#damage-drops) | :x: |
 | Reflection | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/reflection.jar) | [Click Here](#reflection) | :x: |
+| BA Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/barbassault.jar) | [Click Here](#ba-additions) | :x: |
 | Boss Timers | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/bosstimers.jar) | [Click Here](#boss-timers) | :x: |
 | CoX Overload Timers | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/coxoverloadtimers.jar) | [Click Here](#cox-overload-timers) | :x: |
 | Default Interface Tab | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/defaulttab.jar) | [Click Here](#default-interface-tab) | :x: |
@@ -777,6 +778,42 @@ N/A
 </tr>
 </table>
 
+
+
+<table>
+<tr>
+<td>
+
+
+
+## BA Additions
+
+:warning: **Halfly converted from OPRS, also mostly unfinished as im extremely burnt** :warning:
+
+<details>
+    <summary>Plugin Features</summary>
+    
+```diff
+- Mark called items
+- One-click calls
+- Deprio bait
+- Deprio incorrect eggs
+```
+
+</details>
+
+<details>
+    <summary>Plugin Changelog</summary>
+    
+```diff
+N/A
+```
+
+</details>
+
+</td>
+</tr>
+</table>
 
 
 <table>
