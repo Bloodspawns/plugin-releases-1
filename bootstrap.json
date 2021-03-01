@@ -57,6 +57,14 @@
 			"description": "modify properties of your client at runtime"
 		},
 		{
+			"name": "barbassault.jar",
+			"plugins": ["net.runelite.client.plugins.barbassault.BAPlugin"],
+			"version": "0.01",
+			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/barbassault.jar",
+			"hash": "ac80a9bfc8d493732cfda24edba595e242175a489fb146f7ad1cda790004249b",
+			"description": "additional features to help in barbarian assault"
+		},
+		{
 			"name": "coxoverloadtimers.jar",
 			"plugins": ["net.runelite.client.plugins.coxoverloadtimers.OverloadTimerPlugin"],
 			"version": "0.01",
