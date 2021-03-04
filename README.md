@@ -76,7 +76,7 @@
 | Zulrah | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/zulrah.jar) | [Click Here](#zulrah) | :heavy_check_mark: |
 | World Hopper | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.03-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/worldhopper.jar) | [Click Here](#world-hopper) | :x: |
 | Animation Cooldown | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/animationcooldown.jar) | [Click Here](#animation-cooldown) | :heavy_check_mark: |
-| Tzhaar-Ket-Rak | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tzhaarketrak.jar) | [Click Here](#tzhaar-ket-rak) | :heavy_check_mark: |
+| Tzhaar-Ket-Rak | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tzhaarketrak.jar) | [Click Here](#tzhaar-ket-rak) | :heavy_check_mark: |
 | Damage Drops | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/damagedrops.jar) | [Click Here](#damage-drops) | :x: |
 | Reflection | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/reflection.jar) | [Click Here](#reflection) | :x: |
 | BA Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/barbassault.jar) | [Click Here](#ba-additions) | :x: |
@@ -728,6 +728,8 @@ N/A
 - Display Spawn Locations
 - Display Jad Tick Counters
 - Prayer Helpers (InfoBox, Marker, Guitar Hero)
+- Healer Markers
+- Healer MES
 ```
 
 </details>
@@ -736,7 +738,8 @@ N/A
     <summary>Plugin Changelog</summary>
     
 ```diff
-N/A
++ 3/4/2021 Added special healer markers (displays whether or not they are healing jad)
++ 3/4/2021 Added healer mes (prioritizes healers when casting spells or have chins equipped)
 ```
 
 </td>
