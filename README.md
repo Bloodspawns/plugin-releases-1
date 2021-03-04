@@ -739,15 +739,6 @@ N/A
 N/A
 ```
 
-</details>
-
-| CONFIG NAME | SYNTAX | EXAMPLE |
-| ------ | ------ | ------ |
-| Weapon List | `weapon_id,animation_id,ticks` | `22325,8056,5` |
-| Animation List | `animation_id,ticks` | `8056,5` |
-
-> **Note:** Use the `Debug` option to fetch most of the data you'll need to setup the lists. This wont display ticks for animations only weapon speeds so i.e. burning a log. This mean you will have to know how long it is or look them up on Google. 
-
 </td>
 </tr>
 </table>
