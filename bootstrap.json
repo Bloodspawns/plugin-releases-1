@@ -49,6 +49,14 @@
 			"description": "display your tick cooldown for weapons/animations you set"
 		},
 		{
+			"name": "tzhaarketrak.jar",
+			"plugins": ["net.runelite.client.plugins.tzhaarketrak.TKRPlugin"],
+			"version": "0.01",
+			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/tzhaarketrak.jar",
+			"hash": "75ff47bdc71092a48b804699aef3932458ef582407d4f1e42e024369f3134b09",
+			"description": "all-in-one plugin to aid you through the Jad minigame"
+		},
+		{
 			"name": "reflection.jar",
 			"plugins": ["net.runelite.client.plugins.reflection.ReflectionPlugin"],
 			"version": "0.02",
