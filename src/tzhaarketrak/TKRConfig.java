@@ -104,4 +104,38 @@ public interface TKRConfig extends Config
 			position = 7
 	)
 	default boolean shouldDisplayGuitarHero() { return false; }
+
+	@ConfigItem(
+			name = "Healers Marker",
+			keyName = "jcHealersMarker",
+			description = "",
+			position = 8
+	)
+	default boolean shouldMarkHealers() { return false; }
+
+	@ConfigItem(
+			name = "Healing Jad Color",
+			keyName = "jcHealersHealingJadColor",
+			description = "Configures the color for 'Healers Marker' while they are healing Jad",
+			position = 9
+	)
+	@Alpha
+	default Color getHealersHealingJadColor() { return Color.RED; }
+
+	@ConfigItem(
+			name = "Not Healing Jad Color",
+			keyName = "jcHealersNotHealingJadColor",
+			description = "Configures the color for 'Healers Marker' while they are not healing Jad",
+			position = 10
+	)
+	@Alpha
+	default Color getHealersNotHealingJadColor() { return Color.GREEN; }
+
+	@ConfigItem(
+			name = "Healers MES",
+			keyName = "jcHealersMES",
+			description = "Prioritizes Healers only if you are attempting to cast spells or chinchompas are equipped",
+			position = 11
+	)
+	default boolean shouldPrioritizeHealers() { return false; }
 }

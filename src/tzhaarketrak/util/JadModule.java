@@ -28,6 +28,7 @@ import com.google.common.collect.ImmutableMap;
 import lombok.Getter;
 import lombok.val;
 import net.runelite.api.NPC;
+import net.runelite.api.NpcID;
 import net.runelite.api.Prayer;
 import org.apache.commons.lang3.tuple.MutablePair;
 import org.apache.commons.lang3.tuple.Pair;
@@ -48,8 +49,7 @@ public final class JadModule
 			7593, Prayer.PROTECT_FROM_MISSILES
 	);
 
-	private static final int JAD_ID = 10623;
-	private static final int MINION_ID = 10624;
+	private static final int JAD_ID = NpcID.JALTOKJAD_10623;
 
 	private final Map<Integer, JadNode> active;
 	private final Stack<NPC> cache;

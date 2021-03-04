@@ -29,13 +29,18 @@ import lombok.Getter;
 import lombok.val;
 import net.runelite.api.ChatMessageType;
 import net.runelite.api.Client;
+import net.runelite.api.MenuAction;
+import net.runelite.api.MenuEntry;
 import net.runelite.api.NPC;
+import net.runelite.api.NpcID;
 import net.runelite.api.events.AnimationChanged;
 import net.runelite.api.events.ChatMessage;
+import net.runelite.api.events.ClientTick;
 import net.runelite.api.events.GameTick;
 import net.runelite.api.events.NpcDespawned;
 import net.runelite.api.events.NpcSpawned;
 import net.runelite.api.events.VarbitChanged;
+import net.runelite.api.kit.KitType;
 import net.runelite.client.config.ConfigManager;
 import net.runelite.client.eventbus.Subscribe;
 import net.runelite.client.plugins.Plugin;
@@ -46,8 +51,11 @@ import net.runelite.client.plugins.tzhaarketrak.overlays.SceneOverlay;
 import net.runelite.client.plugins.tzhaarketrak.util.ChallengeMode;
 import net.runelite.client.plugins.tzhaarketrak.util.JadModule;
 import net.runelite.client.ui.overlay.OverlayManager;
+import net.runelite.client.util.Text;
 
 import javax.inject.Inject;
+import java.util.ArrayList;
+import java.util.List;
 
 @PluginDescriptor(
 		name = "[z] Tzhaar-Ket-Rak",
@@ -58,10 +66,11 @@ import javax.inject.Inject;
 public class TKRPlugin extends Plugin
 {
 	@Inject private Client client;
-	@Inject private OverlayManager overlayManager;
+	@Inject private OverlayManager overlayManager; // TODO -> eventually only add overlays if inside & option is on, else keep it removed
 	@Inject private SceneOverlay sceneOverlay;
 	@Inject private PrayerIBOverlay prayerIBOverlay;
 	@Inject private PrayerOverlay prayerMarker;
+	@Inject private TKRConfig config;
 
 	@Provides
 	TKRConfig provideConfig(ConfigManager cm)
@@ -69,12 +78,17 @@ public class TKRPlugin extends Plugin
 		return cm.getConfig(TKRConfig.class);
 	}
 
+	private static final int LOBBY = 10063;
+	private static final int INSIDE = 9043;
 	private static final int CM_VARB = 11878; // 0 = out, 1 = in
+	private static final int HEALER_ID = NpcID.YTHURKOT_10624;
 
 	@Getter private ChallengeMode mode = null;
 	@Getter private JadModule module = null;
 	@Getter private int bit = 0;
 	@Getter private long lastTick = 0;
+
+	@Getter private final List<NPC> healers = new ArrayList<>();
 
 	@Override
 	protected void startUp()
@@ -98,6 +112,7 @@ public class TKRPlugin extends Plugin
 		module = null;
 		bit = 0;
 		lastTick = 0;
+		healers.clear();
 	}
 
 	@Subscribe
@@ -141,6 +156,13 @@ public class TKRPlugin extends Plugin
 		}
 
 		val npc = e.getNpc();
+
+		if (npc.getId() == HEALER_ID)
+		{
+			healers.add(npc);
+			return;
+		}
+
 		module.cacheThis(npc);
 	}
 
@@ -153,6 +175,12 @@ public class TKRPlugin extends Plugin
 		}
 
 		val npc = e.getNpc();
+
+		if (!healers.isEmpty())
+		{
+			healers.remove(npc);
+		}
+
 		module.rm(npc);
 	}
 
@@ -178,5 +206,56 @@ public class TKRPlugin extends Plugin
 
 		val npc = (NPC) e.getActor();
 		module.entry(npc);
+	}
+
+	@Subscribe
+	private void onClientTick(ClientTick ignored)
+	{
+		if (bit == 0 || module == null || !config.shouldPrioritizeHealers())
+		{
+			return;
+		}
+
+		List<MenuEntry> keep = new ArrayList<>();
+		val entries = client.getMenuEntries();
+
+		for (var e : entries)
+		{
+			val target = Text.removeTags(e.getTarget()).toLowerCase();
+
+			if ((e.getType() == MenuAction.SPELL_CAST_ON_NPC.getId() && (target.startsWith("ice b") || target.startsWith("blood b"))
+					|| swapUsingChins(client, e.getOption())))
+			{
+				val npc = client.getCachedNPCs()[e.getIdentifier()];
+
+				if (npc != null && npc.getId() != HEALER_ID)
+				{
+					continue;
+				}
+			}
+
+			keep.add(e);
+		}
+
+		client.setMenuEntries(keep.toArray(new MenuEntry[0]));
+	}
+
+	private static boolean swapUsingChins(Client client, String option)
+	{
+		if (!option.equalsIgnoreCase("attack"))
+		{
+			return false;
+		}
+
+		val p = client.getLocalPlayer();
+		val c = p != null ? p.getPlayerComposition() : null;
+
+		if (c == null)
+		{
+			return false;
+		}
+
+		val id = c.getEquipmentId(KitType.WEAPON);
+		return id == 11959 || id == 10034 || id == 10033;
 	}
 }

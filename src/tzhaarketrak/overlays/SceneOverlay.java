@@ -109,6 +109,16 @@ public class SceneOverlay extends Overlay
 			});
 		}
 
+		if (config.shouldMarkHealers())
+		{
+			plugin.getHealers().forEach(n ->
+			{
+				val hj = n.getInteracting() instanceof NPC;
+				val tilePoly = n.getCanvasTilePoly();
+				renderPolygon(graphics, tilePoly, hj ? config.getHealersHealingJadColor() : config.getHealersNotHealingJadColor());
+			});
+		}
+
 		return null;
 	}
 
