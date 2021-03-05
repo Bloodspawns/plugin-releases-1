@@ -24,10 +24,22 @@
 
 ## :gear: Installation
 
+#### Option 1:
+
 - Locate `C:\Users\your_name\.runelite` or `%userprofile%./runelite`
 - Create the **bexternalplugins** folder if it's not present
 - Download any of my plugin jars
 - Drag and drop into **bexternalplugins** folder and restart your client
+
+#### Option 2:
+
+- Find the `External Manager` located on client side panel
+- Paste the below link into the manifest box
+ 
+`https://raw.githubusercontent.com/losingticks/plugin-releases/main/bootstrap.json`
+
+- Press enter to build the repository list
+- Click on the download icon (green arrow pointing down) to install
 
 > **Note:** If you experience any issues with the plugins not working feel free to ask for help in **#support**
 
