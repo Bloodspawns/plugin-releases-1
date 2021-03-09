@@ -67,7 +67,6 @@
     - Zulrah (A partial rework to fix the non ideal solutions, also some bug fixes and some QoL changes)
     - KPH (Needs to be reworked, and needs more features. Will be a big project and will take time)
     - Spawn Predictor (A lot of stuff needs to be fixed)
-    - Custom Swapper (More features, also needs a bug fix)
     - Lizardmen Shaman (Fix the tick counter on the minions)
 
 </td>
@@ -83,7 +82,7 @@
 | :---------- | :-----: | :------: | :-----: | :------: |
 | ToB Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.42-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tobadditions.jar) | [Click Here](#tob-additions) | :heavy_check_mark: |
 | Fight Caves Spawn Predictor | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.03-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/spawnpredictor.jar) | [Click Here](#spawn-predictor) | :heavy_check_mark: |
-| Custom Swapper | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.10-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/menuentryswapper.jar) | [Click Here](#custom-swapper) | :heavy_check_mark: |
+| Custom Swapper | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.11-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/menuentryswapper.jar) | [Click Here](#custom-swapper) | :heavy_check_mark: |
 | Nightmare Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.05-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/znightmare.jar) | [Click Here](#nightmare-additions) | :heavy_check_mark: |
 | Zulrah | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/zulrah.jar) | [Click Here](#zulrah) | :heavy_check_mark: |
 | World Hopper | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.03-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/worldhopper.jar) | [Click Here](#world-hopper) | :x: |
@@ -484,6 +483,9 @@ Displays the ongoing rotation for that time, and the upcoming rotation in x amou
 + 9/20/2020 - option can now utilize the * wildcard
 + 9/20/2020 - Added support to priotize the "Walk Here" (see above)
 + 9/20/2020 - With this added support you can now priotize entries without unconditionally throwing them on top (see above)
++ 3/9/2021 - Fixed FPS tanks in bank
++ 3/9/2021 - Fixed not being to swap with usernames with spaces
++ 3/9/2021 - Fixed not being able to prioritize npc entries over others without needing to remove examine
 ```
 
 </details>
@@ -494,7 +496,7 @@ Displays the ongoing rotation for that time, and the upcoming rotation in x amou
 | Custom Swaps/Remove Options | `option,target` | `guzzle,dwarven rock cake` or `guzzle, dwarven rock cake` | This is the default setup, everything else is optional |
 | Swap Menu Options Conditionally | `option,target,top_entry,top_target` | `take,shark,take,*` | This will swap the `take` option on `shark` when hovering over **anything** but the top left click entry **HAS** to be `take` |
 | Walk Here Prioritization | `walk here,,top_entry,top_target` | `walk here,,attack,cow*` | Only works when hovering over other actors. Works on Players and/or NPCs. |
-| Spell Swapping | `*,*username*,cast,spell_name*` | `*,*losing ticks*,cast,energy transfer*` | N/A |
+| Spell Swapping | `cast,spell_name -> username*` | `cast,energy transfer -> losing ticks*` | N/A |
 
 #### Wildcard Configuration
 | NAME | SYNTAX | EXAMPLE | NOTES |
