@@ -82,7 +82,7 @@
 | :---------- | :-----: | :------: | :-----: | :------: |
 | ToB Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.42-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tobadditions.jar) | [Click Here](#tob-additions) | :heavy_check_mark: |
 | Fight Caves Spawn Predictor | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.03-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/spawnpredictor.jar) | [Click Here](#spawn-predictor) | :heavy_check_mark: |
-| Custom Swapper | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.11-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/menuentryswapper.jar) | [Click Here](#custom-swapper) | :heavy_check_mark: |
+| Custom Swapper | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.12-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/menuentryswapper.jar) | [Click Here](#custom-swapper) | :heavy_check_mark: |
 | Nightmare Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.05-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/znightmare.jar) | [Click Here](#nightmare-additions) | :heavy_check_mark: |
 | Zulrah | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/zulrah.jar) | [Click Here](#zulrah) | :heavy_check_mark: |
 | World Hopper | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.03-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/worldhopper.jar) | [Click Here](#world-hopper) | :x: |
@@ -486,6 +486,7 @@ Displays the ongoing rotation for that time, and the upcoming rotation in x amou
 + 3/9/2021 - Fixed FPS tanks in bank
 + 3/9/2021 - Fixed not being to swap with usernames with spaces
 + 3/9/2021 - Fixed not being able to prioritize npc entries over others without needing to remove examine
++ 3/9/2021 - Fixed another FPS issue (this now prevents the use of regular swaps in banks, so keep all bank swap configs in the bank swap config section...)
 ```
 
 </details>
