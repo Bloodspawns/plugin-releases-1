@@ -97,6 +97,14 @@
 			"description": "hide your entity when under people"
 		},
 		{
+			"name": "autotyper.jar",
+			"plugins": ["net.runelite.client.plugins.autotyper.AutoTyperPlugin"],
+			"version": "0.01",
+			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/autotyper.jar",
+			"hash": "2bd0299b4b7dcb42b678f7d03b02f5d0d5a468365761daf90e58d94022539635",
+			"description": "Auto Type preset messages, USE AT YOUR OWN DISCRETION"
+		},
+		{
 			"name": "specinfobox.jar",
 			"plugins": ["net.runelite.client.plugins.specinfobox.SpecIBPlugin"],
 			"version": "0.01",
