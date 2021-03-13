@@ -96,6 +96,7 @@
 | Default Interface Tab | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/defaulttab.jar) | [Click Here](#default-interface-tab) | :x: |
 | Hide Under | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/hideunder.jar) | [Click Here](#hide-under) | :x: |
 | Auto Typer | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/autotyper.jar) | [Click Here](#auto-typer) | :x: |
+| MouseOverText | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/mouseovertext.jar) | [Click Here](#mouseovertext) | :x: |
 | Spec InfoBox | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/specinfobox.jar) | [Click Here](#spec-infobox) | :x: |
 | Grotesque Guardians | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.04-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/grotesqueguardians.jar) | [Click Here](#grotesque-guardians) | :x: |
 | Vorkath | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/vorkath.jar) | [Click Here](#vorkath) | :x: |
@@ -1033,6 +1034,40 @@ N/A
     
 ```diff
 - Auto Type preset messages
+```
+
+</details>
+
+<details>
+    <summary>Plugin Changelog</summary>
+
+```diff
+N/A
+```
+
+</details>
+
+
+
+</table>
+</tr>
+</td>
+
+
+
+<table>
+<tr>
+<td>
+
+
+
+## MouseOverText
+
+<details>
+    <summary>Plugin Features</summary>
+    
+```diff
+- Toggles the ::mouseovertext command on login/hop
 ```
 
 </details>
