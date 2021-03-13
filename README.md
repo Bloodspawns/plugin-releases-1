@@ -56,16 +56,11 @@
 ## :spiral_notepad: To-Do List
 
 - Plugins:
-    - (Socket) Boss defence tracker
     - (Socket) Player Stats
-    - Player Scouter
     - Spell Effect Timers
-    - Spellbook Resizer
 - Updates:
     - **Damage Drops (yes i know its broken for a lot of CoX NPCs, will fix soonTM)**
-    - ToB Additions (Nearing the final build of the plugin, little bit more features and fixes left)
     - Zulrah (A partial rework to fix the non ideal solutions, also some bug fixes and some QoL changes)
-    - KPH (Needs to be reworked, and needs more features. Will be a big project and will take time)
     - Spawn Predictor (A lot of stuff needs to be fixed)
     - Lizardmen Shaman (Fix the tick counter on the minions)
 
