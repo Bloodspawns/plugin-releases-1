@@ -1017,6 +1017,43 @@ N/A
 </td>
 
 
+
+<table>
+<tr>
+<td>
+
+
+
+## Auto Typer
+
+:warning: **USE AT YOUR OWN DISCRETION** :warning:
+
+<details>
+    <summary>Plugin Features</summary>
+    
+```diff
+- Auto Type preset messages
+```
+
+</details>
+
+<details>
+    <summary>Plugin Changelog</summary>
+
+```diff
+N/A
+```
+
+</details>
+
+
+
+</table>
+</tr>
+</td>
+
+
+
 <table>
 <tr>
 <td>
