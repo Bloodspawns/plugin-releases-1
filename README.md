@@ -80,6 +80,7 @@
 | Custom Swapper | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.12-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/menuentryswapper.jar) | [Click Here](#custom-swapper) | :heavy_check_mark: |
 | Nightmare Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.05-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/znightmare.jar) | [Click Here](#nightmare-additions) | :heavy_check_mark: |
 | Zulrah | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/zulrah.jar) | [Click Here](#zulrah) | :heavy_check_mark: |
+| Prayer Hider | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/prayerhider.jar) | [Click Here](#prayer-hider) | :heavy_check_mark: |
 | World Hopper | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.03-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/worldhopper.jar) | [Click Here](#world-hopper) | :x: |
 | Animation Cooldown | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/animationcooldown.jar) | [Click Here](#animation-cooldown) | :heavy_check_mark: |
 | Tzhaar-Ket-Rak | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tzhaarketrak.jar) | [Click Here](#tzhaar-ket-rak) | :heavy_check_mark: |
@@ -636,6 +637,63 @@ Spores:
 ```
 
 </details>
+
+</td>
+</tr>
+</table>
+
+
+
+<table>
+<tr>
+<td>
+
+## Prayer Hider
+
+<details>
+    <summary>Plugin Features</summary>
+    
+```diff
+- Selector (select what you want to hide)
+- Fully customizable presets
+```
+
+</details>
+
+<details>
+    <summary>Plugin Changelog</summary>
+    
+```diff
+N/A
+```
+
+</details>
+
+#### Configuration
+| CONFIG | SETUP | NOTES |
+| ------ | ------ | ------ |
+| Selector | Right click the `Prayer` tab and click `Configure` repeat and click `Save` to save | Red = Not Hidden, Green = Hidden |
+| Presets | Look Below | N/A |
+
+<details>
+    <summary>Preset Setup</summary>
+
+```
+preset#:
+- prayer name
+- another prayer name
+- etc...
+
+EXAMPLE:
+
+1: # comments are allowed to title
+- thick skin
+- burst of strength
+2: # more comments
+- protect from magic
+- protect from missiles
+- protect from melee
+```
 
 </td>
 </tr>
