@@ -41,6 +41,14 @@
 			"description": "all-in-one plugin to aid you through zulrah"
 		},
 		{
+			"name": "prayerhider.jar",
+			"plugins": ["net.runelite.client.plugins.prayerhider.PrayerHiderPlugin"],
+			"version": "0.01",
+			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/prayerhider.jar",
+			"hash": "834c50fe9337a6a2f64de3ab77f5a73dbaadcf25011782e8969ea3ce3c8d2ff6",
+			"description": "fully customizable prayer hider"
+		},
+		{
 			"name": "animationcooldown.jar",
 			"plugins": ["net.runelite.client.plugins.animationcooldown.AnimationCooldownPlugin"],
 			"version": "0.02",
