@@ -91,6 +91,7 @@
 | CoX Overload Timers | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/coxoverloadtimers.jar) | [Click Here](#cox-overload-timers) | :x: |
 | Default Interface Tab | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/defaulttab.jar) | [Click Here](#default-interface-tab) | :x: |
 | Hide Under | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/hideunder.jar) | [Click Here](#hide-under) | :x: |
+| Detached Camera | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/detachedcamera.jar) | [Click Here](#detached-camera) | :x: |
 | Auto Typer | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/autotyper.jar) | [Click Here](#auto-typer) | :x: |
 | MouseOverText | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/mouseovertext.jar) | [Click Here](#mouseovertext) | :x: |
 | Spec InfoBox | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/specinfobox.jar) | [Click Here](#spec-infobox) | :x: |
@@ -1060,6 +1061,48 @@ N/A
 
 ```diff
 + 2/27/2021 Fixed bug with it not working if you enabled it whilst already logged in
+```
+
+</details>
+
+
+
+</table>
+</tr>
+</td>
+
+
+
+<table>
+<tr>
+<td>
+
+
+
+<table>
+<tr>
+<td>
+
+
+
+## Detached Camera
+
+
+<details>
+    <summary>Plugin Features</summary>
+    
+```diff
+- Hotkey to enable/disable the detached camera
+- Dynamically set the detached camera speed
+```
+
+</details>
+
+<details>
+    <summary>Plugin Changelog</summary>
+
+```diff
+N/A
 ```
 
 </details>
