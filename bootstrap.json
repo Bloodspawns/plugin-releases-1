@@ -137,6 +137,14 @@
 			"description": "displays an infobox when you can spec based on a threshold you set"
 		},
 		{
+			"name": "tempoross.jar",
+			"plugins": ["net.runelite.client.plugins.tempoross.TemporossPlugin"],
+			"version": "0.01",
+			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/tempoross.jar",
+			"hash": "14cecc9702130e2a64d4ff31cebf060f507c58f7653e51cbe905529796692663",
+			"description": "all-in-one plugin to aid you through tempoross"
+		},
+		{
 			"name": "grotesqueguardians.jar",
 			"plugins": ["net.runelite.client.plugins.zgrotesqueguardians.zGrotesqueGuardiansPlugin"],
 			"version": "0.04",
