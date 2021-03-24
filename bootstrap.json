@@ -107,7 +107,7 @@
 		{
 			"name": "detachedcamera.jar",
 			"plugins": ["net.runelite.client.plugins.detachedcamera.DCPlugin"],
-			"version": "0.02",
+			"version": "0.01",
 			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/detachedcamera.jar",
 			"hash": "07bae0c4e070cf851ad4bb6f5c246c7d9482c76535afd88ad0e19389e32d992a",
 			"description": "dynamically enable/disable the detached camera"
