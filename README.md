@@ -1229,6 +1229,8 @@ N/A
 
 ## Tempoross
 
+:warning: This is by no means, a decent plugin. I just wanted to do something but ended up getting bored 50% through and decided to release this. There is nothing to this minigame/boss besides some mineut things I didn't feel like doing because of the time it takes. :warning:
+
 <details>
     <summary>Plugin Features</summary>
     
