@@ -95,6 +95,7 @@
 | Auto Typer | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/autotyper.jar) | [Click Here](#auto-typer) | :x: |
 | MouseOverText | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/mouseovertext.jar) | [Click Here](#mouseovertext) | :x: |
 | Spec InfoBox | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/specinfobox.jar) | [Click Here](#spec-infobox) | :x: |
+| Tempoross | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tempoross.jar) | [Click Here](#tempoross) | :x: |
 | Grotesque Guardians | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.04-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/grotesqueguardians.jar) | [Click Here](#grotesque-guardians) | :x: |
 | Vorkath | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/vorkath.jar) | [Click Here](#vorkath) | :x: |
 | Lizardmen Shaman | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/zshaman.jar) | [Click Here](#lizardmen-shaman) | :x: |
@@ -1199,6 +1200,46 @@ N/A
     
 ```diff
 - Displays InfoBox showing when you can/should spec (based on a config set threshold)
+```
+
+</details>
+
+<details>
+    <summary>Plugin Changelog</summary>
+
+```diff
+N/A
+```
+
+</details>
+
+
+
+</table>
+</tr>
+</td>
+
+
+
+<table>
+<tr>
+<td>
+
+
+
+## Tempoross
+
+<details>
+    <summary>Plugin Features</summary>
+    
+```diff
+- Tempoross phase markers
+- Spirit pool phase markers
+- Tethers inverted hull highlights and icon status's 
+- Resource Objects inverted hull highlights
+- Active/Upcoming fires markers
+- Upcoming fires tick counter
+- Shrine icons
 ```
 
 </details>
