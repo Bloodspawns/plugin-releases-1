@@ -67,9 +67,9 @@
 		{
 			"name": "reflection.jar",
 			"plugins": ["net.runelite.client.plugins.reflection.ReflectionPlugin"],
-			"version": "0.02",
+			"version": "0.03",
 			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/reflection.jar",
-			"hash": "3ab18e628ae71e34170f7bc7a18b925679b02d9727992baac68c5a567d1cc06b",
+			"hash": "05f17816b2455783b0ef326c12a522423b15b4d41bc0fe3e64238e9b8f37d2b6",
 			"description": "modify properties of your client at runtime"
 		},
 		{
