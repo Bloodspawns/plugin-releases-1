@@ -3,9 +3,9 @@
 		{
 			"name": "tobadditions.jar",
 			"plugins": ["net.runelite.client.plugins.ztobadditions.TobAdditionsPlugin"],
-			"version": "0.43",
+			"version": "0.44",
 			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/tobadditions.jar",
-			"hash": "761bdb10017a95de4d2d858c0629aa947667ab913c935b66e94b40945eea196f",
+			"hash": "45c313c5efc14e39a40cc8e06624b96d4e742f37407c93325e47538b89da90b5",
 			"description": "all-in-one plugin to aid you through theatre of blood"
 		},
 		{
