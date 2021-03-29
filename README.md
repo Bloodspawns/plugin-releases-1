@@ -85,7 +85,7 @@
 | Animation Cooldown | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/animationcooldown.jar) | [Click Here](#animation-cooldown) | :heavy_check_mark: |
 | Tzhaar-Ket-Rak | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tzhaarketrak.jar) | [Click Here](#tzhaar-ket-rak) | :heavy_check_mark: |
 | Damage Drops | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/damagedrops.jar) | [Click Here](#damage-drops) | :x: |
-| Reflection | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/reflection.jar) | [Click Here](#reflection) | :x: |
+| Reflection | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.03-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/reflection.jar) | [Click Here](#reflection) | :x: |
 | BA Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/barbassault.jar) | [Click Here](#ba-additions) | :x: |
 | Boss Timers | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/bosstimers.jar) | [Click Here](#boss-timers) | :x: |
 | CoX Overload Timers | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/coxoverloadtimers.jar) | [Click Here](#cox-overload-timers) | :x: |
@@ -871,7 +871,7 @@ N/A
     
 ```diff
 - Change the Client Title
-- Change the Discord App ID (SoonTM)
+- Change the Discord App ID
 - Change the Plugin Title Color
 - Change the Plugin Toggled/Pinned Icon Colors
 ```
@@ -884,6 +884,7 @@ N/A
 ```diff
 + 1/9/2021 - Fixed 'Client Title' to work with the latest Client UI update
 + 1/9/2021 - Fixed properly updating the Client UI
++ 3/29/2021 - Reflection for Discord App ID implemented
 ```
 
 </details>
