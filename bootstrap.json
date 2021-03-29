@@ -139,9 +139,9 @@
 		{
 			"name": "tempoross.jar",
 			"plugins": ["net.runelite.client.plugins.tempoross.TemporossPlugin"],
-			"version": "0.01",
+			"version": "0.02",
 			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/tempoross.jar",
-			"hash": "14cecc9702130e2a64d4ff31cebf060f507c58f7653e51cbe905529796692663",
+			"hash": "2d8d9bd5ae945082ff9a24e5355c3c0afe1ef3d842bac85a98139dd87d6dc213",
 			"description": "all-in-one plugin to aid you through tempoross"
 		},
 		{
