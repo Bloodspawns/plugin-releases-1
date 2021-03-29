@@ -95,7 +95,7 @@
 | Auto Typer | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/autotyper.jar) | [Click Here](#auto-typer) | :x: |
 | MouseOverText | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/mouseovertext.jar) | [Click Here](#mouseovertext) | :x: |
 | Spec InfoBox | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/specinfobox.jar) | [Click Here](#spec-infobox) | :x: |
-| Tempoross | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tempoross.jar) | [Click Here](#tempoross) | :x: |
+| Tempoross | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tempoross.jar) | [Click Here](#tempoross) | :x: |
 | Grotesque Guardians | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.04-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/grotesqueguardians.jar) | [Click Here](#grotesque-guardians) | :x: |
 | Vorkath | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/vorkath.jar) | [Click Here](#vorkath) | :x: |
 | Lizardmen Shaman | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/zshaman.jar) | [Click Here](#lizardmen-shaman) | :x: |
@@ -1231,8 +1231,6 @@ N/A
 
 ## Tempoross
 
-:warning: This is by no means, a decent plugin. I just wanted to do something but ended up getting bored 50% through and decided to release this. There is nothing to this minigame/boss besides some mineut things I didn't feel like doing because of the time it takes. :warning:
-
 <details>
     <summary>Plugin Features</summary>
     
@@ -1252,7 +1250,11 @@ N/A
     <summary>Plugin Changelog</summary>
 
 ```diff
-N/A
++ 3/29/2021 - Added Tempoross Vulnerable Tick Counter
++ 3/29/2021 - Added Colossal Wave Tick Counter
++ 3/29/2021 - Added Shrine Clickbox
++ 3/29/2021 - Added Fish Count Databox
++ 3/29/2021 - Cleaned up some stuff, and added other misc stuff
 ```
 
 </details>
