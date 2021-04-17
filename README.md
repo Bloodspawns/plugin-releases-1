@@ -81,6 +81,7 @@
 | Nightmare Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.05-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/znightmare.jar) | [Click Here](#nightmare-additions) | :heavy_check_mark: |
 | Zulrah | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/zulrah.jar) | [Click Here](#zulrah) | :heavy_check_mark: |
 | Prayer Hider | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/prayerhider.jar) | [Click Here](#prayer-hider) | :heavy_check_mark: |
+| Custom Hitsplats | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.1-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/customhitsplats.jar) | [Click Here](#custom-hitsplats) | :heavy_check_mark: |
 | World Hopper | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.03-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/worldhopper.jar) | [Click Here](#world-hopper) | :x: |
 | Animation Cooldown | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/animationcooldown.jar) | [Click Here](#animation-cooldown) | :heavy_check_mark: |
 | Tzhaar-Ket-Rak | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tzhaarketrak.jar) | [Click Here](#tzhaar-ket-rak) | :heavy_check_mark: |
@@ -657,6 +658,8 @@ Spores:
 <tr>
 <td>
 
+
+
 ## Prayer Hider
 
 <details>
@@ -703,6 +706,91 @@ EXAMPLE:
 - protect from missiles
 - protect from melee
 ```
+
+</td>
+</tr>
+</table>
+
+
+
+<table>
+<tr>
+<td>
+
+
+
+## Custom Hitsplats
+
+<details>
+    <summary>Plugin Features</summary>
+    
+```diff
+- Load custom sprites of your choice for every possible hitsplat
+- Set custom RGB for every possible hitsplat
+```
+
+</details>
+
+<details>
+    <summary>Plugin Changelog</summary>
+    
+```diff
+N/A
+```
+
+</details>
+
+**Notes:**
+- Custom sprites will take priority over custom set RGB
+- If loading a custom sprite fails the plugin will attempt to fallback to the set RGB and vice versa
+- If the plugin fails to fallback to a option, it will unset the configuration and revert the hitsplat back to normal (as a safeguard)
+
+<details>
+    <summary>Loading Custom Sprites</summary>
+    
+    
+> **Note:** This should work at runtime meaning no client restart is required!
+    
+1. Locate the `.runelite` directory
+2. Create a folder called `hitsplats` 
+3. Drag and drop any `.png` (preferably **24x23**) into the `hitsplats` folder
+4. Rename the image to the a archive id - see [Archive IDs](#archive-ids), or look below
+5. Toggle on that respective config in the plugin and relog
+
+For example if you wanted to replace the `Regular Red` hitsplat:
+
+1. Load the image
+
+![example1](https://i.imgur.com/oJMuobC.png)
+
+2. Toggle the config
+
+![example2](https://i.imgur.com/ClA1pJd.png)
+
+3. Relog/Login
+
+#### Archive IDs
+| CONFIG NAME | ARCHIVE ID |
+| ------ | ------ |
+| `Regular Red` | `1359` |
+| `Tinted Red` | `1631` |
+| `Regular Blue` | `1358` |
+| `Tinted Blue` | `1630` |
+| `Regular 'Poison' Green` | `1360` |
+| `Regular 'Disease' Orange` | `1633` |
+| `Regular 'Venom' Green` | `1632` |
+| `Regular Magenta` | `1629` |
+| `Regular Cyan` | `1419` |
+| `Tinted Cyan` | `1339` |
+| `Regular Orange` | `1628` |
+| `Tinted Orange` | `1544` |
+| `Regular Yellow` | `1362` |
+| `Tinted Yellow` | `1634` |
+| `Regular Grey` | `1363` |
+| `Tinted Grey` | `1105` |
+| `Regular 'Unk' Yellow` | `1361` |
+
+</details>
 
 </td>
 </tr>
