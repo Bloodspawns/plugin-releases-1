@@ -49,6 +49,14 @@
 			"description": "fully customizable prayer hider"
 		},
 		{
+			"name": "customhitsplats.jar",
+			"plugins": ["net.runelite.client.plugins.customhitsplats.HitsplatsPlugin"],
+			"version": "0.01",
+			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/customhitsplats.jar",
+			"hash": "fe92dce1645d7986efe9e1153dd563daad09ef661a2e0e5e2442041814c1a15e",
+			"description": "load custom sprites or set custom rgb for every hitsplat"
+		},
+		{
 			"name": "animationcooldown.jar",
 			"plugins": ["net.runelite.client.plugins.animationcooldown.AnimationCooldownPlugin"],
 			"version": "0.02",
