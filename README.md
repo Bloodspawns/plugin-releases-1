@@ -740,6 +740,11 @@ N/A
 
 </details>
 
+Grayscale Hitsplat -> [https://i.imgur.com/VEbr6EX.png](https://i.imgur.com/VEbr6EX.png)
+
+![grayscale](https://i.imgur.com/VEbr6EX.png)
+
+
 **Notes:**
 - This should work at runtime meaning no client restart is required!
 - Custom sprites will take priority over custom set RGB
