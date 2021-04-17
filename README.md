@@ -741,15 +741,13 @@ N/A
 </details>
 
 **Notes:**
+- This should work at runtime meaning no client restart is required!
 - Custom sprites will take priority over custom set RGB
 - If loading a custom sprite fails the plugin will attempt to fallback to the set RGB and vice versa
 - If the plugin fails to fallback to a option, it will unset the configuration and revert the hitsplat back to normal (as a safeguard)
 
 <details>
     <summary>Loading Custom Sprites</summary>
-    
-    
-> **Note:** This should work at runtime meaning no client restart is required!
     
 1. Locate the `.runelite` directory
 2. Create a folder called `hitsplats` 
