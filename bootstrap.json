@@ -51,9 +51,9 @@
 		{
 			"name": "customhitsplats.jar",
 			"plugins": ["net.runelite.client.plugins.customhitsplats.HitsplatsPlugin"],
-			"version": "0.01",
+			"version": "0.02",
 			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/customhitsplats.jar",
-			"hash": "fe92dce1645d7986efe9e1153dd563daad09ef661a2e0e5e2442041814c1a15e",
+			"hash": "670fba77d6f5f3e4f12cf6c2acb4d630e8a0aeebfa6246a4f4f71a7c54a9c8b2",
 			"description": "load custom sprites or set custom rgb for every hitsplat"
 		},
 		{
