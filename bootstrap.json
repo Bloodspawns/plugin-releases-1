@@ -19,9 +19,9 @@
 		{
 			"name": "menuentryswapper.jar",
 			"plugins": ["net.runelite.client.plugins.zcustomswapper.zMenuEntryPlugin"],
-			"version": "0.12",
+			"version": "0.13",
 			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/menuentryswapper.jar",
-			"hash": "a2da89c3b5b8bc975df36bdc42a1b0d2a5d9ab01c57fcf18dd316d57b92d6c39",
+			"hash": "05ca023b7e3dfb2634afabfb1ca55e69fe27f11821aab4a8bd289836f6662cf0",
 			"description": "set your own entry swaps and/or removal of entries"
 		},
 		{
