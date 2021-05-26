@@ -77,7 +77,7 @@
 | :---------- | :-----: | :------: | :-----: | :------: |
 | ToB Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.48-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tobadditions.jar) | [Click Here](#tob-additions) | :heavy_check_mark: |
 | Fight Caves Spawn Predictor | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.03-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/spawnpredictor.jar) | [Click Here](#spawn-predictor) | :heavy_check_mark: |
-| Custom Swapper | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.14-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/menuentryswapper.jar) | [Click Here](#custom-swapper) | :heavy_check_mark: |
+| Custom Swapper | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.15-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/menuentryswapper.jar) | [Click Here](#custom-swapper) | :heavy_check_mark: |
 | Nightmare Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.05-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/znightmare.jar) | [Click Here](#nightmare-additions) | :heavy_check_mark: |
 | Zulrah | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/zulrah.jar) | [Click Here](#zulrah) | :heavy_check_mark: |
 | Prayer Hider | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/prayerhider.jar) | [Click Here](#prayer-hider) | :heavy_check_mark: |
@@ -498,6 +498,7 @@ Displays the ongoing rotation for that time, and the upcoming rotation in x amou
 + 3/9/2021 - Fixed another FPS issue (this now prevents the use of regular swaps in banks, so keep all bank swap configs in the bank swap config section...)
 + 4/23/2021 - Fixed deposit boxes
 + 5/26/2021 - Fixed bug with certain swaps not working
++ 5/26/2021 - Future proofed potential swaps not working due to examine
 ```
 
 </details>
