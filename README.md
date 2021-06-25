@@ -75,7 +75,7 @@
 
 | PLUGIN NAME | VERSION | DOWNLOAD | DETAILS | PRIORITY |
 | :---------- | :-----: | :------: | :-----: | :------: |
-| ToB Additions | <img src="https://img.shields.io/badge/latest%20unstable%20version-v0.48.3-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tobadditions.jar) | [Click Here](#tob-additions) | :heavy_check_mark: |
+| ToB Additions | <img src="https://img.shields.io/badge/latest%20unstable%20version-v0.48.4-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tobadditions.jar) | [Click Here](#tob-additions) | :heavy_check_mark: |
 | Fight Caves Spawn Predictor | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.03-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/spawnpredictor.jar) | [Click Here](#spawn-predictor) | :heavy_check_mark: |
 | Custom Swapper | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.15-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/menuentryswapper.jar) | [Click Here](#custom-swapper) | :heavy_check_mark: |
 | Nightmare Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.05-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/znightmare.jar) | [Click Here](#nightmare-additions) | :heavy_check_mark: |
@@ -365,6 +365,7 @@ Maiden: [
 + 6/7/2021 Xarpus Exhumeds Counter has been adjusted to be correct for Hardmode
 	* Still looking for information on whether or not Story Mode is different
 + 6/7/2021 Xarpus Exhumeds Counter should now be accurate to the <n_seen> (no longer tracks refires)
++ 6/25/2021 Updated to reflect latest RuneLite API update
 ```
 
 </details>
