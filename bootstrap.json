@@ -219,7 +219,7 @@
 		{
 			"name": "demonicgorilla.jar",
 			"plugins": ["net.runelite.client.plugins.demonicgorilla.DemonicGorillaPlugin"],
-			"version": "0.01",
+			"version": "0.02",
 			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/demonicgorilla.jar",
 			"hash": "dedcf1539598ac437479e0cbfa8fa0180e74be263e5eaa7a065946f8bcf9f886",
 			"description": "count demonic gorilla attacks and display their next possible attack styles"
