@@ -4,7 +4,7 @@
 			"name": "tobadditions.jar",
 			"plugins": ["net.runelite.client.plugins.ztobadditions.TobAdditionsPlugin"],
 			"version": "0.49.0",
-			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/tobadditions.jar",
+			"path": "https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/tobadditions.jar",
 			"hash": "3789e8c06905b51ed866c961cfb62e5c62a771a0f6236a58519808612c07be5c",
 			"description": "all-in-one plugin to aid you through theatre of blood"
 		},
@@ -12,7 +12,7 @@
 			"name": "spawnpredictor.jar",
 			"plugins": ["net.runelite.client.plugins.spawnpredictor.SpawnPredictorPlugin"],
 			"version": "0.03",
-			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/spawnpredictor.jar",
+			"path": "https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/spawnpredictor.jar",
 			"hash": "925ede4e39ff5cdea1f50f72d1af5a018e51a05cb59399191a75b6d834c2a0bd",
 			"description": "predicts the server rotation and the spawn locations for each wave"
 		},
@@ -20,7 +20,7 @@
 			"name": "menuentryswapper.jar",
 			"plugins": ["net.runelite.client.plugins.zcustomswapper.zMenuEntryPlugin"],
 			"version": "0.15",
-			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/menuentryswapper.jar",
+			"path": "https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/menuentryswapper.jar",
 			"hash": "0cfd6066fa5bfcbe9cf896798433960becfc3d9c1b07fb48dab6669168544adf",
 			"description": "set your own entry swaps and/or removal of entries"
 		},
@@ -28,7 +28,7 @@
 			"name": "znightmare.jar",
 			"plugins": ["net.runelite.client.plugins.znightmare.zNightmarePlugin"],
 			"version": "0.05",
-			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/znightmare.jar",
+			"path": "https://github.com/Bloodspawns/plugin-releases-1/main/releases/znightmare.jar",
 			"hash": "91d30c050c51374b9152d2fd88773e9552af124d11e798eec470a46e66e9daff",
 			"description": "all-in-one plugin to aid you through nightmare of ashihama"
 		},
@@ -36,7 +36,7 @@
 			"name": "zulrah.jar",
 			"plugins": ["net.runelite.client.plugins.zulrah.ZulrahPlugin"],
 			"version": "0.02",
-			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/zulrah.jar",
+			"path": "https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/zulrah.jar",
 			"hash": "c595e983f814dfe06777d2bc092a61e2a55317c1a21169914a2c42ef186dd454",
 			"description": "all-in-one plugin to aid you through zulrah"
 		},
@@ -44,7 +44,7 @@
 			"name": "prayerhider.jar",
 			"plugins": ["net.runelite.client.plugins.prayerhider.PrayerHiderPlugin"],
 			"version": "0.01",
-			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/prayerhider.jar",
+			"path": "https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/prayerhider.jar",
 			"hash": "834c50fe9337a6a2f64de3ab77f5a73dbaadcf25011782e8969ea3ce3c8d2ff6",
 			"description": "fully customizable prayer hider"
 		},
@@ -52,7 +52,7 @@
 			"name": "customhitsplats.jar",
 			"plugins": ["net.runelite.client.plugins.customhitsplats.HitsplatsPlugin"],
 			"version": "0.03",
-			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/customhitsplats.jar",
+			"path": "https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/customhitsplats.jar",
 			"hash": "db67572c125f182d7fd6cca4221251e799afe9e6e14fe82d019db488c14aabc1",
 			"description": "load custom sprites or set custom rgb for every hitsplat"
 		},
@@ -60,7 +60,7 @@
 			"name": "animationcooldown.jar",
 			"plugins": ["net.runelite.client.plugins.animationcooldown.AnimationCooldownPlugin"],
 			"version": "0.02",
-			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/animationcooldown.jar",
+			"path": "https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/animationcooldown.jar",
 			"hash": "5ca357d56c4767562de7e43ea04bd7a266749c35d43d3504516b38189ed28a18",
 			"description": "display your tick cooldown for weapons/animations you set"
 		},
@@ -68,7 +68,7 @@
 			"name": "tzhaarketrak.jar",
 			"plugins": ["net.runelite.client.plugins.tzhaarketrak.TKRPlugin"],
 			"version": "0.02",
-			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/tzhaarketrak.jar",
+			"path": "https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/tzhaarketrak.jar",
 			"hash": "fe9efd879e10bb85212cccafc40e7f4b0fd9f038c8d081f03a0657118f4fcbc9",
 			"description": "all-in-one plugin to aid you through the Jad minigame"
 		},
@@ -76,7 +76,7 @@
 			"name": "reflection.jar",
 			"plugins": ["net.runelite.client.plugins.reflection.ReflectionPlugin"],
 			"version": "0.03",
-			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/reflection.jar",
+			"path": "https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/reflection.jar",
 			"hash": "05f17816b2455783b0ef326c12a522423b15b4d41bc0fe3e64238e9b8f37d2b6",
 			"description": "modify properties of your client at runtime"
 		},
@@ -84,7 +84,7 @@
 			"name": "barbassault.jar",
 			"plugins": ["net.runelite.client.plugins.barbassault.BAPlugin"],
 			"version": "0.01",
-			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/barbassault.jar",
+			"path": "https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/barbassault.jar",
 			"hash": "ac80a9bfc8d493732cfda24edba595e242175a489fb146f7ad1cda790004249b",
 			"description": "additional features to help in barbarian assault"
 		},
@@ -92,7 +92,7 @@
 			"name": "coxoverloadtimers.jar",
 			"plugins": ["net.runelite.client.plugins.coxoverloadtimers.OverloadTimerPlugin"],
 			"version": "0.01",
-			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/coxoverloadtimers.jar",
+			"path": "https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/coxoverloadtimers.jar",
 			"hash": "ddd7dafc4c41a4cb0880da4700833c59ee75d81a3014b2a54c6502cacab8e2b4",
 			"description": "custom chambers overload timer with extra features"
 		},
@@ -100,7 +100,7 @@
 			"name": "defaulttab.jar",
 			"plugins": ["net.runelite.client.plugins.defaulttab.DefaultTabPlugin"],
 			"version": "0.02",
-			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/defaulttab.jar",
+			"path": "https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/defaulttab.jar",
 			"hash": "e106cd7752b46f7877c309c4818121ec19dc5e8f73febfd7ea4d052d7aff230d",
 			"description": "set a default interface tab for logging in and/or post hopping"
 		},
@@ -108,7 +108,7 @@
 			"name": "hideunder.jar",
 			"plugins": ["net.runelite.client.plugins.hideunder.HideUnderPlugin"],
 			"version": "0.02",
-			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/hideunder.jar",
+			"path": "https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/hideunder.jar",
 			"hash": "0901dbf1fd8615a8bb614ba87c405240524fedb6938bc9cc4a049285776c1bc5",
 			"description": "hide your entity when under people"
 		},
@@ -116,7 +116,7 @@
 			"name": "detachedcamera.jar",
 			"plugins": ["net.runelite.client.plugins.detachedcamera.DCPlugin"],
 			"version": "0.01",
-			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/detachedcamera.jar",
+			"path": "https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/detachedcamera.jar",
 			"hash": "07bae0c4e070cf851ad4bb6f5c246c7d9482c76535afd88ad0e19389e32d992a",
 			"description": "dynamically enable/disable the detached camera"
 		},
@@ -124,7 +124,7 @@
 			"name": "autotyper.jar",
 			"plugins": ["net.runelite.client.plugins.autotyper.AutoTyperPlugin"],
 			"version": "0.01",
-			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/autotyper.jar",
+			"path": "https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/autotyper.jar",
 			"hash": "2bd0299b4b7dcb42b678f7d03b02f5d0d5a468365761daf90e58d94022539635",
 			"description": "auto type preset messages, USE AT YOUR OWN DISCRETION"
 		},
@@ -132,7 +132,7 @@
 			"name": "mouseovertext.jar",
 			"plugins": ["net.runelite.client.plugins.mouseovertext.MouseOverTextPlugin"],
 			"version": "0.01",
-			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/mouseovertext.jar",
+			"path": "https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/mouseovertext.jar",
 			"hash": "fd5948022e925b172c4b417fc1a12d512b66d2f81fa3a2b486cd04952bf9b546",
 			"description": "toggles the ::mouseovertext command on login/post-hop"
 		},
@@ -140,7 +140,7 @@
 			"name": "specinfobox.jar",
 			"plugins": ["net.runelite.client.plugins.specinfobox.SpecIBPlugin"],
 			"version": "0.01",
-			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/specinfobox.jar",
+			"path": "https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/specinfobox.jar",
 			"hash": "569a7620fae6f44163a4f362cb86b91f1ad9a7015eb4bab6caa9eed2f7a2553f",
 			"description": "displays an infobox when you can spec based on a threshold you set"
 		},
@@ -148,7 +148,7 @@
 			"name": "tempoross.jar",
 			"plugins": ["net.runelite.client.plugins.tempoross.TemporossPlugin"],
 			"version": "0.03",
-			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/tempoross.jar",
+			"path": "https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/tempoross.jar",
 			"hash": "c231f7fc452dd2c23a89b65262a2fb3b114c8cda7b056c3570a9add11cfd2333",
 			"description": "all-in-one plugin to aid you through tempoross"
 		},
@@ -156,7 +156,7 @@
 			"name": "grotesqueguardians.jar",
 			"plugins": ["net.runelite.client.plugins.zgrotesqueguardians.zGrotesqueGuardiansPlugin"],
 			"version": "0.04",
-			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/grotesqueguardians.jar",
+			"path": "https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/grotesqueguardians.jar",
 			"hash": "75477262b99e8e25b99a930a5343ecb1e8d4a14d7acb50c8f4b02314651fa7eb",
 			"description": "all-in-one plugin to aid you through grotesque guardians"
 		},
@@ -164,7 +164,7 @@
 			"name": "vorkath.jar",
 			"plugins": ["net.runelite.client.plugins.zvorkath.zVorkathPlugin"],
 			"version": "0.02",
-			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/vorkath.jar",
+			"path": "https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/vorkath.jar",
 			"hash": "882efd2ecbafff0e836da9379b3851b947a237010773632371bb088cdf22a116",
 			"description": "all-in-one plugin to aid you through vorkath"
 		},
@@ -172,7 +172,7 @@
 			"name": "zshaman.jar",
 			"plugins": ["net.runelite.client.plugins.zshaman.ShamenPlugin"],
 			"version": "0.01",
-			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/zshaman.jar",
+			"path": "https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/zshaman.jar",
 			"hash": "73aff194a6b36e979c52d726ff3b40e009e744975ff71ec84d7a6b748f75e4e3",
 			"description": "displays information on lizardman shamans and their spawns"
 		},
@@ -180,7 +180,7 @@
 			"name": "hamstore.jar",
 			"plugins": ["net.runelite.client.plugins.hamstore.HamStorePlugin"],
 			"version": "0.01",
-			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/hamstore.jar",
+			"path": "https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/hamstore.jar",
 			"hash": "7910bf5ee834b6ae171ec3085df9c3d6c65e7ab2b15add384c44162248e4e1df",
 			"description": "assists you in the ham store room with highlights and mes"
 		},
@@ -188,7 +188,7 @@
 			"name": "shayzieninfirmary.jar",
 			"plugins": ["net.runelite.client.plugins.shayzieninfirmary.ShayzienPlugin"],
 			"version": "0.02",
-			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/shayzieninfirmary.jar",
+			"path": "https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/shayzieninfirmary.jar",
 			"hash": "6fe996797aeea303b52b4882494426a9d8bb3c09f30f6a8603e3cb03d7bf6f7e",
 			"description": "displays the status of the soldiers inside the shayzien infirmary"
 		},
@@ -196,7 +196,7 @@
 			"name": "developertools.jar",
 			"plugins": ["net.runelite.client.plugins.developertools.ToolsPlugin"],
 			"version": "0.03",
-			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/developertools.jar",
+			"path": "https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/developertools.jar",
 			"hash": "216d81b42d1017911d28b14bcdf172e641f48cf951a105d9b41219e280260482",
 			"description": "extra tools to assist in developing/debugging"
 		},
@@ -204,15 +204,15 @@
 			"name": "olmadditions.jar",
 			"plugins": ["net.runelite.client.plugins.zolmadditions.zOlmPlugin"],
 			"version": "0.01",
-			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/olmadditions.jar",
+			"path": "https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/olmadditions.jar",
 			"hash": "27be67c27d06f4228df56bb53108e99480658541a1000e772c026b677d724a9e",
-			"description": "tools to aid you in the great olm fight"
+			"description": "NOTE: disable split timers in config it will crash your client when on. Tools to aid you in the great olm fight"
 		},
 		{
 			"name": "killsperhour.jar",
 			"plugins": ["net.runelite.client.plugins.killsperhour.KphPlugin"],
 			"version": "0.02",
-			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/killsperhour.jar",
+			"path": "https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/killsperhour.jar",
 			"hash": "ac5049fb709f2081db486ca8859a8d86cc7407a7ced15ff49c4be3428a58adf8",
 			"description": "tracks your kills per hour at pvm bosses"
 		},
@@ -220,7 +220,7 @@
 			"name": "demonicgorilla.jar",
 			"plugins": ["net.runelite.client.plugins.demonicgorilla.DemonicGorillaPlugin"],
 			"version": "0.02",
-			"path": "https://github.com/losingticks/plugin-releases/raw/main/releases/demonicgorilla.jar",
+			"path": "https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/demonicgorilla.jar",
 			"hash": "0462aac4a98fdd0802cb65950a615e6dec38ec4d44bde12d34eab021ddd4f50f",
 			"description": "count demonic gorilla attacks and display their next possible attack styles"
 		}
