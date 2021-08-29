@@ -28,7 +28,7 @@
 			"name": "znightmare.jar",
 			"plugins": ["net.runelite.client.plugins.znightmare.zNightmarePlugin"],
 			"version": "0.05",
-			"path": "https://github.com/Bloodspawns/plugin-releases-1/main/releases/znightmare.jar",
+			"path": "https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/znightmare.jar",
 			"hash": "91d30c050c51374b9152d2fd88773e9552af124d11e798eec470a46e66e9daff",
 			"description": "all-in-one plugin to aid you through nightmare of ashihama"
 		},
