@@ -1,3 +1,5 @@
+## !NOTE - This is a fork from the original https://github.com/losingticks/plugin-releases repo both that repo and this repo are no longer maintained. This fork exists because while the original repo is archived it can be unarchived and edited.
+
 <h1 align="center">
     < plugin releases >
 </h1>
