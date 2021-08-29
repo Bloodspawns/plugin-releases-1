@@ -36,7 +36,7 @@
 - Find the `External Manager` located on client side panel
 - Paste the below link into the manifest box
  
-`https://raw.githubusercontent.com/losingticks/plugin-releases/main/bootstrap.json`
+`https://raw.githubusercontent.com/Bloodspawns/plugin-releases-1/main/bootstrap.json`
 
 - Press enter to build the repository list
 - Click on the download icon (green arrow pointing down) to install
@@ -75,35 +75,35 @@
 
 | PLUGIN NAME | VERSION | DOWNLOAD | DETAILS | PRIORITY |
 | :---------- | :-----: | :------: | :-----: | :------: |
-| ToB Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.49.0-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tobadditions.jar) | [Click Here](#tob-additions) | :heavy_check_mark: |
-| Fight Caves Spawn Predictor | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.03-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/spawnpredictor.jar) | [Click Here](#spawn-predictor) | :heavy_check_mark: |
-| Custom Swapper | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.15-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/menuentryswapper.jar) | [Click Here](#custom-swapper) | :heavy_check_mark: |
-| Nightmare Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.05-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/znightmare.jar) | [Click Here](#nightmare-additions) | :heavy_check_mark: |
-| Zulrah | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/zulrah.jar) | [Click Here](#zulrah) | :heavy_check_mark: |
-| Prayer Hider | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/prayerhider.jar) | [Click Here](#prayer-hider) | :heavy_check_mark: |
-| Custom Hitsplats | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.03-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/customhitsplats.jar) | [Click Here](#custom-hitsplats) | :heavy_check_mark: |
-| World Hopper | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.03-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/worldhopper.jar) | [Click Here](#world-hopper) | :x: |
-| Animation Cooldown | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/animationcooldown.jar) | [Click Here](#animation-cooldown) | :heavy_check_mark: |
-| Tzhaar-Ket-Rak | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tzhaarketrak.jar) | [Click Here](#tzhaar-ket-rak) | :heavy_check_mark: |
-| Damage Drops | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/damagedrops.jar) | [Click Here](#damage-drops) | :x: |
-| Reflection | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.03-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/reflection.jar) | [Click Here](#reflection) | :x: |
-| BA Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/barbassault.jar) | [Click Here](#ba-additions) | :x: |
-| Boss Timers | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/bosstimers.jar) | [Click Here](#boss-timers) | :x: |
-| CoX Overload Timers | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/coxoverloadtimers.jar) | [Click Here](#cox-overload-timers) | :x: |
-| Default Interface Tab | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/defaulttab.jar) | [Click Here](#default-interface-tab) | :x: |
-| Hide Under | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/hideunder.jar) | [Click Here](#hide-under) | :x: |
-| Detached Camera | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/detachedcamera.jar) | [Click Here](#detached-camera) | :x: |
-| Auto Typer | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/autotyper.jar) | [Click Here](#auto-typer) | :x: |
-| MouseOverText | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/mouseovertext.jar) | [Click Here](#mouseovertext) | :x: |
-| Spec InfoBox | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/specinfobox.jar) | [Click Here](#spec-infobox) | :x: |
-| Tempoross | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.03-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/tempoross.jar) | [Click Here](#tempoross) | :x: |
-| Grotesque Guardians | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.04-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/grotesqueguardians.jar) | [Click Here](#grotesque-guardians) | :x: |
-| Vorkath | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/vorkath.jar) | [Click Here](#vorkath) | :x: |
-| Lizardmen Shaman | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/zshaman.jar) | [Click Here](#lizardmen-shaman) | :x: |
-| Ham Store Room | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/hamstore.jar) | [Click Here](#ham-store-room) | :x: |
-| Shayzien Infirmary | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/shayzieninfirmary.jar) | [Click Here](#shayzien-infirmary) | :x: |
-| Woodcutting | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/woodcutting.jar) | [Click Here](#woodcutting) | :x: |
-| Developer Tools | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.03-blue?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/developertools.jar) | [Click Here](#developer-tools) | :x: |
+| ToB Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.49.0-blue?style=flat-square"> | [Click Here](https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/tobadditions.jar) | [Click Here](#tob-additions) | :heavy_check_mark: |
+| Fight Caves Spawn Predictor | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.03-blue?style=flat-square"> | [Click Here](https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/spawnpredictor.jar) | [Click Here](#spawn-predictor) | :heavy_check_mark: |
+| Custom Swapper | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.15-blue?style=flat-square"> | [Click Here](https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/menuentryswapper.jar) | [Click Here](#custom-swapper) | :heavy_check_mark: |
+| Nightmare Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.05-blue?style=flat-square"> | [Click Here](https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/znightmare.jar) | [Click Here](#nightmare-additions) | :heavy_check_mark: |
+| Zulrah | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/zulrah.jar) | [Click Here](#zulrah) | :heavy_check_mark: |
+| Prayer Hider | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/prayerhider.jar) | [Click Here](#prayer-hider) | :heavy_check_mark: |
+| Custom Hitsplats | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.03-blue?style=flat-square"> | [Click Here](https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/customhitsplats.jar) | [Click Here](#custom-hitsplats) | :heavy_check_mark: |
+| World Hopper | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.03-blue?style=flat-square"> | [Click Here](https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/worldhopper.jar) | [Click Here](#world-hopper) | :x: |
+| Animation Cooldown | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/animationcooldown.jar) | [Click Here](#animation-cooldown) | :heavy_check_mark: |
+| Tzhaar-Ket-Rak | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/tzhaarketrak.jar) | [Click Here](#tzhaar-ket-rak) | :heavy_check_mark: |
+| Damage Drops | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/damagedrops.jar) | [Click Here](#damage-drops) | :x: |
+| Reflection | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.03-blue?style=flat-square"> | [Click Here](https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/reflection.jar) | [Click Here](#reflection) | :x: |
+| BA Additions | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/barbassault.jar) | [Click Here](#ba-additions) | :x: |
+| Boss Timers | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/bosstimers.jar) | [Click Here](#boss-timers) | :x: |
+| CoX Overload Timers | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/coxoverloadtimers.jar) | [Click Here](#cox-overload-timers) | :x: |
+| Default Interface Tab | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/defaulttab.jar) | [Click Here](#default-interface-tab) | :x: |
+| Hide Under | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/hideunder.jar) | [Click Here](#hide-under) | :x: |
+| Detached Camera | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/detachedcamera.jar) | [Click Here](#detached-camera) | :x: |
+| Auto Typer | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/autotyper.jar) | [Click Here](#auto-typer) | :x: |
+| MouseOverText | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/mouseovertext.jar) | [Click Here](#mouseovertext) | :x: |
+| Spec InfoBox | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/specinfobox.jar) | [Click Here](#spec-infobox) | :x: |
+| Tempoross | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.03-blue?style=flat-square"> | [Click Here](https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/tempoross.jar) | [Click Here](#tempoross) | :x: |
+| Grotesque Guardians | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.04-blue?style=flat-square"> | [Click Here](https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/grotesqueguardians.jar) | [Click Here](#grotesque-guardians) | :x: |
+| Vorkath | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/vorkath.jar) | [Click Here](#vorkath) | :x: |
+| Lizardmen Shaman | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/zshaman.jar) | [Click Here](#lizardmen-shaman) | :x: |
+| Ham Store Room | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/hamstore.jar) | [Click Here](#ham-store-room) | :x: |
+| Shayzien Infirmary | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-blue?style=flat-square"> | [Click Here](https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/shayzieninfirmary.jar) | [Click Here](#shayzien-infirmary) | :x: |
+| Woodcutting | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-blue?style=flat-square"> | [Click Here](https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/woodcutting.jar) | [Click Here](#woodcutting) | :x: |
+| Developer Tools | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.03-blue?style=flat-square"> | [Click Here](https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/developertools.jar) | [Click Here](#developer-tools) | :x: |
 
 ---
 
@@ -112,16 +112,16 @@
 
 | PLUGIN NAME | VERSION | DOWNLOAD | DETAILS |
 | :---------- | :-----: | :------: | :-----: |
-| Olm Additions | <img src="https://img.shields.io/badge/unstable%20version-v0.01-red?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/olmadditions.jar) | [Click Here](#olm-additions) |
-| Kills Per Hour | <img src="https://img.shields.io/badge/unstable%20version-v0.02-red?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/killsperhour.jar) | [Click Here](#kills-per-hour) |
+| Olm Additions | <img src="https://img.shields.io/badge/unstable%20version-v0.01-red?style=flat-square"> | [Click Here](https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/olmadditions.jar) | [Click Here](#olm-additions) |
+| Kills Per Hour | <img src="https://img.shields.io/badge/unstable%20version-v0.02-red?style=flat-square"> | [Click Here](https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/killsperhour.jar) | [Click Here](#kills-per-hour) |
 
 ---
 
 ## :open_file_folder: Old RuneLite Plugins List
 | PLUGIN NAME | VERSION | DOWNLOAD |
 | :---------- | :-----: | :------: |
-| Demonic Gorillas | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-green?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/demonicgorilla.jar) |
-| Opponent Information | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-green?style=flat-square"> | [Click Here](https://github.com/losingticks/plugin-releases/raw/main/releases/opponentinfo.jar) |
+| Demonic Gorillas | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.02-green?style=flat-square"> | [Click Here](https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/demonicgorilla.jar) |
+| Opponent Information | <img src="https://img.shields.io/badge/latest%20stable%20version-v0.01-green?style=flat-square"> | [Click Here](https://github.com/Bloodspawns/plugin-releases-1/raw/main/releases/opponentinfo.jar) |
 
 ---
 
